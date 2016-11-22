@@ -2,6 +2,12 @@
 
 An image set of head-shots of FT Journalists for use with bylines.
 
+- [Usage](#usage)
+- [Adding or modifying headshots](#adding-or-modifying-headshots)
+- [Contact](#contact)
+- [Licence](#licence)
+
+
 ## Usage
 
 As with all image sets, these are available via the [Image Service](https://www.ft.com/__origami/service/image/v2).
@@ -32,10 +38,13 @@ To keep head-shots consistent, please follow these guidelines:
 
 **Please do not delete head-shots without talking to the Origami team who will need to manage the deprecation process**
 
----
-## Questions or comments?
+----
 
-Please [raise an issue](https://github.com/financial-times/social-images/issues), or Internal FT users can contact us via [#ft-origami in Slack](https://financialtimes.slack.com/messages/ft-origami/).
+## Contact
+
+If you have any questions or comments about this component, or need help using it, please either [raise an issue](https://github.com/Financial-Times/o-component-boilerplate/issues), visit [#ft-origami](https://financialtimes.slack.com/messages/ft-origami/) or email [Origami Support](mailto:origami-support@ft.com).
+
+----
 
 ## Licence
 
