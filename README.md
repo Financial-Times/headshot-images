@@ -31,6 +31,7 @@ To keep head-shots consistent, please follow these guidelines:
 
 - Head-shots must be in PNG format
 - Head-shots must be cut out against a transparent background
+- Head-shots must be square
 - Head-shots should be as high quality as possible (the Image Service will resize them for the appropriate use case)
 - Head-shots must be named as the person they represent. Filenames must be all lower-case hyphenated.
 	- **good**: robert-shrimsley.png, merynn-somerset-webb.png, sarah-o-connor.png
