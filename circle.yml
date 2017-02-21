@@ -10,7 +10,6 @@ deployment:
           git commit imageList.json -m 'Updating imageList.json [ci skip]';
           git push origin master;
         fi
-deployment:
   publish-imageset:
     tag: /v.*/
     owner: Financial-Times
