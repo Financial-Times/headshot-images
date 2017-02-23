@@ -1,1 +1,521 @@
-{}
+{
+	"sourceDirectory": "src",
+	"scheme": "fthead",
+	"images": [
+		{
+			"name": "adam-posen",
+			"extension": "png",
+			"path": "src/adam-posen.png"
+		},
+		{
+			"name": "ahmed-rashid",
+			"extension": "png",
+			"path": "src/ahmed-rashid.png"
+		},
+		{
+			"name": "alan-greenspan",
+			"extension": "png",
+			"path": "src/alan-greenspan.png"
+		},
+		{
+			"name": "alexandra-scaggs",
+			"extension": "png",
+			"path": "src/alexandra-scaggs.png"
+		},
+		{
+			"name": "andrew-hill",
+			"extension": "png",
+			"path": "src/andrew-hill.png"
+		},
+		{
+			"name": "andrew-mcafee",
+			"extension": "png",
+			"path": "src/andrew-mcafee.png"
+		},
+		{
+			"name": "andrew-smithers",
+			"extension": "png",
+			"path": "src/andrew-smithers.png"
+		},
+		{
+			"name": "anjana-ahuja",
+			"extension": "png",
+			"path": "src/anjana-ahuja.png"
+		},
+		{
+			"name": "anne-marie-slaughter",
+			"extension": "png",
+			"path": "src/anne-marie-slaughter.png"
+		},
+		{
+			"name": "anne-sylvaine-chassany",
+			"extension": "png",
+			"path": "src/anne-sylvaine-chassany.png"
+		},
+		{
+			"name": "ayaan-hirsi-ali",
+			"extension": "png",
+			"path": "src/ayaan-hirsi-ali.png"
+		},
+		{
+			"name": "brian-groom",
+			"extension": "png",
+			"path": "src/brian-groom.png"
+		},
+		{
+			"name": "brooke-masters",
+			"extension": "png",
+			"path": "src/brooke-masters.png"
+		},
+		{
+			"name": "bruce-bartlett",
+			"extension": "png",
+			"path": "src/bruce-bartlett.png"
+		},
+		{
+			"name": "bryce-elder",
+			"extension": "png",
+			"path": "src/bryce-elder.png"
+		},
+		{
+			"name": "cardiff-garcia",
+			"extension": "png",
+			"path": "src/cardiff-garcia.png"
+		},
+		{
+			"name": "caroline-daniels",
+			"extension": "png",
+			"path": "src/caroline-daniels.png"
+		},
+		{
+			"name": "caroline-fiennes",
+			"extension": "png",
+			"path": "src/caroline-fiennes.png"
+		},
+		{
+			"name": "chris-giles",
+			"extension": "png",
+			"path": "src/chris-giles.png"
+		},
+		{
+			"name": "christopher-caldwell",
+			"extension": "png",
+			"path": "src/christopher-caldwell.png"
+		},
+		{
+			"name": "claer-barrett",
+			"extension": "png",
+			"path": "src/claer-barrett.png"
+		},
+		{
+			"name": "dambisa-moyo",
+			"extension": "png",
+			"path": "src/dambisa-moyo.png"
+		},
+		{
+			"name": "dan-mccrum",
+			"extension": "png",
+			"path": "src/dan-mccrum.png"
+		},
+		{
+			"name": "david-gardner",
+			"extension": "png",
+			"path": "src/david-gardner.png"
+		},
+		{
+			"name": "david-keohane",
+			"extension": "png",
+			"path": "src/david-keohane.png"
+		},
+		{
+			"name": "david-pilling",
+			"extension": "png",
+			"path": "src/david-pilling.png"
+		},
+		{
+			"name": "david-stevenson",
+			"extension": "png",
+			"path": "src/david-stevenson.png"
+		},
+		{
+			"name": "david-tang",
+			"extension": "png",
+			"path": "src/david-tang.png"
+		},
+		{
+			"name": "deanne-julius",
+			"extension": "png",
+			"path": "src/deanne-julius.png"
+		},
+		{
+			"name": "diane-coyle",
+			"extension": "png",
+			"path": "src/diane-coyle.png"
+		},
+		{
+			"name": "ed-crooks",
+			"extension": "png",
+			"path": "src/ed-crooks.png"
+		},
+		{
+			"name": "edward-luce",
+			"extension": "png",
+			"path": "src/edward-luce.png"
+		},
+		{
+			"name": "edwin-heathcote",
+			"extension": "png",
+			"path": "src/edwin-heathcote.png"
+		},
+		{
+			"name": "emma-jacobs",
+			"extension": "png",
+			"path": "src/emma-jacobs.png"
+		},
+		{
+			"name": "esther-bintliff",
+			"extension": "png",
+			"path": "src/esther-bintliff.png"
+		},
+		{
+			"name": "frances-coppola",
+			"extension": "png",
+			"path": "src/frances-coppola.png"
+		},
+		{
+			"name": "fyodor-lukyanov",
+			"extension": "png",
+			"path": "src/fyodor-lukyanov.png"
+		},
+		{
+			"name": "gary-silverman",
+			"extension": "png",
+			"path": "src/gary-silverman.png"
+		},
+		{
+			"name": "gavyn-davies",
+			"extension": "png",
+			"path": "src/gavyn-davies.png"
+		},
+		{
+			"name": "george-parker",
+			"extension": "png",
+			"path": "src/george-parker.png"
+		},
+		{
+			"name": "george-soros",
+			"extension": "png",
+			"path": "src/george-soros.png"
+		},
+		{
+			"name": "gideon-rachman",
+			"extension": "png",
+			"path": "src/gideon-rachman.png"
+		},
+		{
+			"name": "gillian-tett",
+			"extension": "png",
+			"path": "src/gillian-tett.png"
+		},
+		{
+			"name": "glenn-hubbard",
+			"extension": "png",
+			"path": "src/glenn-hubbard.png"
+		},
+		{
+			"name": "harry-eyres",
+			"extension": "png",
+			"path": "src/harry-eyres.png"
+		},
+		{
+			"name": "izabella-kaminska",
+			"extension": "png",
+			"path": "src/izabella-kaminska.png"
+		},
+		{
+			"name": "jamil-anderlini",
+			"extension": "png",
+			"path": "src/jamil-anderlini.png"
+		},
+		{
+			"name": "jan-dalley",
+			"extension": "png",
+			"path": "src/jan-dalley.png"
+		},
+		{
+			"name": "janan-ganesh",
+			"extension": "png",
+			"path": "src/janan-ganesh.png"
+		},
+		{
+			"name": "jancis-robinson",
+			"extension": "png",
+			"path": "src/jancis-robinson.png"
+		},
+		{
+			"name": "jennifer-hughes",
+			"extension": "png",
+			"path": "src/jennifer-hughes.png"
+		},
+		{
+			"name": "jo-ellison",
+			"extension": "png",
+			"path": "src/jo-ellison.png"
+		},
+		{
+			"name": "john-authers",
+			"extension": "png",
+			"path": "src/john-authers.png"
+		},
+		{
+			"name": "john-dizard",
+			"extension": "png",
+			"path": "src/john-dizard.png"
+		},
+		{
+			"name": "john-gapper",
+			"extension": "png",
+			"path": "src/john-gapper.png"
+		},
+		{
+			"name": "john-kay",
+			"extension": "png",
+			"path": "src/john-kay.png"
+		},
+		{
+			"name": "john-mcdermott",
+			"extension": "png",
+			"path": "src/john-mcdermott.png"
+		},
+		{
+			"name": "john-plender",
+			"extension": "png",
+			"path": "src/john-plender.png"
+		},
+		{
+			"name": "john-thornhill",
+			"extension": "png",
+			"path": "src/john-thornhill.png"
+		},
+		{
+			"name": "jonathan-eley",
+			"extension": "png",
+			"path": "src/jonathan-eley.png"
+		},
+		{
+			"name": "joseph-cotterill",
+			"extension": "png",
+			"path": "src/joseph-cotterill.png"
+		},
+		{
+			"name": "jurek-martin",
+			"extension": "png",
+			"path": "src/jurek-martin.png"
+		},
+		{
+			"name": "kadhim-shubber",
+			"extension": "png",
+			"path": "src/kadhim-shubber.png"
+		},
+		{
+			"name": "kana-inagaki",
+			"extension": "png",
+			"path": "src/kana-inagaki.png"
+		},
+		{
+			"name": "kate-burgess",
+			"extension": "png",
+			"path": "src/kate-burgess.png"
+		},
+		{
+			"name": "katie-martin",
+			"extension": "png",
+			"path": "src/katie-martin.png"
+		},
+		{
+			"name": "lawrence-summers",
+			"extension": "png",
+			"path": "src/lawrence-summers.png"
+		},
+		{
+			"name": "lionel-barber",
+			"extension": "png",
+			"path": "src/lionel-barber.png"
+		},
+		{
+			"name": "lisa-pollack",
+			"extension": "png",
+			"path": "src/lisa-pollack.png"
+		},
+		{
+			"name": "lucy-kellaway",
+			"extension": "png",
+			"path": "src/lucy-kellaway.png"
+		},
+		{
+			"name": "luke-johnson",
+			"extension": "png",
+			"path": "src/luke-johnson.png"
+		},
+		{
+			"name": "martin-lewis",
+			"extension": "png",
+			"path": "src/martin-lewis.png"
+		},
+		{
+			"name": "martin-sandbu",
+			"extension": "png",
+			"path": "src/martin-sandbu.png"
+		},
+		{
+			"name": "martin-wolf",
+			"extension": "png",
+			"path": "src/martin-wolf.png"
+		},
+		{
+			"name": "matthew-c-klein",
+			"extension": "png",
+			"path": "src/matthew-c-klein.png"
+		},
+		{
+			"name": "matthew-vincent",
+			"extension": "png",
+			"path": "src/matthew-vincent.png"
+		},
+		{
+			"name": "merryn-somerset-webb",
+			"extension": "png",
+			"path": "src/merryn-somerset-webb.png"
+		},
+		{
+			"name": "michael-skapinker",
+			"extension": "png",
+			"path": "src/michael-skapinker.png"
+		},
+		{
+			"name": "mrs-moneypenny",
+			"extension": "png",
+			"path": "src/mrs-moneypenny.png"
+		},
+		{
+			"name": "neil-collins",
+			"extension": "png",
+			"path": "src/neil-collins.png"
+		},
+		{
+			"name": "nick-butler",
+			"extension": "png",
+			"path": "src/nick-butler.png"
+		},
+		{
+			"name": "nigel-andrews",
+			"extension": "png",
+			"path": "src/nigel-andrews.png"
+		},
+		{
+			"name": "nilanjana-roy",
+			"extension": "png",
+			"path": "src/nilanjana-roy.png"
+		},
+		{
+			"name": "patrick-jenkins",
+			"extension": "png",
+			"path": "src/patrick-jenkins.png"
+		},
+		{
+			"name": "patti-waldmeir",
+			"extension": "png",
+			"path": "src/patti-waldmeir.png"
+		},
+		{
+			"name": "paul-murphy",
+			"extension": "png",
+			"path": "src/paul-murphy.png"
+		},
+		{
+			"name": "peter-aspden",
+			"extension": "png",
+			"path": "src/peter-aspden.png"
+		},
+		{
+			"name": "philip-stephens",
+			"extension": "png",
+			"path": "src/philip-stephens.png"
+		},
+		{
+			"name": "robert-shrimsley",
+			"extension": "png",
+			"path": "src/robert-shrimsley.png"
+		},
+		{
+			"name": "robin-lane-fox",
+			"extension": "png",
+			"path": "src/robin-lane-fox.png"
+		},
+		{
+			"name": "roula-khalaf",
+			"extension": "png",
+			"path": "src/roula-khalaf.png"
+		},
+		{
+			"name": "rowley-leigh",
+			"extension": "png",
+			"path": "src/rowley-leigh.png"
+		},
+		{
+			"name": "samuel-brittan",
+			"extension": "png",
+			"path": "src/samuel-brittan.png"
+		},
+		{
+			"name": "sarah-gordon",
+			"extension": "png",
+			"path": "src/sarah-gordon.png"
+		},
+		{
+			"name": "sarah-o-connor",
+			"extension": "png",
+			"path": "src/sarah-o-connor.png"
+		},
+		{
+			"name": "simon-kuper",
+			"extension": "png",
+			"path": "src/simon-kuper.png"
+		},
+		{
+			"name": "simon-munday",
+			"extension": "png",
+			"path": "src/simon-munday.png"
+		},
+		{
+			"name": "susie-boyt",
+			"extension": "png",
+			"path": "src/susie-boyt.png"
+		},
+		{
+			"name": "tim-harford",
+			"extension": "png",
+			"path": "src/tim-harford.png"
+		},
+		{
+			"name": "tony-barber",
+			"extension": "png",
+			"path": "src/tony-barber.png"
+		},
+		{
+			"name": "tyler-brule",
+			"extension": "png",
+			"path": "src/tyler-brule.png"
+		},
+		{
+			"name": "vanessa-friedman",
+			"extension": "png",
+			"path": "src/vanessa-friedman.png"
+		},
+		{
+			"name": "wolfgang-munchau",
+			"extension": "png",
+			"path": "src/wolfgang-munchau.png"
+		}
+	]
+}
