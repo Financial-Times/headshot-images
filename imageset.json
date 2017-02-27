@@ -23,6 +23,11 @@
 			"path": "src/alexandra-scaggs.png"
 		},
 		{
+			"name": "amy-kazmin",
+			"extension": "png",
+			"path": "src/amy-kazmin.png"
+		},
+		{
 			"name": "andrew-hill",
 			"extension": "png",
 			"path": "src/andrew-hill.png"
@@ -96,6 +101,11 @@
 			"name": "chris-giles",
 			"extension": "png",
 			"path": "src/chris-giles.png"
+		},
+		{
+			"name": "chris-newlands",
+			"extension": "png",
+			"path": "src/chris-newlands.png"
 		},
 		{
 			"name": "christopher-caldwell",
