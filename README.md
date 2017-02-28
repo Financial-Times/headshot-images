@@ -32,6 +32,9 @@ To keep head-shots consistent, please follow these guidelines:
 - Head-shots must be in PNG format
 - Head-shots must be cut out against a transparent background
 - Head-shots must be square
+- Head-shots must be colour
+- Head-shots should have some blank space at the top of the shot
+- Head-shots should be mostly of the face, cropped above the shoulder. See [the registry](http://registry.origami.ft.com/components/headshot-images) for examples of this
 - Head-shots should be as high quality as possible (the Image Service will resize them for the appropriate use case)
 - Head-shots must be named as the person they represent. Filenames must be all lower-case hyphenated.
 	- **good**: robert-shrimsley.png, merynn-somerset-webb.png, sarah-o-connor.png
