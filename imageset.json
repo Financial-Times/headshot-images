@@ -393,6 +393,11 @@
 			"path": "src/matthew-c-klein.png"
 		},
 		{
+			"name": "matthew-engel",
+			"extension": "png",
+			"path": "src/matthew-engel.png"
+		},
+		{
 			"name": "matthew-vincent",
 			"extension": "png",
 			"path": "src/matthew-vincent.png"
@@ -506,6 +511,11 @@
 			"name": "susie-boyt",
 			"extension": "png",
 			"path": "src/susie-boyt.png"
+		},
+		{
+			"name": "tim-bradshaw",
+			"extension": "png",
+			"path": "src/tim-bradshaw.png"
 		},
 		{
 			"name": "tim-harford",
