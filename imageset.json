@@ -168,6 +168,11 @@
 			"path": "src/diane-coyle.png"
 		},
 		{
+			"name": "don-ezra",
+			"extension": "png",
+			"path": "src/don-ezra.png"
+		},
+		{
 			"name": "ed-crooks",
 			"extension": "png",
 			"path": "src/ed-crooks.png"
@@ -186,6 +191,11 @@
 			"name": "emma-jacobs",
 			"extension": "png",
 			"path": "src/emma-jacobs.png"
+		},
+		{
+			"name": "eric-platt",
+			"extension": "png",
+			"path": "src/eric-platt.png"
 		},
 		{
 			"name": "esther-bintliff",
