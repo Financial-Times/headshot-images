@@ -203,6 +203,11 @@
 			"path": "src/esther-bintliff.png"
 		},
 		{
+			"name": "federica-cocco",
+			"extension": "png",
+			"path": "src/federica-cocco.png"
+		},
+		{
 			"name": "frances-coppola",
 			"extension": "png",
 			"path": "src/frances-coppola.png"
