@@ -283,6 +283,11 @@
 			"path": "src/jancis-robinson.png"
 		},
 		{
+			"name": "jane-owen",
+			"extension": "png",
+			"path": "src/jane-owen.png"
+		},
+		{
 			"name": "jennifer-hughes",
 			"extension": "png",
 			"path": "src/jennifer-hughes.png"
