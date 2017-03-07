@@ -288,6 +288,11 @@
 			"path": "src/jane-owen.png"
 		},
 		{
+			"name": "jason-butler",
+			"extension": "png",
+			"path": "src/jason-butler.png"
+		},
+		{
 			"name": "jennifer-hughes",
 			"extension": "png",
 			"path": "src/jennifer-hughes.png"
