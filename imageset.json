@@ -473,6 +473,11 @@
 			"path": "src/patti-waldmeir.png"
 		},
 		{
+			"name": "paul-lewis",
+			"extension": "png",
+			"path": "src/paul-lewis.png"
+		},
+		{
 			"name": "paul-murphy",
 			"extension": "png",
 			"path": "src/paul-murphy.png"
