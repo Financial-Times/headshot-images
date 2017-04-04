@@ -403,6 +403,11 @@
 			"path": "src/maika-currie.png"
 		},
 		{
+			"name": "maike-currie",
+			"extension": "png",
+			"path": "src/maike-currie.png"
+		},
+		{
 			"name": "martin-lewis",
 			"extension": "png",
 			"path": "src/martin-lewis.png"
