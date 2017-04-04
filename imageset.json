@@ -398,6 +398,11 @@
 			"path": "src/luke-johnson.png"
 		},
 		{
+			"name": "maika-currie",
+			"extension": "png",
+			"path": "src/maika-currie.png"
+		},
+		{
 			"name": "martin-lewis",
 			"extension": "png",
 			"path": "src/martin-lewis.png"
