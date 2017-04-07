@@ -398,11 +398,6 @@
 			"path": "src/luke-johnson.png"
 		},
 		{
-			"name": "maika-currie",
-			"extension": "png",
-			"path": "src/maika-currie.png"
-		},
-		{
 			"name": "maike-currie",
 			"extension": "png",
 			"path": "src/maike-currie.png"
@@ -506,6 +501,11 @@
 			"name": "rana-foroohar",
 			"extension": "png",
 			"path": "src/rana-foroohar.png"
+		},
+		{
+			"name": "rebecca-rose",
+			"extension": "png",
+			"path": "src/rebecca-rose.png"
 		},
 		{
 			"name": "robert-shrimsley",
