@@ -343,6 +343,11 @@
 			"path": "src/jonathan-eley.png"
 		},
 		{
+			"name": "jonathan-ford",
+			"extension": "png",
+			"path": "src/jonathan-ford.png"
+		},
+		{
 			"name": "joseph-cotterill",
 			"extension": "png",
 			"path": "src/joseph-cotterill.png"
@@ -508,6 +513,11 @@
 			"path": "src/rebecca-rose.png"
 		},
 		{
+			"name": "richard-waters",
+			"extension": "png",
+			"path": "src/richard-waters.png"
+		},
+		{
 			"name": "robert-shrimsley",
 			"extension": "png",
 			"path": "src/robert-shrimsley.png"
@@ -541,6 +551,11 @@
 			"name": "sarah-o-connor",
 			"extension": "png",
 			"path": "src/sarah-o-connor.png"
+		},
+		{
+			"name": "sebastian-payne",
+			"extension": "png",
+			"path": "src/sebastian-payne.png"
 		},
 		{
 			"name": "simon-kuper",
