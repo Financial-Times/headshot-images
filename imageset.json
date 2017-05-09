@@ -338,6 +338,11 @@
 			"path": "src/john-plender.png"
 		},
 		{
+			"name": "john-redwood",
+			"extension": "png",
+			"path": "src/john-redwood.png"
+		},
+		{
 			"name": "john-thornhill",
 			"extension": "png",
 			"path": "src/john-thornhill.png"
