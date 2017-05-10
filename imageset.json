@@ -433,6 +433,11 @@
 			"path": "src/martin-wolf.png"
 		},
 		{
+			"name": "matt-singh",
+			"extension": "png",
+			"path": "src/matt-singh.png"
+		},
+		{
 			"name": "matthew-c-klein",
 			"extension": "png",
 			"path": "src/matthew-c-klein.png"
