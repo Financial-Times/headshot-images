@@ -253,6 +253,11 @@
 			"path": "src/glenn-hubbard.png"
 		},
 		{
+			"name": "hannah-kuchler",
+			"extension": "png",
+			"path": "src/hannah-kuchler.png"
+		},
+		{
 			"name": "harry-eyres",
 			"extension": "png",
 			"path": "src/harry-eyres.png"
