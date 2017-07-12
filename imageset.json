@@ -413,6 +413,11 @@
 			"path": "src/lucy-kellaway.png"
 		},
 		{
+			"name": "lucy-warwick-ching",
+			"extension": "png",
+			"path": "src/lucy-warwick-ching.png"
+		},
+		{
 			"name": "luke-johnson",
 			"extension": "png",
 			"path": "src/luke-johnson.png"
