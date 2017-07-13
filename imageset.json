@@ -263,6 +263,11 @@
 			"path": "src/harry-eyres.png"
 		},
 		{
+			"name": "henny-sender",
+			"extension": "png",
+			"path": "src/henny-sender.png"
+		},
+		{
 			"name": "izabella-kaminska",
 			"extension": "png",
 			"path": "src/izabella-kaminska.png"
