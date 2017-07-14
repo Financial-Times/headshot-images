@@ -463,6 +463,11 @@
 			"path": "src/matthew-engel.png"
 		},
 		{
+			"name": "matthew-garrahan",
+			"extension": "png",
+			"path": "src/matthew-garrahan.png"
+		},
+		{
 			"name": "matthew-vincent",
 			"extension": "png",
 			"path": "src/matthew-vincent.png"
@@ -476,6 +481,11 @@
 			"name": "michael-skapinker",
 			"extension": "png",
 			"path": "src/michael-skapinker.png"
+		},
+		{
+			"name": "miles-johnson",
+			"extension": "png",
+			"path": "src/miles-johnson.png"
 		},
 		{
 			"name": "mrs-moneypenny",
