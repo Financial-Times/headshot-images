@@ -488,6 +488,11 @@
 			"path": "src/miles-johnson.png"
 		},
 		{
+			"name": "miranda-green",
+			"extension": "png",
+			"path": "src/miranda-green.png"
+		},
+		{
 			"name": "mrs-moneypenny",
 			"extension": "png",
 			"path": "src/mrs-moneypenny.png"
