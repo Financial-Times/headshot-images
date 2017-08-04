@@ -618,6 +618,11 @@
 			"path": "src/susie-boyt.png"
 		},
 		{
+			"name": "terry-smith",
+			"extension": "png",
+			"path": "src/terry-smith.png"
+		},
+		{
 			"name": "tim-bradshaw",
 			"extension": "png",
 			"path": "src/tim-bradshaw.png"
