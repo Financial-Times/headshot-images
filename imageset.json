@@ -278,6 +278,11 @@
 			"path": "src/james-fontanella-khan.png"
 		},
 		{
+			"name": "james-max",
+			"extension": "png",
+			"path": "src/james-max.png"
+		},
+		{
 			"name": "jamil-anderlini",
 			"extension": "png",
 			"path": "src/jamil-anderlini.png"
