@@ -408,6 +408,11 @@
 			"path": "src/lawrence-summers.png"
 		},
 		{
+			"name": "leslie-hook",
+			"extension": "png",
+			"path": "src/leslie-hook.png"
+		},
+		{
 			"name": "lionel-barber",
 			"extension": "png",
 			"path": "src/lionel-barber.png"
