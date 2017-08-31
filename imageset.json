@@ -563,6 +563,11 @@
 			"path": "src/philip-stephens.png"
 		},
 		{
+			"name": "pilita-clark",
+			"extension": "png",
+			"path": "src/pilita-clark.png"
+		},
+		{
 			"name": "rana-foroohar",
 			"extension": "png",
 			"path": "src/rana-foroohar.png"
