@@ -123,6 +123,11 @@
 			"path": "src/claer-barrett.png"
 		},
 		{
+			"name": "courtney-weaver",
+			"extension": "png",
+			"path": "src/courtney-weaver.png"
+		},
+		{
 			"name": "dambisa-moyo",
 			"extension": "png",
 			"path": "src/dambisa-moyo.png"
