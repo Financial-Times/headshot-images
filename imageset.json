@@ -273,6 +273,11 @@
 			"path": "src/henny-sender.png"
 		},
 		{
+			"name": "henry-mance",
+			"extension": "png",
+			"path": "src/henry-mance.png"
+		},
+		{
 			"name": "izabella-kaminska",
 			"extension": "png",
 			"path": "src/izabella-kaminska.png"
@@ -411,6 +416,11 @@
 			"name": "lawrence-summers",
 			"extension": "png",
 			"path": "src/lawrence-summers.png"
+		},
+		{
+			"name": "leo-lewis",
+			"extension": "png",
+			"path": "src/leo-lewis.png"
 		},
 		{
 			"name": "leslie-hook",
