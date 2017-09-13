@@ -68,6 +68,11 @@
 			"path": "src/anne-sylvaine-chassany.png"
 		},
 		{
+			"name": "arash-massoudi",
+			"extension": "png",
+			"path": "src/arash-massoudi.png"
+		},
+		{
 			"name": "ayaan-hirsi-ali",
 			"extension": "png",
 			"path": "src/ayaan-hirsi-ali.png"
@@ -616,6 +621,11 @@
 			"name": "robert-shrimsley",
 			"extension": "png",
 			"path": "src/robert-shrimsley.png"
+		},
+		{
+			"name": "robin-harding",
+			"extension": "png",
+			"path": "src/robin-harding.png"
 		},
 		{
 			"name": "robin-lane-fox",
