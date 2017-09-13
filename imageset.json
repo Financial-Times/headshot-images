@@ -423,6 +423,11 @@
 			"path": "src/katie-martin.png"
 		},
 		{
+			"name": "ken-fisher",
+			"extension": "png",
+			"path": "src/ken-fisher.png"
+		},
+		{
 			"name": "lawrence-summers",
 			"extension": "png",
 			"path": "src/lawrence-summers.png"
