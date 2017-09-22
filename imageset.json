@@ -698,6 +698,11 @@
 			"path": "src/tim-harford.png"
 		},
 		{
+			"name": "tom-braithwaite",
+			"extension": "png",
+			"path": "src/tom-braithwaite.png"
+		},
+		{
 			"name": "tony-barber",
 			"extension": "png",
 			"path": "src/tony-barber.png"
