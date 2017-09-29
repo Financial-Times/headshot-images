@@ -298,6 +298,11 @@
 			"path": "src/james-fontanella-khan.png"
 		},
 		{
+			"name": "james-kynge",
+			"extension": "png",
+			"path": "src/james-kynge.png"
+		},
+		{
 			"name": "james-max",
 			"extension": "png",
 			"path": "src/james-max.png"
