@@ -643,6 +643,11 @@
 			"path": "src/robin-lane-fox.png"
 		},
 		{
+			"name": "robin-wigglesworth",
+			"extension": "png",
+			"path": "src/robin-wigglesworth.png"
+		},
+		{
 			"name": "roula-khalaf",
 			"extension": "png",
 			"path": "src/roula-khalaf.png"
