@@ -403,6 +403,11 @@
 			"path": "src/joseph-cotterill.png"
 		},
 		{
+			"name": "jude-webber",
+			"extension": "png",
+			"path": "src/jude-webber.png"
+		},
+		{
 			"name": "jurek-martin",
 			"extension": "png",
 			"path": "src/jurek-martin.png"
