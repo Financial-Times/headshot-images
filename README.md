@@ -3,7 +3,7 @@
 An image set of head-shots of FT Journalists for use with bylines.
 
 - [Usage](#usage)
-- [Adding or modifying headshots](#adding-or-modifying-headshots)
+- [Adding or modifying head-shots](#adding-or-modifying-head-shots)
 - [Contact](#contact)
 - [Licence](#licence)
 
@@ -21,26 +21,27 @@ So to get Robert Shrimsley:
 
 The source file for these images are all very large, so it's a good idea to pass in the width parameter to get the width you need.
 
-### Getting these headshots in a different colour/format/size
+### Getting these head-shots in a different colour/format/size
 
 The Image Service will convert these images on the fly if you pass in the right parameters. To find out more about this, please see the [Image Service documentation](https://www.ft.com/__origami/service/image/v2/docs/api)
 
-## Adding or modifying headshots
+## Adding or modifying head-shots
 
-To keep head-shots consistent, please follow these guidelines:
+The head-shots are stored in a different git repository in order to keep this repository small in regards to filesize.
 
-- Head-shots must be in PNG format
-- Head-shots must be cut out against a transparent background
-- Head-shots must be square
-- Head-shots must be colour
-- Head-shots should have some blank space at the top of the shot
-- Head-shots should be mostly of the face, cropped above the shoulder. See [the registry](http://registry.origami.ft.com/components/headshot-images) for examples of this
-- Head-shots should be as high quality as possible (the Image Service will resize them for the appropriate use case)
-- Head-shots must be named as the person they represent. Filenames must be all lower-case hyphenated.
-	- **good**: robert-shrimsley.png, merynn-somerset-webb.png, sarah-o-connor.png
-	- **bad**: SarahO'Connor.png, NigelAndrews.png, robertshrimsley.png
+Please head over to [head-shot images repository](https://www.example.com) and complete the steps.
 
-**Please do not delete head-shots without talking to the Origami team who will need to manage the deprecation process**
+Once the image has been added, updated, or removed from the [head-shot images repository](https://www.example.com), follow these steps:
+
+- Clone this repository - `git clone git@github.com:Financial-Times/headshot-images.git && cd headshot-images`
+- Create a new branch - `git checkout -b update`
+- Install the dependencies - `npm install`
+- Build a new `imageset.json` file - `npm run update`
+- Push the changes to GitHub - `git push origin update`
+- Make a pull-request with the changes - [create pull-request](https://github.com/Financial-Times/headshot-images/compare/update?expand=1)
+- Get pull-request reviewed and merged by a member of the Origami team
+- Make a GitHub release with a tag in the form of `vX.Y.Z`, where `X`, `Y`, and `Z` are numbers - [create new release](https://github.com/Financial-Times/headshot-images/releases/new)
+- There are no more steps
 
 ----
 
