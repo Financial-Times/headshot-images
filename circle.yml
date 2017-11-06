@@ -7,6 +7,7 @@ deployment:
     tag: /v.*/
     owner: Financial-Times
     commands:
+      - git submodule init && git submodule update --remote
       - ./node_modules/.bin/oist publish-s3 --bucket origami-imageset-data-eu --scheme fthead --scheme-version $CIRCLE_TAG
       - ./node_modules/.bin/oist publish-s3 --bucket origami-imageset-data-us --scheme fthead --scheme-version $CIRCLE_TAG
 test:
