@@ -343,6 +343,11 @@
 			"path": "src/jennifer-hughes.png"
 		},
 		{
+			"name": "jenny-lee",
+			"extension": "png",
+			"path": "src/jenny-lee.png"
+		},
+		{
 			"name": "jo-ellison",
 			"extension": "png",
 			"path": "src/jo-ellison.png"
@@ -403,6 +408,11 @@
 			"path": "src/joseph-cotterill.png"
 		},
 		{
+			"name": "jude-webber",
+			"extension": "png",
+			"path": "src/jude-webber.png"
+		},
+		{
 			"name": "jurek-martin",
 			"extension": "png",
 			"path": "src/jurek-martin.png"
@@ -426,6 +436,11 @@
 			"name": "katie-martin",
 			"extension": "png",
 			"path": "src/katie-martin.png"
+		},
+		{
+			"name": "keith-fray",
+			"extension": "png",
+			"path": "src/keith-fray.png"
 		},
 		{
 			"name": "ken-fisher",
@@ -641,6 +656,11 @@
 			"name": "robin-lane-fox",
 			"extension": "png",
 			"path": "src/robin-lane-fox.png"
+		},
+		{
+			"name": "robin-wigglesworth",
+			"extension": "png",
+			"path": "src/robin-wigglesworth.png"
 		},
 		{
 			"name": "roula-khalaf",
