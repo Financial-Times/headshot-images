@@ -29,7 +29,7 @@ The Image Service will convert these images on the fly if you pass in the right 
 
 The head-shots are stored in a different git repository in order to keep this repository small in regards to filesize.
 
-Please head over to [head-shot images repository](https://www.example.com) and complete the steps.
+Please head over to [head-shot images repository](https://github.com/financial-times/ftheadshots) and complete the steps.
 
 Once the image has been added, updated, or removed from the [head-shot images repository](https://www.example.com), follow these steps:
 
