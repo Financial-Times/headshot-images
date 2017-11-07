@@ -25,7 +25,7 @@ The source file for these images are all very large, so it's a good idea to pass
 
 The Image Service will convert these images on the fly if you pass in the right parameters. To find out more about this, please see the [Image Service documentation](https://www.ft.com/__origami/service/image/v2/docs/api)
 
-## Adding or modifying head-shots
+## Adding or modifying head-shots
 
 The head-shots are stored in a different git repository in order to keep this repository small in regards to filesize.
 
