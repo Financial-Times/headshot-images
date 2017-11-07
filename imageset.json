@@ -653,6 +653,11 @@
 			"path": "src/robin-harding.png"
 		},
 		{
+			"name": "robin-kwong",
+			"extension": "png",
+			"path": "src/robin-kwong.png"
+		},
+		{
 			"name": "robin-lane-fox",
 			"extension": "png",
 			"path": "src/robin-lane-fox.png"
