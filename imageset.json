@@ -78,6 +78,11 @@
 			"path": "src/ayaan-hirsi-ali.png"
 		},
 		{
+			"name": "ben-mclannahan",
+			"extension": "png",
+			"path": "src/ben-mclannahan.png"
+		},
+		{
 			"name": "brian-groom",
 			"extension": "png",
 			"path": "src/brian-groom.png"
@@ -163,6 +168,11 @@
 			"path": "src/david-pilling.png"
 		},
 		{
+			"name": "david-sheppard",
+			"extension": "png",
+			"path": "src/david-sheppard.png"
+		},
+		{
 			"name": "david-stevenson",
 			"extension": "png",
 			"path": "src/david-stevenson.png"
@@ -226,6 +236,11 @@
 			"name": "frances-coppola",
 			"extension": "png",
 			"path": "src/frances-coppola.png"
+		},
+		{
+			"name": "frederick-studemann",
+			"extension": "png",
+			"path": "src/frederick-studemann.png"
 		},
 		{
 			"name": "fyodor-lukyanov",
@@ -481,6 +496,11 @@
 			"name": "lucy-warwick-ching",
 			"extension": "png",
 			"path": "src/lucy-warwick-ching.png"
+		},
+		{
+			"name": "ludovic-hunter-tilney",
+			"extension": "png",
+			"path": "src/ludovic-hunter-tilney.png"
 		},
 		{
 			"name": "luke-johnson",
@@ -741,6 +761,11 @@
 			"name": "tyler-brule",
 			"extension": "png",
 			"path": "src/tyler-brule.png"
+		},
+		{
+			"name": "valentina-romei",
+			"extension": "png",
+			"path": "src/valentina-romei.png"
 		},
 		{
 			"name": "vanessa-friedman",
