@@ -13,6 +13,11 @@
 			"path": "src/ahmed-rashid.png"
 		},
 		{
+			"name": "alan-beattie",
+			"extension": "png",
+			"path": "src/alan-beattie.png"
+		},
+		{
 			"name": "alan-greenspan",
 			"extension": "png",
 			"path": "src/alan-greenspan.png"
@@ -136,6 +141,11 @@
 			"name": "claer-barrett",
 			"extension": "png",
 			"path": "src/claer-barrett.png"
+		},
+		{
+			"name": "claire-jones",
+			"extension": "png",
+			"path": "src/claire-jones.png"
 		},
 		{
 			"name": "courtney-weaver",
