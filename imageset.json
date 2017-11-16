@@ -428,6 +428,11 @@
 			"path": "src/jonathan-ford.png"
 		},
 		{
+			"name": "jonathan-guthrie",
+			"extension": "png",
+			"path": "src/jonathan-guthrie.png"
+		},
+		{
 			"name": "joseph-cotterill",
 			"extension": "png",
 			"path": "src/joseph-cotterill.png"
