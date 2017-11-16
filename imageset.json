@@ -593,6 +593,11 @@
 			"path": "src/mrs-moneypenny.png"
 		},
 		{
+			"name": "nathan-brooker",
+			"extension": "png",
+			"path": "src/nathan-brooker.png"
+		},
+		{
 			"name": "neil-collins",
 			"extension": "png",
 			"path": "src/neil-collins.png"
