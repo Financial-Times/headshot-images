@@ -503,6 +503,11 @@
 			"path": "src/lisa-pollack.png"
 		},
 		{
+			"name": "louise-lucas",
+			"extension": "png",
+			"path": "src/louise-lucas.png"
+		},
+		{
 			"name": "lucy-kellaway",
 			"extension": "png",
 			"path": "src/lucy-kellaway.png"
