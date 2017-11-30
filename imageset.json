@@ -333,6 +333,11 @@
 			"path": "src/james-max.png"
 		},
 		{
+			"name": "james-pickford",
+			"extension": "png",
+			"path": "src/james-pickford.png"
+		},
+		{
 			"name": "jamil-anderlini",
 			"extension": "png",
 			"path": "src/jamil-anderlini.png"
@@ -506,6 +511,11 @@
 			"name": "louise-lucas",
 			"extension": "png",
 			"path": "src/louise-lucas.png"
+		},
+		{
+			"name": "lucy-hornby",
+			"extension": "png",
+			"path": "src/lucy-hornby.png"
 		},
 		{
 			"name": "lucy-kellaway",
