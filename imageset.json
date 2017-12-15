@@ -5,812 +5,974 @@
 		{
 			"name": "adam-posen",
 			"extension": "png",
-			"path": "src/adam-posen.png"
+			"path": "src/adam-posen.png",
+			"hash": "c3287347a451dd73b6e77e1801b4be5138939c8de65c377face05bb640a147aca6882dc6ff58ec3e72dd4bf20ca6612a26493982999c3efad234b19ef9c0b12b"
 		},
 		{
 			"name": "ahmed-rashid",
 			"extension": "png",
-			"path": "src/ahmed-rashid.png"
+			"path": "src/ahmed-rashid.png",
+			"hash": "a41830cff230b0b70e6ea89523a633caead8d6e5d9c5a63644085c4c730ad4f622c97432442d4838999a55692f08633b43504cecec52c0e99ff1fd43cfe63186"
 		},
 		{
 			"name": "alan-beattie",
 			"extension": "png",
-			"path": "src/alan-beattie.png"
+			"path": "src/alan-beattie.png",
+			"hash": "ff068da4597da80ba190b31770442fad76c3bb79593db0f0147a8199a2ede8acbb25d98c6c1077e8c08704d83172a91e04ae947b584828db069df4f4bb538d42"
 		},
 		{
 			"name": "alan-greenspan",
 			"extension": "png",
-			"path": "src/alan-greenspan.png"
+			"path": "src/alan-greenspan.png",
+			"hash": "94273bf0b89e8194d2d0470d45540b00a859aeb5eda3e033c5d72ea970816e2f19df23c9c990a1a8005794e898fdb600ac6a0a45f58865b3d58a156ce385d864"
 		},
 		{
 			"name": "alec-russell",
 			"extension": "png",
-			"path": "src/alec-russell.png"
+			"path": "src/alec-russell.png",
+			"hash": "745e93bc18cba42bcceda62f37542b95e846c4b8f413527b207213c17cdf369d29cd826408937ecec14dd1d65d26fe05e04d2071a15862f2f381a549748ed4da"
 		},
 		{
 			"name": "alexander-gilmour",
 			"extension": "png",
-			"path": "src/alexander-gilmour.png"
+			"path": "src/alexander-gilmour.png",
+			"hash": "0bb33c872b1c9b5619e0ddf8f336cc9b55cf190d93814783b2cbca7806c7d6ad7fbaaca19dd53b9600233376d68b21085248f03d14f49ff3a77236aafc8854b9"
 		},
 		{
 			"name": "alexandra-scaggs",
 			"extension": "png",
-			"path": "src/alexandra-scaggs.png"
+			"path": "src/alexandra-scaggs.png",
+			"hash": "29e9e68e0edb3b85caff9061e9fc9c407f76762d255b78da5067b45a948dc6df642616aea9c12d3e8a38015ed52ead3907d6a9f722e5df381c6d905e79ce77d1"
 		},
 		{
 			"name": "amy-kazmin",
 			"extension": "png",
-			"path": "src/amy-kazmin.png"
+			"path": "src/amy-kazmin.png",
+			"hash": "9df29ff2bb2d259e8653bfe3e6e8f21293fda754cb77685dc05195928cbf3c923c0a7d83e25fcb4bb825d4273cfa85a87eb7a1e0cac1b7bb1ca18554bb4dedf8"
 		},
 		{
 			"name": "andrew-hill",
 			"extension": "png",
-			"path": "src/andrew-hill.png"
+			"path": "src/andrew-hill.png",
+			"hash": "753f5c3327c608bd4098f465b51a84ab86243d5ca15ad9466e7cf264785f73727fbae34392ffad9beb3b127a120f7bc335521c58dede877f095006f892bd9dfd"
 		},
 		{
 			"name": "andrew-mcafee",
 			"extension": "png",
-			"path": "src/andrew-mcafee.png"
+			"path": "src/andrew-mcafee.png",
+			"hash": "86d697d98ae3ba5a4adb1b45f246b32ae05653d4aa22a1460448a1ed9625166ce57850b21e657c63413775d998971cf86907c1dfb945ef13401f79a264f3ec2a"
 		},
 		{
 			"name": "andrew-smithers",
 			"extension": "png",
-			"path": "src/andrew-smithers.png"
+			"path": "src/andrew-smithers.png",
+			"hash": "9cc49ce36ef443551e9041b636c57ecacb962e3c09fe4403f3c8e1fb0577901d6957df5ae18813a1c1902492e24623cd32371a7b10b70172586a294ff02326d8"
 		},
 		{
 			"name": "anjana-ahuja",
 			"extension": "png",
-			"path": "src/anjana-ahuja.png"
+			"path": "src/anjana-ahuja.png",
+			"hash": "4cb236eb20fa21c067a2b3155c1e56b313866a268c6edf07d7b114ba4635ccc4f85ce803af305830fc4440d5b06c4b6bd4b6deca65f8f6b187987b51c1067274"
 		},
 		{
 			"name": "anne-marie-slaughter",
 			"extension": "png",
-			"path": "src/anne-marie-slaughter.png"
+			"path": "src/anne-marie-slaughter.png",
+			"hash": "190edb3a2fc4cb43988f837b158d14b2ea88b103028cbdc64c0bad046d18d5b83ef5c81bd3cba3814730769cfe7edd07e34625d182dfb34e68a1be0797492216"
 		},
 		{
 			"name": "anne-sylvaine-chassany",
 			"extension": "png",
-			"path": "src/anne-sylvaine-chassany.png"
+			"path": "src/anne-sylvaine-chassany.png",
+			"hash": "93c3496bdd07f14eb8154ece8e8cf32ae6292e2c513aff8912791977d454260f3e8327a06bc5511fbbc6218e96f4137ff90d47a69111ccb8579ae935073d3dda"
 		},
 		{
 			"name": "arash-massoudi",
 			"extension": "png",
-			"path": "src/arash-massoudi.png"
+			"path": "src/arash-massoudi.png",
+			"hash": "df89cbe91bacd8b668b758e883abfa2477f1bdddd6e5aa4ebd7449477347a3ae20209953032e0c92c6863e729667c308dfa88ac67d9c88f6aaf4be29b3082d24"
 		},
 		{
 			"name": "ayaan-hirsi-ali",
 			"extension": "png",
-			"path": "src/ayaan-hirsi-ali.png"
+			"path": "src/ayaan-hirsi-ali.png",
+			"hash": "01757494cbd9f9af49c93ded48228a00919abd1cdb533f8a0aecd0d433753d0e919fd3c9315fce05d3ea35504c2323a498bc639ff9f4c0a59f6c1c86b6e9c8b4"
 		},
 		{
 			"name": "ben-mclannahan",
 			"extension": "png",
-			"path": "src/ben-mclannahan.png"
+			"path": "src/ben-mclannahan.png",
+			"hash": "214cab2569d3700a783c99e5ba6920411eff13d9bd1c5297c2d0d36072a42f676a1f59d47b9c5fe78e9e3eacce451548a9d44bbf5ce6d28ac4ec4c46f525034c"
 		},
 		{
 			"name": "brian-groom",
 			"extension": "png",
-			"path": "src/brian-groom.png"
+			"path": "src/brian-groom.png",
+			"hash": "5c442dc43998c2d0591d5a785551075c05a53364ae5ee569a847a43d8642fc31a0568d66a1ce0df7b4786b20355de6d4e6e901c425e1344f1b5177378bcd0f75"
 		},
 		{
 			"name": "brooke-masters",
 			"extension": "png",
-			"path": "src/brooke-masters.png"
+			"path": "src/brooke-masters.png",
+			"hash": "7b498e86ed57e0632fc4ac52e8a37efc4a2ae0a9107ec9b0b46b5fe2126f3ee506a9ea39e502c9a4474931494afc35b43b213da84ca98f0bcbb4813265ad0f46"
 		},
 		{
 			"name": "bruce-bartlett",
 			"extension": "png",
-			"path": "src/bruce-bartlett.png"
+			"path": "src/bruce-bartlett.png",
+			"hash": "d0fdeebb6a657330b391767c1eaf6304df31840af1fbcf51f92f65b90cd3d90d61131b16800879360b0ca2897c2b47785512533901c8627bdf296b3bcf3c99f9"
 		},
 		{
 			"name": "bryce-elder",
 			"extension": "png",
-			"path": "src/bryce-elder.png"
+			"path": "src/bryce-elder.png",
+			"hash": "c676e11de79650efef59d9ca6495e6dc2d129206e2495d20fa1a3fb83c34bf18bd90d92e058f974fb3d6a550860247979123c50598506fed70d12fc904febe9f"
 		},
 		{
 			"name": "cardiff-garcia",
 			"extension": "png",
-			"path": "src/cardiff-garcia.png"
+			"path": "src/cardiff-garcia.png",
+			"hash": "53498d6e8e9e7aa0c7134ca28e87e4b154574ed6ae1142e49ef3add60bca6005b1417d3bf1c504927ede86310a82bf8f1339ef16c5445095d9775c2cad66eda0"
 		},
 		{
 			"name": "caroline-daniels",
 			"extension": "png",
-			"path": "src/caroline-daniels.png"
+			"path": "src/caroline-daniels.png",
+			"hash": "d8cabf58910d7fa74d62ac1572f5dde786845271e3808370c8c3be8ca945f5220b9e3fff79c8e0ba5f138cc527d5b6081a0a483f150f61e2ff0472e336db354f"
 		},
 		{
 			"name": "caroline-fiennes",
 			"extension": "png",
-			"path": "src/caroline-fiennes.png"
+			"path": "src/caroline-fiennes.png",
+			"hash": "9e3d153de8d8010919d5dce39d1d1175634a65227fcf45850269a2387142ed9603d37d2f6cfbbc8570969d8bae0ef6973c25e33f1e7ba12ba467b8f415ba9682"
 		},
 		{
 			"name": "chris-giles",
 			"extension": "png",
-			"path": "src/chris-giles.png"
+			"path": "src/chris-giles.png",
+			"hash": "6191661c8fb9d5c059886344ba1d64302a465b91011945e0e83b7154e370a729ddd60dd6e3659af9ee030cfdded6ea39a7e1503401e63abf231a03793e7958b3"
 		},
 		{
 			"name": "chris-newlands",
 			"extension": "png",
-			"path": "src/chris-newlands.png"
+			"path": "src/chris-newlands.png",
+			"hash": "cbb5ff91673e7fdb28136d4705be0cfc316cd73958330111367a8b195ca810fa0cdadaf8291cff258bb255d9bc11b3da0f5b33cf5c261c98dbea0dd163945027"
 		},
 		{
 			"name": "christopher-caldwell",
 			"extension": "png",
-			"path": "src/christopher-caldwell.png"
+			"path": "src/christopher-caldwell.png",
+			"hash": "544b64e56332f1fb636fa8e8063ce04dde964cb9477212472300e30a36dc0578bec8cff8d1cc0472be4aa858aff96675f9ee42e2f5b2f40eb7167d7c9f3a84be"
 		},
 		{
 			"name": "claer-barrett",
 			"extension": "png",
-			"path": "src/claer-barrett.png"
+			"path": "src/claer-barrett.png",
+			"hash": "66dafa7e5c67a13c73fd024c31aa17ea9ff942c9ae7b33f0ab68fd110a6f825a24df19f1aa094745220b5477dfba1ed9b140480a99694270c276d31718a51644"
 		},
 		{
 			"name": "claire-jones",
 			"extension": "png",
-			"path": "src/claire-jones.png"
+			"path": "src/claire-jones.png",
+			"hash": "abf0d860e9b57b408e0cd9b8aa49899c08271f4799db7cdf1ed5b79f4cf5d93a23d8b0d453dc870b1104c56ad817caca3de0dc6ed9fe283b879e42f9f802d322"
 		},
 		{
 			"name": "courtney-weaver",
 			"extension": "png",
-			"path": "src/courtney-weaver.png"
+			"path": "src/courtney-weaver.png",
+			"hash": "aa5c540649eecbe74bd24ae7be95dc174489e8ccc198d1c03262be7379568bb06a1bfb85122727aca235fff199b5827449210e778a1500f8d398f1188949e9cf"
 		},
 		{
 			"name": "dambisa-moyo",
 			"extension": "png",
-			"path": "src/dambisa-moyo.png"
+			"path": "src/dambisa-moyo.png",
+			"hash": "ca04efc9a244d2e2e05cbabbfa0c8d256c36bbb3f9d1f86a7d0f52975e7f2936b41598df879820b22f5b3b99d92bbfafe3c5146fdd9bcd217632558d68598d61"
 		},
 		{
 			"name": "dan-mccrum",
 			"extension": "png",
-			"path": "src/dan-mccrum.png"
+			"path": "src/dan-mccrum.png",
+			"hash": "72a4ed7103aacf0e1a4a2b0795eff7a3e88240cdcd46b41d7d876767335dc7683cce859d958e92ded2748542480b857ed7e60a6e8679575d3c599af90bad32a7"
 		},
 		{
 			"name": "david-gardner",
 			"extension": "png",
-			"path": "src/david-gardner.png"
+			"path": "src/david-gardner.png",
+			"hash": "8299ac56e46332ffc1ac891eb066963403e2a47f99a2d6c55681be8260a082296402235800055bb6a0b7200210cd11179a0b7719c8207d03868827ea6ac9059a"
 		},
 		{
 			"name": "david-keohane",
 			"extension": "png",
-			"path": "src/david-keohane.png"
+			"path": "src/david-keohane.png",
+			"hash": "86e4c667fc0521cef415b28c588f526eaf3dc2a3a30282a5551895a87d63c883647485c08a3855336851563396a2514013e4f1732fd3146e369cee66c50ff1d4"
 		},
 		{
 			"name": "david-pilling",
 			"extension": "png",
-			"path": "src/david-pilling.png"
+			"path": "src/david-pilling.png",
+			"hash": "12271965ad4b1ae32311a986f040ab09ac0b6d38e22aa5c213921c336416f6a537d3e6eda25540f58b00f6c1ead60c57631dc1758af6e89b015182e3cc1439ee"
 		},
 		{
 			"name": "david-sheppard",
 			"extension": "png",
-			"path": "src/david-sheppard.png"
+			"path": "src/david-sheppard.png",
+			"hash": "50b866d1900e5b272ca20cec3f3e06556779662c925f312777dc16eb7bfe7d0a031b1cc8cdfda6227bc9f8e5bf07a9526a099b8066a1fe3a6b43bfac3a598b4a"
 		},
 		{
 			"name": "david-stevenson",
 			"extension": "png",
-			"path": "src/david-stevenson.png"
+			"path": "src/david-stevenson.png",
+			"hash": "044fca423d833afaaad3164e587b69cc52faacc50744d168b72c75d058b2255e8a358d886cfa75dbeb590cc753b26a7209a9c37e39bcfa3a17bcd8818584e97d"
 		},
 		{
 			"name": "david-tang",
 			"extension": "png",
-			"path": "src/david-tang.png"
+			"path": "src/david-tang.png",
+			"hash": "95f3177dcf55d07220f909320aea7f682ac8b6eb664a56115ce7e17ce23546e36e474374a37d24fcc94c383f7c7a427f0dd54e3735915b874bb6690b5daffb3f"
 		},
 		{
 			"name": "deanne-julius",
 			"extension": "png",
-			"path": "src/deanne-julius.png"
+			"path": "src/deanne-julius.png",
+			"hash": "db9e8bd6d2c5125bb73172408100961ec0dbc782592a483a5d5231f7432ecb77be511343c2aca95524ac96dbe114e3c97e6626b2fcb1d9f3e8f2e656c3921aca"
 		},
 		{
 			"name": "diane-coyle",
 			"extension": "png",
-			"path": "src/diane-coyle.png"
+			"path": "src/diane-coyle.png",
+			"hash": "dc53196dc6461ed44e563ef03417bc2753e6b3862c9441ab9aebf54c7451d830c7ff567a1473b22789b93c22ca47b58a52a6a043273b011f90e418fc61baaf14"
 		},
 		{
 			"name": "don-ezra",
 			"extension": "png",
-			"path": "src/don-ezra.png"
+			"path": "src/don-ezra.png",
+			"hash": "d2dd46f375c6afcd707d77064137a9299ab7c46f98fc9b3f99aa4236cdfda63c32aef108f441e19aa11300c50bc6ccd1b29349750790cc533bc2c7a04f218bb0"
 		},
 		{
 			"name": "ed-crooks",
 			"extension": "png",
-			"path": "src/ed-crooks.png"
+			"path": "src/ed-crooks.png",
+			"hash": "daa1f4c7ff8ef3b1cc72876e5aa194280901e9a38ad1ce02e6e1486d288940697e3162b829193ce0de907dbb198cfa61a5d9590befad516423982e816e536b9b"
 		},
 		{
 			"name": "edward-luce",
 			"extension": "png",
-			"path": "src/edward-luce.png"
+			"path": "src/edward-luce.png",
+			"hash": "23d0efcfcbd47fe661367a6f94ce1835d83bd88bf34ca9edfa041d802cfe897cd2a2fb344da40eee15c1e6f08a8380e1251a036133f98e6cb745201944c4ced1"
 		},
 		{
 			"name": "edwin-heathcote",
 			"extension": "png",
-			"path": "src/edwin-heathcote.png"
+			"path": "src/edwin-heathcote.png",
+			"hash": "08d5ba9471024b731c93d15703d0369c060eab9ebc2e6048dcdb53b805ec3a805d530df4b7c13fb0c966b3d01490037b85b214712bba83a558af71e2455e889e"
 		},
 		{
 			"name": "emma-jacobs",
 			"extension": "png",
-			"path": "src/emma-jacobs.png"
+			"path": "src/emma-jacobs.png",
+			"hash": "245d62f046dc3953647bb601578101a711eddfd641845edde3d6f839a51fac98af9601d1c0e91f06fad8afef530c989b32f24af09494374d0aedf69166d7e9b7"
 		},
 		{
 			"name": "eric-platt",
 			"extension": "png",
-			"path": "src/eric-platt.png"
+			"path": "src/eric-platt.png",
+			"hash": "b50fa40db04de00914f2b990aadecf7d7e4ac8ecbf976866d05c822d0fc9c89325f63ca425babac04a34757926e075fc7ea81d68bda336f035b77272e5cf99fa"
 		},
 		{
 			"name": "esther-bintliff",
 			"extension": "png",
-			"path": "src/esther-bintliff.png"
+			"path": "src/esther-bintliff.png",
+			"hash": "65b4c40c677c6ea42a99f3c30821daddbf1b8108888976c3a038e9e6aa9f2e1f157940af807467a1ac02ed2803966ed38255f16be712c946edf3957d9ec197af"
 		},
 		{
 			"name": "federica-cocco",
 			"extension": "png",
-			"path": "src/federica-cocco.png"
+			"path": "src/federica-cocco.png",
+			"hash": "8ac15574f9a824c962bc97dddec14dbf5e6b3f5ffbe11705cfc50a6e0c54544159df0b8c2efa3846595a2f94dddd00a34919e28810c8c073ac5ac5a764292974"
 		},
 		{
 			"name": "frances-coppola",
 			"extension": "png",
-			"path": "src/frances-coppola.png"
+			"path": "src/frances-coppola.png",
+			"hash": "a48b1e4430d6da6d0bda4923231b9b8daa14baa8ea7aa2dd7cec3378119b303683cec7c107014fd0b50e9fc96099a1d2b6340a2b18100769ff3a312939f5ae12"
 		},
 		{
 			"name": "frederick-studemann",
 			"extension": "png",
-			"path": "src/frederick-studemann.png"
+			"path": "src/frederick-studemann.png",
+			"hash": "c7a59dbb9798d3fead69b8eb46665790a34b7c6cf4aabc1f0a04edb1c615eb107ba5465a33365d89d66f83bdac9ffe7dc41e116efe48fccda83aeeb5bae9836f"
 		},
 		{
 			"name": "fyodor-lukyanov",
 			"extension": "png",
-			"path": "src/fyodor-lukyanov.png"
+			"path": "src/fyodor-lukyanov.png",
+			"hash": "eb9aca47bb76eb0bdda04609ebff14c904c06b9ada95f0394386b0dd26773dec01455d6250e3dca625cbb13c26804a2b403eb8ee2bcbb9d14c9557039004c4ee"
 		},
 		{
 			"name": "gary-silverman",
 			"extension": "png",
-			"path": "src/gary-silverman.png"
+			"path": "src/gary-silverman.png",
+			"hash": "7f765223732cc1136bef223bf1355a5b5f19b2bbde7f7c7cced7573eb5be777846032f616d238eeb98168c45d02e7596d705522c1b867263a9d3c23a2386043b"
 		},
 		{
 			"name": "gavyn-davies",
 			"extension": "png",
-			"path": "src/gavyn-davies.png"
+			"path": "src/gavyn-davies.png",
+			"hash": "9127a9746d1b11083887a2b0507f29f7ceaa5c2e45a7a763f44eea47960fe31ef0c82156fee0d7565c6851631f81aea6a209e6046fb1f622abd860049bdcc9ec"
 		},
 		{
 			"name": "george-parker",
 			"extension": "png",
-			"path": "src/george-parker.png"
+			"path": "src/george-parker.png",
+			"hash": "ab3a96b529d669e7083f2f5d69c48a6ade88aa09b7d70bcc3568728e0ce503498d8b8ea62353312405f6608739e3ddaa013367643b4a542fc167150a1a996c02"
 		},
 		{
 			"name": "george-soros",
 			"extension": "png",
-			"path": "src/george-soros.png"
+			"path": "src/george-soros.png",
+			"hash": "4d28afb1dd823eadba2b0bc805f88c9cbbe3b4bf13e44922215ea933ffd0af63715989de9aac2701b914eb565b660ac5bdf80099489b0b0a7239ca10c1080338"
 		},
 		{
 			"name": "gideon-rachman",
 			"extension": "png",
-			"path": "src/gideon-rachman.png"
+			"path": "src/gideon-rachman.png",
+			"hash": "2efa3dc36ef587b18984d628923d7b423547f8d355970ac3201b573efd1bfa0e8d32671327e5d06a1d96f9d5dcfde3103810b6ba6822b859e4f3e602c4a62e50"
 		},
 		{
 			"name": "gillian-tett",
 			"extension": "png",
-			"path": "src/gillian-tett.png"
+			"path": "src/gillian-tett.png",
+			"hash": "fe0963974bf808039b83eb659a06ba910f686b4c6e7fbfdccbb13149f8ce9d0c8982c391cd24fc96c72fa4bf7291d854dbac253fbb7ef47724de956a60cb83ea"
 		},
 		{
 			"name": "glenn-hubbard",
 			"extension": "png",
-			"path": "src/glenn-hubbard.png"
+			"path": "src/glenn-hubbard.png",
+			"hash": "22574f287487b8fc5490b830c09b9be7b525990e0659a25b3d9a53a5d21227fa7d64b585595b9d9aabe600bc05536cd908e3ee957319bd6abadbf8241a540fc7"
 		},
 		{
 			"name": "hannah-kuchler",
 			"extension": "png",
-			"path": "src/hannah-kuchler.png"
+			"path": "src/hannah-kuchler.png",
+			"hash": "07757f3b15a901464dbac97f2b825c4ffed6b356b4cbf7b02ebebef28876840c6e1254a2d01cac9af36f4d062fc9550b57813c8a2b4f586315cc42b4fa2d23f5"
 		},
 		{
 			"name": "harry-eyres",
 			"extension": "png",
-			"path": "src/harry-eyres.png"
+			"path": "src/harry-eyres.png",
+			"hash": "4197b07682bdf3a743d3ed7e8f4a5bf68a66acc051c203e2c771656d696939a3bc29efa85cc0cc7d5fdd76a8575c46a6f6164df5051bb0b17db15ee317649d98"
 		},
 		{
 			"name": "henny-sender",
 			"extension": "png",
-			"path": "src/henny-sender.png"
+			"path": "src/henny-sender.png",
+			"hash": "9e6005063b513cb4e1c9087745933bc32bba941bdc9c26ba1c432907fd4e3ec0c0d776ed4b8b562d0592545960e105a824da892a9af2c1cd326c673da3fbdb10"
 		},
 		{
 			"name": "henry-mance",
 			"extension": "png",
-			"path": "src/henry-mance.png"
+			"path": "src/henry-mance.png",
+			"hash": "fdb6dd1808d1ae08d84ecab344d6359054be3f66b3ce77395340df431afe2b3c7e13766e5b1b2ee1dfb27de8ae9ef1b5f0eaa605f6b343f36217c34d4036ac1c"
 		},
 		{
 			"name": "izabella-kaminska",
 			"extension": "png",
-			"path": "src/izabella-kaminska.png"
+			"path": "src/izabella-kaminska.png",
+			"hash": "2483f8626fbbe93441a3b09088d7eadafaf0fbdf7078406c9096c157b1e09c4a91029f7e842534757239386f469199d55db71427bb8baeb11b9fb5c9f94dcd9b"
 		},
 		{
 			"name": "james-fontanella-khan",
 			"extension": "png",
-			"path": "src/james-fontanella-khan.png"
+			"path": "src/james-fontanella-khan.png",
+			"hash": "abc86437f280f7f2db684343aa3504b1c60c8cac92037aa21329cadbb3838e2f8a6525e55a81273395f1ba1599e6052b1a5c2a425e2d509abee7137366abe34a"
 		},
 		{
 			"name": "james-kynge",
 			"extension": "png",
-			"path": "src/james-kynge.png"
+			"path": "src/james-kynge.png",
+			"hash": "5adcb964a864f5ace6906125f5072169250fc9734e07d524ba38ac39f445a39008d1ac4aff28191bdd671b59011a53b39ca82d1c948519798a03e85268ae9121"
 		},
 		{
 			"name": "james-max",
 			"extension": "png",
-			"path": "src/james-max.png"
+			"path": "src/james-max.png",
+			"hash": "5380e5fb4f6480cca273b6ec9bb188cdc6faa37961c64210fd8cd8f9fb3908e525511f57d9bba584f06c01abc50ea50f029c62ea2a9397a637ad02f76840f861"
 		},
 		{
 			"name": "james-pickford",
 			"extension": "png",
-			"path": "src/james-pickford.png"
+			"path": "src/james-pickford.png",
+			"hash": "aeea272d2afef617af03a1c59eda3a140a561ffd730b79b011a1381c82c15540f3f1a70340c049dd83fdc15d5fedc0a4b170691efc23caed3e06c3b16b934252"
 		},
 		{
 			"name": "jamil-anderlini",
 			"extension": "png",
-			"path": "src/jamil-anderlini.png"
+			"path": "src/jamil-anderlini.png",
+			"hash": "62bf8f077300b236906f36e378015ab113c61fa825f09cfc67af0ab99243d44d9e5cc9069a9c690a963d5972f68b63be12a3aa7a86e612f2e01f5c3901586874"
 		},
 		{
 			"name": "jan-dalley",
 			"extension": "png",
-			"path": "src/jan-dalley.png"
+			"path": "src/jan-dalley.png",
+			"hash": "801531ba29cd77b275679eb303f2a7c2a6aace88763af2ec2a33c04e1306690b95d5a69f453cc8803f8fb9a2f0916bfb2fcd7e7e2d614b0511acd5017dd738f1"
 		},
 		{
 			"name": "janan-ganesh",
 			"extension": "png",
-			"path": "src/janan-ganesh.png"
+			"path": "src/janan-ganesh.png",
+			"hash": "3bf70e07f8ba5db2eb07722bc4c0e998f34e1299fa6de25ca3965d08bb3d2377b82ef3601c3ebebf30f88a7f60555313d217cd34399bfdb37777f12e129cb326"
 		},
 		{
 			"name": "jancis-robinson",
 			"extension": "png",
-			"path": "src/jancis-robinson.png"
+			"path": "src/jancis-robinson.png",
+			"hash": "e457b67374c25b2fe797327dcdd42314fc073a307f9555f8247c7d0b79b3c7ea40844ffea3100def836e49d5921b739f58550f7b7628ac899286ea75415623d7"
 		},
 		{
 			"name": "jane-owen",
 			"extension": "png",
-			"path": "src/jane-owen.png"
+			"path": "src/jane-owen.png",
+			"hash": "0eb7555adc794f8f32e4edd3c22262a2c5740e7e7ee4b25e7430905a82bc987c6221e17b40ae5fdad23716d1e1996678933e6a8aaabbfa81a1cd9f233b72a080"
 		},
 		{
 			"name": "jason-butler",
 			"extension": "png",
-			"path": "src/jason-butler.png"
+			"path": "src/jason-butler.png",
+			"hash": "20d205db607bc3eca555e859a165235a7f0e34594a3426c41ca613dc918664b932aab66909e2f3c08d4bc8e995df7d1897a7c672789119d3fab5d082c22d8c60"
 		},
 		{
 			"name": "jennifer-hughes",
 			"extension": "png",
-			"path": "src/jennifer-hughes.png"
+			"path": "src/jennifer-hughes.png",
+			"hash": "d54e677e9e26223f9d6488a17c6f1ef02db901ed86cf7b24640411de5888959968513ddce1c721ce2940a656d505286c8cfb0fe47724ae1ad10e2d31ed7f7d64"
 		},
 		{
 			"name": "jenny-lee",
 			"extension": "png",
-			"path": "src/jenny-lee.png"
+			"path": "src/jenny-lee.png",
+			"hash": "ffb5fd07ef55af59d296d7675d7c1c1c1f913d0f2ea3a07c63c1d29efa3e33db7f0421c55f44760a5838b9e44b3ab696324b5f97a14897e1d775b3ef489aa8e6"
 		},
 		{
 			"name": "jo-ellison",
 			"extension": "png",
-			"path": "src/jo-ellison.png"
+			"path": "src/jo-ellison.png",
+			"hash": "3ca5e3db6058764b149d3abc297fbb83d5bb2be4d943fe172a4f64c75c8c1c82a280c640d1c238db7fdca94977c01f502cd7f055a6f13fa37d06d829155e3030"
 		},
 		{
 			"name": "john-authers",
 			"extension": "png",
-			"path": "src/john-authers.png"
+			"path": "src/john-authers.png",
+			"hash": "d74efb8094c08e7eed38fe4e52c25f9f166063d99d367b7f73faefe27d8817b74a8b535559da7bce874b7acb8438b0bc370399fe7623e69ae2c9000a2e1dc081"
 		},
 		{
 			"name": "john-dizard",
 			"extension": "png",
-			"path": "src/john-dizard.png"
+			"path": "src/john-dizard.png",
+			"hash": "91d868937a44c7123fd294ebcd041ac072252dc3d635c309c4e576d831f9cad324327d656ae7f999d89b9a7dffa8b938f3723a8a184ae6a46691e032622dcd4c"
 		},
 		{
 			"name": "john-gapper",
 			"extension": "png",
-			"path": "src/john-gapper.png"
+			"path": "src/john-gapper.png",
+			"hash": "7b8979935a5c960536df12451407fc3277c16af9581a1265b949d13ad89f238b88b2067a1f95734f6a15a95d9096ecff1c86716fce3774ae443c05d9a32c7c51"
 		},
 		{
 			"name": "john-kay",
 			"extension": "png",
-			"path": "src/john-kay.png"
+			"path": "src/john-kay.png",
+			"hash": "6026829e3f84e71d0b469c851a1f026b1b3bc441c5c79e1a06c9d124fdf114a67e19ac1513a686712b62da92c6b8c62f92c3973a492c800c77287495218b4b7d"
 		},
 		{
 			"name": "john-mcdermott",
 			"extension": "png",
-			"path": "src/john-mcdermott.png"
+			"path": "src/john-mcdermott.png",
+			"hash": "7b3628f9f72c5e6ec42f41a2a05d48f2533df578550c5e6b44146413d74ee5f48122d067f7ff6cd1d7d118e0320ddadcbe50ba030565a38e3d4e8f7095b03e66"
 		},
 		{
 			"name": "john-plender",
 			"extension": "png",
-			"path": "src/john-plender.png"
+			"path": "src/john-plender.png",
+			"hash": "5dbd83e74c3f8327cb93796e532e1a096e4e841553cf135ea877cc548a3ad37f67f49e53d40e25e161ebea1eb6d903253b73359fc0851808f3751c22de964a27"
 		},
 		{
 			"name": "john-redwood",
 			"extension": "png",
-			"path": "src/john-redwood.png"
+			"path": "src/john-redwood.png",
+			"hash": "2dce8a8facf09bd56ee403da375c1d50db3e8e56b47f06bb4f45427816298b672cb649091c2d39c288bdf89338fe1312313373ffe48ca6d05ec642b4c9b075ac"
 		},
 		{
 			"name": "john-thornhill",
 			"extension": "png",
-			"path": "src/john-thornhill.png"
+			"path": "src/john-thornhill.png",
+			"hash": "e76aada1b625aa60827467cd441532dd82efa67d8a5d71abd8fe7db23e4f5c39c104f0004f98a35f84a0bff9461cab12b10291c4b2c3b031e8545e63bb1ee5e3"
 		},
 		{
 			"name": "jonathan-eley",
 			"extension": "png",
-			"path": "src/jonathan-eley.png"
+			"path": "src/jonathan-eley.png",
+			"hash": "f1ae125c092f3973ed11a1980a3b02f5f69799ec1e5f3e81baa9c316211aa3f49d3ff3880222ed0f0f769e832a3065be60235a64178aa3a6e5b26105c6f8e431"
 		},
 		{
 			"name": "jonathan-ford",
 			"extension": "png",
-			"path": "src/jonathan-ford.png"
+			"path": "src/jonathan-ford.png",
+			"hash": "23e45b4464992001f500633c60db7246f1dbed18eb7c5cb8a36069cc372e64dc70bf6a95b0c4a9be65a8454db76f2f7d37c7bb13ee022583f481f69793e0bb76"
 		},
 		{
 			"name": "jonathan-guthrie",
 			"extension": "png",
-			"path": "src/jonathan-guthrie.png"
+			"path": "src/jonathan-guthrie.png",
+			"hash": "1479994437ea27d719b3d5129f908f95518e0afdf2528f37e46453bba8c844c8ed49aab6a3d687d27a784ad99f6d6bf12dde3151819cfaeb346cec2dc76e9905"
 		},
 		{
 			"name": "joseph-cotterill",
 			"extension": "png",
-			"path": "src/joseph-cotterill.png"
+			"path": "src/joseph-cotterill.png",
+			"hash": "459af567afb2bcad5bb59798ae430fa1c6457879abf5420da58ead1e1e88faa82425ab9add6cc6afa45a14800db50582db5d6daaca9550595f94473aaffa7202"
 		},
 		{
 			"name": "jude-webber",
 			"extension": "png",
-			"path": "src/jude-webber.png"
+			"path": "src/jude-webber.png",
+			"hash": "5c7e0314d8961fa675fc3eb83b9f6e99c0d49b9981c0cc65bdbde447dec5412f3f6662dfe4b8fe63e799da71b96c3f07c5ccb7517bf15930e21c78d41f620fc7"
 		},
 		{
 			"name": "jurek-martin",
 			"extension": "png",
-			"path": "src/jurek-martin.png"
+			"path": "src/jurek-martin.png",
+			"hash": "232448df627b02da4130aadc81e60f61f160721a7f7c0d5a8d51b2992f408b3f55cd6e0d3d67481c08d158a16fff5d47be61d76b87e0da1f1246be265c0b1075"
 		},
 		{
 			"name": "kadhim-shubber",
 			"extension": "png",
-			"path": "src/kadhim-shubber.png"
+			"path": "src/kadhim-shubber.png",
+			"hash": "2020ba1567559105b607a1c948b86bd218685ad3373709632d251439a4e5b87a71473ccd79d77046d63c7969223e7196b34dd2f0bae0e483e1a037555826c82a"
 		},
 		{
 			"name": "kana-inagaki",
 			"extension": "png",
-			"path": "src/kana-inagaki.png"
+			"path": "src/kana-inagaki.png",
+			"hash": "c89b0e28c2a3bd8aaa1cd59c0725f04cadb0df9387095bd7582b8bcfe1f24bdeff550b7096f0f4615d194c65b3c2e9de5ddeca0e4dce8033af09e2b8468e5572"
 		},
 		{
 			"name": "kate-burgess",
 			"extension": "png",
-			"path": "src/kate-burgess.png"
+			"path": "src/kate-burgess.png",
+			"hash": "d8331dc1d2d242dd380f4a8e53a61a9767ef38f774bbdfc67c6e420e5b9fb717a7b7eaec287b84e712b4a4de3fa35ae9706431756fc7311f3986e64e0b64577c"
 		},
 		{
 			"name": "katie-martin",
 			"extension": "png",
-			"path": "src/katie-martin.png"
+			"path": "src/katie-martin.png",
+			"hash": "4effdbb051f7e886f3f2f23cd5846b68a1bf103b1dd0bf46482c298b6fefeca4d8286e7269f8ef1ef2d6edd5bded1246081eb75a58eec547de96268243780e28"
 		},
 		{
 			"name": "keith-fray",
 			"extension": "png",
-			"path": "src/keith-fray.png"
+			"path": "src/keith-fray.png",
+			"hash": "0c59e3927ffde0f797423cc6daa7f83eaa4f02b36d159701f761183f0da27d30fdb55bae37f8b867808786d41b19d1e7f9f42ce22dd7dfb6543022b69e5d7ef5"
 		},
 		{
 			"name": "ken-fisher",
 			"extension": "png",
-			"path": "src/ken-fisher.png"
+			"path": "src/ken-fisher.png",
+			"hash": "d0490d3b314de001df8d05b876356976aba3d9fec3d4a01d828d3a2576590315fe2e8a02994cf9124a2d8e12020206629aa814e2ae897650735529ee1328e663"
 		},
 		{
 			"name": "lawrence-summers",
 			"extension": "png",
-			"path": "src/lawrence-summers.png"
+			"path": "src/lawrence-summers.png",
+			"hash": "04dfc7eb82fe1f2984b4b20973505b5f39a2c986c63dd072c8972342a7ba287a3aabf1bfbaed9928ec1d160b4ad50f8294cf51c8d1d8a6a90dbb95b83301b8a6"
 		},
 		{
 			"name": "leo-lewis",
 			"extension": "png",
-			"path": "src/leo-lewis.png"
+			"path": "src/leo-lewis.png",
+			"hash": "1b7b7670324be521a5ed20d74394355047affdc6629660a147d46dff05e707d846a29088f33e7053e4e9ec5d0b38897e23fa4bb9c42586d9de6e7cc35d9fcf57"
 		},
 		{
 			"name": "leslie-hook",
 			"extension": "png",
-			"path": "src/leslie-hook.png"
+			"path": "src/leslie-hook.png",
+			"hash": "882d7d0a5f4c54e783d1992ef011434e5464638820ee5309eba66d605f727b53dc189f5c0d3d8aca7caace20707d543bb0cce8e0caa53f07b7f9b0d3f384924a"
 		},
 		{
 			"name": "lionel-barber",
 			"extension": "png",
-			"path": "src/lionel-barber.png"
+			"path": "src/lionel-barber.png",
+			"hash": "595330c73ff13873ae15ce65db55d88a2b7fcc0d14af17a4950f9f3477a56e988a18cca1dfab9f055c1c827221bcab11376ea6fe553068c2af6093f85028d517"
 		},
 		{
 			"name": "lisa-pollack",
 			"extension": "png",
-			"path": "src/lisa-pollack.png"
+			"path": "src/lisa-pollack.png",
+			"hash": "89ef33e319f7ad067d300b44b129990d88da6989ecd2e2255689f8749b8aafe08e2dba324caa8dfbaec1bc3514b46051415562ad8c06dc60586281af77982029"
 		},
 		{
 			"name": "louise-lucas",
 			"extension": "png",
-			"path": "src/louise-lucas.png"
+			"path": "src/louise-lucas.png",
+			"hash": "7b30a423d728129f6862e0c106cee6627cadb778e400d8f87a2b58028bb94be054587e6e9960ef0ee622299a2a09e528c123fcd177e61b52a3ffc7c37bb0b1d3"
 		},
 		{
 			"name": "lucy-hornby",
 			"extension": "png",
-			"path": "src/lucy-hornby.png"
+			"path": "src/lucy-hornby.png",
+			"hash": "c6db637617141dd653031259757fb2de46110fbaf29efe2ea27c81430922af21546d33f196cebf9864583d26484c48e39c9fab834823e96984826291da46fbb8"
 		},
 		{
 			"name": "lucy-kellaway",
 			"extension": "png",
-			"path": "src/lucy-kellaway.png"
+			"path": "src/lucy-kellaway.png",
+			"hash": "bc66ea2f5ca3212b2dd1770989e873941e1beaafe3fc8dd7bd0c518a7fc70cbd5526b16e76f0b370418f59afdd71055813813b782c4aef6783c8bbe49bb15087"
 		},
 		{
 			"name": "lucy-warwick-ching",
 			"extension": "png",
-			"path": "src/lucy-warwick-ching.png"
+			"path": "src/lucy-warwick-ching.png",
+			"hash": "1326bd5cc192a9dc2fa2d8678d92b94fd8b1d07936b5d4ff2b9dc03847f5bf4fa51d546ac9e90ff45e877004021753400677c49ff3238d43b3f1fd56938c761e"
 		},
 		{
 			"name": "ludovic-hunter-tilney",
 			"extension": "png",
-			"path": "src/ludovic-hunter-tilney.png"
+			"path": "src/ludovic-hunter-tilney.png",
+			"hash": "29249643d642117a90968aec8eb2e4dd4f69c9184aac4c1747012e0db8662aec07c0a5ca2d344459c9e6a67c2a123d95c8860ebe5c7a7968d6e0bf9c0db9191f"
 		},
 		{
 			"name": "luke-johnson",
 			"extension": "png",
-			"path": "src/luke-johnson.png"
+			"path": "src/luke-johnson.png",
+			"hash": "96712a9421d6a5e45bfaf25e58f02a4ba6f3eb456a894d84391cc92bbd594b75d422579a223736ecaf59a9d2fcda0132d079764c60885717fe86a85c1f902cea"
 		},
 		{
 			"name": "madhumita-murgia",
 			"extension": "png",
-			"path": "src/madhumita-murgia.png"
+			"path": "src/madhumita-murgia.png",
+			"hash": "84478dadbe227d6e12d9e8ee81b46e06afb0c8f5c12b8ca2f3149556b738b90dce636e5913da85d16c1ac7fd1638d9f468b8feadbbc87d17b6d126016c3d8a99"
 		},
 		{
 			"name": "maike-currie",
 			"extension": "png",
-			"path": "src/maike-currie.png"
+			"path": "src/maike-currie.png",
+			"hash": "4e739ef92901c98815c97c8a3e8e12b3655efaced8b67d0d6908ab66becf930c43a8e3fe3fab79dd1332762de7ec27cdda5b257d580b39927650cb9915fd77be"
 		},
 		{
 			"name": "martin-lewis",
 			"extension": "png",
-			"path": "src/martin-lewis.png"
+			"path": "src/martin-lewis.png",
+			"hash": "86fe7a9bd03391133c6c1fdd2e914bfc28969cc8b7bf6db197b2dcb060d412df0b35655e9879f57ce54e602bc64d0e64b67738914b6a78c851f750c29cdced9e"
 		},
 		{
 			"name": "martin-sandbu",
 			"extension": "png",
-			"path": "src/martin-sandbu.png"
+			"path": "src/martin-sandbu.png",
+			"hash": "c51261d932fd075e007b1b37a1c1cf2cf64e5a6cbb142f4908c59d059394dace507dd70a0886c1c4b81ff10ea869265fbf424bf41ccf89eb347a21ffbc8ab52e"
 		},
 		{
 			"name": "martin-wolf",
 			"extension": "png",
-			"path": "src/martin-wolf.png"
+			"path": "src/martin-wolf.png",
+			"hash": "d163b01ff65a81ce660069228ec4f8aeaad4a39fbcfeda84b2fc1b7ba80482f7b9cb6d86baa049f7344d0db272fb23f69e8fbddc26dab9624b6ea7e591eadc18"
 		},
 		{
 			"name": "matt-singh",
 			"extension": "png",
-			"path": "src/matt-singh.png"
+			"path": "src/matt-singh.png",
+			"hash": "3cce7f415b8a1590f37ff820cc303ba537396d8015d55081d6a923c68b4e8a7c13125e9d7d7eca294e30562d3b0d781d167bf4c1eb6aa242f93c0e0747c9eec4"
 		},
 		{
 			"name": "matthew-c-klein",
 			"extension": "png",
-			"path": "src/matthew-c-klein.png"
+			"path": "src/matthew-c-klein.png",
+			"hash": "eda784ad928f1852e0386bd9d9bdfc382195b6298e68e0fe97be3b918266e6bf71539050df80565ca0c32efc7cdf1af89da2a1fd6f27d81a37ac6c9b6be94e49"
 		},
 		{
 			"name": "matthew-engel",
 			"extension": "png",
-			"path": "src/matthew-engel.png"
+			"path": "src/matthew-engel.png",
+			"hash": "d7341c9e9ed17d64b7113b49f31ef29353961d58985b78dde3505d816ea31774c99ede9c4ba4f5475eea439007580cf1b10076e8ae5598e7809b986a475ccb9b"
 		},
 		{
 			"name": "matthew-garrahan",
 			"extension": "png",
-			"path": "src/matthew-garrahan.png"
+			"path": "src/matthew-garrahan.png",
+			"hash": "f24d48ad72f6c32d7aa86d11637d7518e43f01a99f1afa6cfd30f2998604618e3beefbb2cd7b23001a3324ae3bf8f73141cf1d434a56b47b8235e34b7ca97e5e"
 		},
 		{
 			"name": "matthew-vincent",
 			"extension": "png",
-			"path": "src/matthew-vincent.png"
+			"path": "src/matthew-vincent.png",
+			"hash": "eac33fef50218eb5148f73b898e8e701cad1d46642043cdb086c0ab06e80a2eaa72bfe41188a7358396c3edfff567bdf060163ddfd547e679239bcc04f4d3ee6"
 		},
 		{
 			"name": "merryn-somerset-webb",
 			"extension": "png",
-			"path": "src/merryn-somerset-webb.png"
+			"path": "src/merryn-somerset-webb.png",
+			"hash": "ab67a8a2eb3c524e016ddc293243898236703de428ec1b3928a3cb64f5870c27fee4b13c00317063dc8e5082bafe8e48ad9956212d8fb17243a74d524ad4dac8"
 		},
 		{
 			"name": "michael-skapinker",
 			"extension": "png",
-			"path": "src/michael-skapinker.png"
+			"path": "src/michael-skapinker.png",
+			"hash": "0e464afa292b185b7a511e20b48911d05fd95db68e1eb1daa67d8fcad0f7b706de90c0679426bc305fbd5b762a585828e943026c8aae020edae6365ed0e54230"
 		},
 		{
 			"name": "miles-johnson",
 			"extension": "png",
-			"path": "src/miles-johnson.png"
+			"path": "src/miles-johnson.png",
+			"hash": "64308c575281b8b41881197dafe085938eb2b330513fd6479c363fc17780e25688f7064d16ab4f5ef86aecde8a9f17890aed8eb73c5cebd8e9df3b06ed214327"
 		},
 		{
 			"name": "miranda-green",
 			"extension": "png",
-			"path": "src/miranda-green.png"
+			"path": "src/miranda-green.png",
+			"hash": "25cf55f41652b5839d2bf888dc3b7c7e7a229d364317150f74d1f3db992c8761f47380e7db492c4dffd861d9d80120a77603221815eaab11411d286b885d9335"
 		},
 		{
 			"name": "mrs-moneypenny",
 			"extension": "png",
-			"path": "src/mrs-moneypenny.png"
+			"path": "src/mrs-moneypenny.png",
+			"hash": "d962c2c18a893c8e8bddb65396411420cf494e0ec38817c5d361b90e813a82de7e6a33d655e3e8e2ce2c3be8964e38a21df91da77cd9536e0527f40345d85531"
 		},
 		{
 			"name": "nathan-brooker",
 			"extension": "png",
-			"path": "src/nathan-brooker.png"
+			"path": "src/nathan-brooker.png",
+			"hash": "7ba370245e130a48403df33f779d706597721c02d9b066fb5e54384549ba17f15b6ed41308b4732ed358ecc5a68895d8683e6ae3e1d42ca7b130acfe6c2546ee"
 		},
 		{
 			"name": "neil-collins",
 			"extension": "png",
-			"path": "src/neil-collins.png"
+			"path": "src/neil-collins.png",
+			"hash": "4e8500ccb544f2ecca4f94c17b5e8c5bd765cfb6b7456ec53d6bf29b5abda76d729be45ef5b7904db378360a4d1c0ae24ea6acbcd225d61a0cc80a78d1ddf54b"
 		},
 		{
 			"name": "nick-butler",
 			"extension": "png",
-			"path": "src/nick-butler.png"
+			"path": "src/nick-butler.png",
+			"hash": "dac20cfeb9ec58d18b970f290e570ab66fe0c782724bb4b15afcdff7758152943e4e2d236dc1c775ccba5fff3c155705ae7f650d657edd175ae715010dd10c48"
 		},
 		{
 			"name": "nicole-bullock",
 			"extension": "png",
-			"path": "src/nicole-bullock.png"
+			"path": "src/nicole-bullock.png",
+			"hash": "ed0be9bffd3d8e08bbfa51d6b71e313bd9ec550e3944a812e42d70c02d4ab9bb00037b49b603ef0d61f8578f1ffa80bca37de17ccbd625889ceef37873baa398"
 		},
 		{
 			"name": "nigel-andrews",
 			"extension": "png",
-			"path": "src/nigel-andrews.png"
+			"path": "src/nigel-andrews.png",
+			"hash": "1edbc6859923af2f651e0808490510ec696df3363cf19fbafb49e8db37ef67fd94e28a705aa44e7983942964ee10645d9f8eaa22bec00a00356da465c820c65b"
 		},
 		{
 			"name": "nilanjana-roy",
 			"extension": "png",
-			"path": "src/nilanjana-roy.png"
+			"path": "src/nilanjana-roy.png",
+			"hash": "321b6aa678aa37af25686edd4751886728af0e070de4194fd0d1d16533761aaf8b80eca393103852e97cd2a406ea93ef1ffd22f712a75a0828af921e1e5ef938"
 		},
 		{
 			"name": "patrick-jenkins",
 			"extension": "png",
-			"path": "src/patrick-jenkins.png"
+			"path": "src/patrick-jenkins.png",
+			"hash": "7ab8bad5379322f860470625fce324d18de53d21ae5a34d2d827014a8b31908e43e9010209f89ac578c6eba0c3a8721c2edbba115095bf0b36c09e146fdd9895"
 		},
 		{
 			"name": "patti-waldmeir",
 			"extension": "png",
-			"path": "src/patti-waldmeir.png"
+			"path": "src/patti-waldmeir.png",
+			"hash": "0c4edb1d25feeb603d3c6aff473a205ac57f75a358e9d679a1e7cc3612f04ce72401b0f71efe9b770c64dda841efbc7e31f91b5c2303121cd99a0da5569e42c0"
 		},
 		{
 			"name": "paul-lewis",
 			"extension": "png",
-			"path": "src/paul-lewis.png"
+			"path": "src/paul-lewis.png",
+			"hash": "a95248f91940fe35243e3db6fa5a3f70372b5877ecf4d72607bd40e5c0af46c278b3dfb446a16ca40a6567a468f0d6a7f688ac34ddc8e6c180132f3d07f56b92"
 		},
 		{
 			"name": "paul-murphy",
 			"extension": "png",
-			"path": "src/paul-murphy.png"
+			"path": "src/paul-murphy.png",
+			"hash": "ea3285bb323bb535d4db408db2e3ddf758b65962784165fe19979d6ec12314993fb1e517068a7cdab04d4ed07a055b080b4c2c8718d5b8b28edadb8220b64655"
 		},
 		{
 			"name": "peter-aspden",
 			"extension": "png",
-			"path": "src/peter-aspden.png"
+			"path": "src/peter-aspden.png",
+			"hash": "32729e597a82ae883115dfe183bd2c8cbba5fcdc700fc8f82d91f9147bf402872b222985115d233d3d77d6456301c14cc807514d74101be3d3ffaf55b6b4e240"
 		},
 		{
 			"name": "philip-stephens",
 			"extension": "png",
-			"path": "src/philip-stephens.png"
+			"path": "src/philip-stephens.png",
+			"hash": "fa74035bcbedfcd52a8a9e361d86540dd1590532dd5e9fe95d1c146e563affe5848baa477e94510123881f35d5ec6bc481561e9ac10e6f4e1f3caa98cc4ac8d7"
 		},
 		{
 			"name": "pilita-clark",
 			"extension": "png",
-			"path": "src/pilita-clark.png"
+			"path": "src/pilita-clark.png",
+			"hash": "ef56f410b01272db660bf54827ddd6808c513548a2dd1ab8c13453274d000478b2b80dabef75b45c16a28f5cc46c2afc520e79b9d6fa113d0eaf43632899a75e"
 		},
 		{
 			"name": "rana-foroohar",
 			"extension": "png",
-			"path": "src/rana-foroohar.png"
+			"path": "src/rana-foroohar.png",
+			"hash": "ccee563efd3ac4251295c46463571f4c6a8c4816f0c62574f0e60e6e237e9671cf658c2a33037490caf014d892ef3bc44e64cd30e92e9fbf423ac3049454cabf"
 		},
 		{
 			"name": "rebecca-rose",
 			"extension": "png",
-			"path": "src/rebecca-rose.png"
+			"path": "src/rebecca-rose.png",
+			"hash": "48eefa02a0aa5d3ab469f955812491b47a7e247ce6f96facde7962de8d7befbce2eae4a2baf670f988a1aa537bba3de4a1fb4b8a1c2bba0b6749bcd9f07e2b4e"
 		},
 		{
 			"name": "richard-waters",
 			"extension": "png",
-			"path": "src/richard-waters.png"
+			"path": "src/richard-waters.png",
+			"hash": "357ae7e441a2f13d52361d988b33bfd10c954e65b1883a2d24bd91ed1fb9ed2c7c481a6adb9aaa67543c9f8471554e124d0421bf80765100fda39ec5fa3e771b"
 		},
 		{
 			"name": "robert-armstrong",
 			"extension": "png",
-			"path": "src/robert-armstrong.png"
+			"path": "src/robert-armstrong.png",
+			"hash": "cc0f91ad19f8f1c4e0ebddbafe6725d85e814d1e9810a09a4581b74eac82d0cac1cc94e89382d0aa4a7f5c839481133f5b92cb911fdd268a6b57d92ab4534f4b"
 		},
 		{
 			"name": "robert-shrimsley",
 			"extension": "png",
-			"path": "src/robert-shrimsley.png"
+			"path": "src/robert-shrimsley.png",
+			"hash": "058f1dc76166e9bc62de0af41d428923a300200a6110237ef0907ff76881a242b17a6ba978f3e0e2bb86efe4c0fee74ae8c684e33bc24889f6df8c336a20683c"
 		},
 		{
 			"name": "robin-harding",
 			"extension": "png",
-			"path": "src/robin-harding.png"
+			"path": "src/robin-harding.png",
+			"hash": "43d10ae4a18ff262d925ab3e3ed3a009a2a4b545c165f2cb39f5d936988b4dba542318bc1527a0d11559143c9293c60fb1b479d6aa8dab23fb0cbf9b6ee832dd"
 		},
 		{
 			"name": "robin-kwong",
 			"extension": "png",
-			"path": "src/robin-kwong.png"
+			"path": "src/robin-kwong.png",
+			"hash": "8f6c19801218fa90864ba4ddee43e43b2123f5edd517b9cd50b03eaa02b7aa0fb6aaad60e25741670321a92aca2cc5a05555df9c4f5a2828c52631735a68fc43"
 		},
 		{
 			"name": "robin-lane-fox",
 			"extension": "png",
-			"path": "src/robin-lane-fox.png"
+			"path": "src/robin-lane-fox.png",
+			"hash": "5e106c5a8f10826897fae8b5a7a44e3a1944daa2a52a490d16695f6b2bd3b0e6c6bf117e2e0ecb7ec75b96ee05fce40a8768ca13e5b8adb795779bed905d5a7a"
 		},
 		{
 			"name": "robin-wigglesworth",
 			"extension": "png",
-			"path": "src/robin-wigglesworth.png"
+			"path": "src/robin-wigglesworth.png",
+			"hash": "7151b02a8671a832c6394bcd50e590ecb9691315f64abf1351540eac4953847feb66795116545fa24155d7428851fe86ee960ccbcd5126169eff20f1d6718c7f"
 		},
 		{
 			"name": "roula-khalaf",
 			"extension": "png",
-			"path": "src/roula-khalaf.png"
+			"path": "src/roula-khalaf.png",
+			"hash": "27c2e3495e5f8a9c1adcc28a02b94f51fa18014bd1c640d7f2ca47d270e28540ca6a52d63733891225683353d9c95d298f82c9c3c868dbe86ff7351287336290"
 		},
 		{
 			"name": "rowley-leigh",
 			"extension": "png",
-			"path": "src/rowley-leigh.png"
+			"path": "src/rowley-leigh.png",
+			"hash": "2c6adb6890a187cc1e606f3886b51c0be82ea0ea27626ea4d52e60720dfb69a1415a975c198d9f14765f619e22b23d7db0ee6e4497d0e45401ce2b334c6f80d3"
 		},
 		{
 			"name": "samuel-brittan",
 			"extension": "png",
-			"path": "src/samuel-brittan.png"
+			"path": "src/samuel-brittan.png",
+			"hash": "e0f3fb26b854c1c97c51332890af545054803d817f5726b9fdd9f3a74fbcae09e4df4f4b2423e23a286e8d63fb08d75ab1c40e3d032ff439daf9508db9bd2284"
 		},
 		{
 			"name": "sarah-gordon",
 			"extension": "png",
-			"path": "src/sarah-gordon.png"
+			"path": "src/sarah-gordon.png",
+			"hash": "0f3aa939df60ace1c80b33e4c56d177a632d5f7342994c2d5669bdd814d56a71126b089081cb82c3eca4cdc7867c3269ea911896d62fb455d76770dd14f9dd2c"
 		},
 		{
 			"name": "sarah-o-connor",
 			"extension": "png",
-			"path": "src/sarah-o-connor.png"
+			"path": "src/sarah-o-connor.png",
+			"hash": "4de40082d184b7ef6cb621292ebb62c7b8df405aa57bc24615c9798d8ff777c271bcbe18ebb47f58987fe8318cc9996aa0a163ba3946a3749173ea493cfd27af"
 		},
 		{
 			"name": "sebastian-payne",
 			"extension": "png",
-			"path": "src/sebastian-payne.png"
+			"path": "src/sebastian-payne.png",
+			"hash": "8966780499c532ad9a0fb156853e4c75fff8d60d31eebb2b4cec762e2316f89b0fc7a6ede8db0cca3c964788581174e203c2bc71d5317dce92ed7b43055a0a4d"
 		},
 		{
 			"name": "simon-kuper",
 			"extension": "png",
-			"path": "src/simon-kuper.png"
+			"path": "src/simon-kuper.png",
+			"hash": "9fa4fb9484ee68c251f5fd3e4b7047f4526f29b2dda283401a3a5fba7da4b0da9db6cecfcec995007a324fe5b64b9657b8719a5c776fd8bda5a8f96b55a86e24"
 		},
 		{
 			"name": "simon-munday",
 			"extension": "png",
-			"path": "src/simon-munday.png"
+			"path": "src/simon-munday.png",
+			"hash": "3273dc418136a27d160fa082ca9d8a110c8178bb892f0eefa6d72d4c4395cad5fc0019b4c68f285c519691d25613a0f94c2d64e3645aab79b9bcdbda7f3ace53"
 		},
 		{
 			"name": "susie-boyt",
 			"extension": "png",
-			"path": "src/susie-boyt.png"
+			"path": "src/susie-boyt.png",
+			"hash": "21446497d972ab44ff4785d31aaf072db86ad3cc86aea4bbe501037f934cfd41a12a3e75ed70d66b3a1772c544e3bf8a0914d9047c22f99f8176453770506f11"
 		},
 		{
 			"name": "terry-smith",
 			"extension": "png",
-			"path": "src/terry-smith.png"
+			"path": "src/terry-smith.png",
+			"hash": "846b9d2cde140c4574af4b9fd306fe459533ef7282607240bae56727c899975e2f81f5b61d77963ccf0b680628a75378f649a601522872929498dcffa7d66161"
 		},
 		{
 			"name": "tim-bradshaw",
 			"extension": "png",
-			"path": "src/tim-bradshaw.png"
+			"path": "src/tim-bradshaw.png",
+			"hash": "f741083074a4ec39ac913805e78f04a5d8d5d21d16c34e677fa9889b322aaac3924a0f570c4fa4dc5c749fc229c13ea8149040cf5a98ecc722a4856d146b9d6e"
 		},
 		{
 			"name": "tim-harford",
 			"extension": "png",
-			"path": "src/tim-harford.png"
+			"path": "src/tim-harford.png",
+			"hash": "c3f7882ae1dd3023c58656dfbf944ea57a2919b82d0dd1c3c3e6b76233a8bf5f1c58c0753cbda483f278d7425dbf466f6a4fa99ae74aafc73f26a7db819b168b"
 		},
 		{
 			"name": "tom-braithwaite",
 			"extension": "png",
-			"path": "src/tom-braithwaite.png"
+			"path": "src/tom-braithwaite.png",
+			"hash": "2781d8eb61162035fbb5ae3176cdef39a5e7bf97f0df923ff9aea8d762fc2b625cdef25f065b8b95c0eaa337a302d96e15573a58e37b6293d6c10f0516b8cc4e"
 		},
 		{
 			"name": "tony-barber",
 			"extension": "png",
-			"path": "src/tony-barber.png"
+			"path": "src/tony-barber.png",
+			"hash": "750d81b2f65afae9381fc1c3c1949eb00caad9424837cd4bfa1b7443be72bca430e933cb5482329c88b355c06805c4fd0e7d58d39da583a20f4bec06f9e86f10"
 		},
 		{
 			"name": "tyler-brule",
 			"extension": "png",
-			"path": "src/tyler-brule.png"
+			"path": "src/tyler-brule.png",
+			"hash": "e145e7135566afc5c60201a88714218d373cf1bbba4a161e300c6a89ea8b2e5f8d660e0dddf5a019194d2251b9b2d029f8fc6ea98a17376f1302e58802cd02f5"
 		},
 		{
 			"name": "valentina-romei",
 			"extension": "png",
-			"path": "src/valentina-romei.png"
+			"path": "src/valentina-romei.png",
+			"hash": "40c7aa1d8555d777b160d4668057b116333d26d5d4af821515e39f40608bce600c71d4e887ca31577c32cf56c15a8797cfe285b3d8dae1e6d805483f0fabc1b9"
 		},
 		{
 			"name": "vanessa-friedman",
 			"extension": "png",
-			"path": "src/vanessa-friedman.png"
+			"path": "src/vanessa-friedman.png",
+			"hash": "2aea29fffc08a0e9bac2a62ec2b3f489a85025c352dead758723d0766ea13c9403da764c89b6ebe008cd4ef23321fefa60aedb5ab54869beefe41041f1ecdbd0"
 		},
 		{
 			"name": "wolfgang-munchau",
 			"extension": "png",
-			"path": "src/wolfgang-munchau.png"
+			"path": "src/wolfgang-munchau.png",
+			"hash": "642a63a2278b1a3b43d277b954104f563283ed761ba26e083d36e8bbd0ff54787e0ac0d97c7a1d8bebd0aa6c1f86a3e1524d58d692edd16321219db6020bcc56"
 		}
 	]
 }
