@@ -115,6 +115,12 @@
 			"hash": "01757494cbd9f9af49c93ded48228a00919abd1cdb533f8a0aecd0d433753d0e919fd3c9315fce05d3ea35504c2323a498bc639ff9f4c0a59f6c1c86b6e9c8b4"
 		},
 		{
+			"name": "barney-jopson",
+			"extension": "png",
+			"path": "src/barney-jopson.png",
+			"hash": "73df977b3c1e0eae0a1520531672778cd3ee1cbb0326d50997fa143c4adc5247eb385b267fb0eb398192ab029ec4588fb9b98e2c4942c70c6d0d10ca8df017a9"
+		},
+		{
 			"name": "ben-mclannahan",
 			"extension": "png",
 			"path": "src/ben-mclannahan.png",
@@ -433,6 +439,7 @@
 			"name": "henry-foy",
 			"extension": "png",
 			"path": "src/henry-foy.png",
+			"previousHash": "4957171287f238c5b973b40a3ff6d8458b5d9bfc8bd97b2ab692d323e7cb5ba77bdd3c924c9fa40cde7ce3e5a02a23543ad05952cedd55c3c3ebaea842d3ac74",
 			"hash": "4957171287f238c5b973b40a3ff6d8458b5d9bfc8bd97b2ab692d323e7cb5ba77bdd3c924c9fa40cde7ce3e5a02a23543ad05952cedd55c3c3ebaea842d3ac74"
 		},
 		{
