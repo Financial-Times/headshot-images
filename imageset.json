@@ -118,6 +118,7 @@
 			"name": "barney-jopson",
 			"extension": "png",
 			"path": "src/barney-jopson.png",
+			"previousHash": "73df977b3c1e0eae0a1520531672778cd3ee1cbb0326d50997fa143c4adc5247eb385b267fb0eb398192ab029ec4588fb9b98e2c4942c70c6d0d10ca8df017a9",
 			"hash": "73df977b3c1e0eae0a1520531672778cd3ee1cbb0326d50997fa143c4adc5247eb385b267fb0eb398192ab029ec4588fb9b98e2c4942c70c6d0d10ca8df017a9"
 		},
 		{
@@ -126,6 +127,12 @@
 			"path": "src/ben-mclannahan.png",
 			"previousHash": "214cab2569d3700a783c99e5ba6920411eff13d9bd1c5297c2d0d36072a42f676a1f59d47b9c5fe78e9e3eacce451548a9d44bbf5ce6d28ac4ec4c46f525034c",
 			"hash": "214cab2569d3700a783c99e5ba6920411eff13d9bd1c5297c2d0d36072a42f676a1f59d47b9c5fe78e9e3eacce451548a9d44bbf5ce6d28ac4ec4c46f525034c"
+		},
+		{
+			"name": "bobby-seagull",
+			"extension": "png",
+			"path": "src/bobby-seagull.png",
+			"hash": "5304ebc398bbf07550159967fabe0f71dfa04555312d4a6d9bde50711ca82affa45bbb888b850b03cdfc2ba9cf6cd69e05c5040b8371e8db67c6fc6a68358488"
 		},
 		{
 			"name": "brian-groom",
