@@ -132,6 +132,7 @@
 			"name": "bobby-seagull",
 			"extension": "png",
 			"path": "src/bobby-seagull.png",
+			"previousHash": "5304ebc398bbf07550159967fabe0f71dfa04555312d4a6d9bde50711ca82affa45bbb888b850b03cdfc2ba9cf6cd69e05c5040b8371e8db67c6fc6a68358488",
 			"hash": "5304ebc398bbf07550159967fabe0f71dfa04555312d4a6d9bde50711ca82affa45bbb888b850b03cdfc2ba9cf6cd69e05c5040b8371e8db67c6fc6a68358488"
 		},
 		{
@@ -784,6 +785,12 @@
 			"path": "src/madhumita-murgia.png",
 			"previousHash": "84478dadbe227d6e12d9e8ee81b46e06afb0c8f5c12b8ca2f3149556b738b90dce636e5913da85d16c1ac7fd1638d9f468b8feadbbc87d17b6d126016c3d8a99",
 			"hash": "84478dadbe227d6e12d9e8ee81b46e06afb0c8f5c12b8ca2f3149556b738b90dce636e5913da85d16c1ac7fd1638d9f468b8feadbbc87d17b6d126016c3d8a99"
+		},
+		{
+			"name": "madison-darbyshire",
+			"extension": "png",
+			"path": "src/madison-darbyshire.png",
+			"hash": "40e8e2ce18dce872e46efd717a3d591ef0e45afe701d9a14505707b7061968dd9ec1461b158eb2712f74a5de1da6d8540b32a6dbbefd66544409aa3fe5ea17ce"
 		},
 		{
 			"name": "maike-currie",
