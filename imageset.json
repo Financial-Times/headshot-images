@@ -290,6 +290,12 @@
 			"hash": "db9e8bd6d2c5125bb73172408100961ec0dbc782592a483a5d5231f7432ecb77be511343c2aca95524ac96dbe114e3c97e6626b2fcb1d9f3e8f2e656c3921aca"
 		},
 		{
+			"name": "demetri-sevastopulo",
+			"extension": "png",
+			"path": "src/demetri-sevastopulo.png",
+			"hash": "31e072c6a4d3b949aafe78bf37b18c1d9da221f6776e1ef2133133e1bbafc8991925a8198515cde0edeb4f5e12f8dcd95faaf703d6978ca1adb3522c8277335c"
+		},
+		{
 			"name": "diane-coyle",
 			"extension": "png",
 			"path": "src/diane-coyle.png",
@@ -790,6 +796,7 @@
 			"name": "madison-darbyshire",
 			"extension": "png",
 			"path": "src/madison-darbyshire.png",
+			"previousHash": "40e8e2ce18dce872e46efd717a3d591ef0e45afe701d9a14505707b7061968dd9ec1461b158eb2712f74a5de1da6d8540b32a6dbbefd66544409aa3fe5ea17ce",
 			"hash": "40e8e2ce18dce872e46efd717a3d591ef0e45afe701d9a14505707b7061968dd9ec1461b158eb2712f74a5de1da6d8540b32a6dbbefd66544409aa3fe5ea17ce"
 		},
 		{
