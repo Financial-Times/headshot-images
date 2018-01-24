@@ -293,6 +293,7 @@
 			"name": "demetri-sevastopulo",
 			"extension": "png",
 			"path": "src/demetri-sevastopulo.png",
+			"previousHash": "31e072c6a4d3b949aafe78bf37b18c1d9da221f6776e1ef2133133e1bbafc8991925a8198515cde0edeb4f5e12f8dcd95faaf703d6978ca1adb3522c8277335c",
 			"hash": "31e072c6a4d3b949aafe78bf37b18c1d9da221f6776e1ef2133133e1bbafc8991925a8198515cde0edeb4f5e12f8dcd95faaf703d6978ca1adb3522c8277335c"
 		},
 		{
@@ -441,6 +442,12 @@
 			"path": "src/harry-eyres.png",
 			"previousHash": "4197b07682bdf3a743d3ed7e8f4a5bf68a66acc051c203e2c771656d696939a3bc29efa85cc0cc7d5fdd76a8575c46a6f6164df5051bb0b17db15ee317649d98",
 			"hash": "4197b07682bdf3a743d3ed7e8f4a5bf68a66acc051c203e2c771656d696939a3bc29efa85cc0cc7d5fdd76a8575c46a6f6164df5051bb0b17db15ee317649d98"
+		},
+		{
+			"name": "helen-barrett",
+			"extension": "png",
+			"path": "src/helen-barrett.png",
+			"hash": "9307d4142fda99dedb4c3928f8faac9874debecf80c31ebc916278344c013f8a2e2a37374a6b49b18b4bbc7e2ea0dfe41082d6a008aacfe699032d11a446a3f3"
 		},
 		{
 			"name": "henny-sender",
