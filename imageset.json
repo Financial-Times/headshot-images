@@ -559,7 +559,7 @@
 			"name": "jenny-lee",
 			"extension": "png",
 			"path": "src/jenny-lee.png",
-			"previousHash": "ffb5fd07ef55af59d296d7675d7c1c1c1f913d0f2ea3a07c63c1d29efa3e33db7f0421c55f44760a5838b9e44b3ab696324b5f97a14897e1d775b3ef489aa8e6",
+			"previousHash": "dc250c8a114033819cefb307dd585693210683339d0ea22be94ae07e59f0da267e2ceae3f45d6de15dea7bbc72d160f14161962e0157111c76d0b47807d4e5c4",
 			"hash": "dc250c8a114033819cefb307dd585693210683339d0ea22be94ae07e59f0da267e2ceae3f45d6de15dea7bbc72d160f14161962e0157111c76d0b47807d4e5c4"
 		},
 		{
@@ -1072,6 +1072,12 @@
 			"path": "src/rowley-leigh.png",
 			"previousHash": "2c6adb6890a187cc1e606f3886b51c0be82ea0ea27626ea4d52e60720dfb69a1415a975c198d9f14765f619e22b23d7db0ee6e4497d0e45401ce2b334c6f80d3",
 			"hash": "2c6adb6890a187cc1e606f3886b51c0be82ea0ea27626ea4d52e60720dfb69a1415a975c198d9f14765f619e22b23d7db0ee6e4497d0e45401ce2b334c6f80d3"
+		},
+		{
+			"name": "sam-fleming",
+			"extension": "png",
+			"path": "src/sam-fleming.png",
+			"hash": "ca54e4cefa31946c72ec7db2f949f81415ae9ea08781d29a85ad907fb60361240e4bffaf65b895304c1fc3611944fb57efba496dbb5c27fd83044decf7f66387"
 		},
 		{
 			"name": "samuel-brittan",
