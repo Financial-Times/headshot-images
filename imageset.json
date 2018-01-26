@@ -447,6 +447,7 @@
 			"name": "helen-barrett",
 			"extension": "png",
 			"path": "src/helen-barrett.png",
+			"previousHash": "9307d4142fda99dedb4c3928f8faac9874debecf80c31ebc916278344c013f8a2e2a37374a6b49b18b4bbc7e2ea0dfe41082d6a008aacfe699032d11a446a3f3",
 			"hash": "9307d4142fda99dedb4c3928f8faac9874debecf80c31ebc916278344c013f8a2e2a37374a6b49b18b4bbc7e2ea0dfe41082d6a008aacfe699032d11a446a3f3"
 		},
 		{
@@ -559,7 +560,7 @@
 			"extension": "png",
 			"path": "src/jenny-lee.png",
 			"previousHash": "ffb5fd07ef55af59d296d7675d7c1c1c1f913d0f2ea3a07c63c1d29efa3e33db7f0421c55f44760a5838b9e44b3ab696324b5f97a14897e1d775b3ef489aa8e6",
-			"hash": "ffb5fd07ef55af59d296d7675d7c1c1c1f913d0f2ea3a07c63c1d29efa3e33db7f0421c55f44760a5838b9e44b3ab696324b5f97a14897e1d775b3ef489aa8e6"
+			"hash": "dc250c8a114033819cefb307dd585693210683339d0ea22be94ae07e59f0da267e2ceae3f45d6de15dea7bbc72d160f14161962e0157111c76d0b47807d4e5c4"
 		},
 		{
 			"name": "jo-ellison",
