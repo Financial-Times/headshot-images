@@ -1115,6 +1115,12 @@
 			"hash": "8966780499c532ad9a0fb156853e4c75fff8d60d31eebb2b4cec762e2316f89b0fc7a6ede8db0cca3c964788581174e203c2bc71d5317dce92ed7b43055a0a4d"
 		},
 		{
+			"name": "shawn-donnan",
+			"extension": "png",
+			"path": "src/shawn-donnan.png",
+			"hash": "a10ee6ab1c52bc26b0cab372949c10859e7fd633b8d768471d1bdf3dc4f36f74b9b96c4aa94c9c69bb7fdbf96c677bdb7245744a3596787af1bd540a3602c59c"
+		},
+		{
 			"name": "simon-kuper",
 			"extension": "png",
 			"path": "src/simon-kuper.png",
