@@ -244,6 +244,7 @@
 			"name": "daniel-thomas",
 			"extension": "png",
 			"path": "src/daniel-thomas.png",
+			"previousHash": "76e9a9256f6f0e35e1662ebf86f93df1a86ded1d01419c4c540807a935a2368c774bf97919240db797bc18279869036b25f0cd70f07dfd1d54937d0ee44c9ba0",
 			"hash": "76e9a9256f6f0e35e1662ebf86f93df1a86ded1d01419c4c540807a935a2368c774bf97919240db797bc18279869036b25f0cd70f07dfd1d54937d0ee44c9ba0"
 		},
 		{
@@ -538,7 +539,7 @@
 			"extension": "png",
 			"path": "src/jancis-robinson.png",
 			"previousHash": "e457b67374c25b2fe797327dcdd42314fc073a307f9555f8247c7d0b79b3c7ea40844ffea3100def836e49d5921b739f58550f7b7628ac899286ea75415623d7",
-			"hash": "e457b67374c25b2fe797327dcdd42314fc073a307f9555f8247c7d0b79b3c7ea40844ffea3100def836e49d5921b739f58550f7b7628ac899286ea75415623d7"
+			"hash": "1f2916331ea78960ce65f61d96e1b77104ee97632a091ac81af564cd20050dc48d595bf8140af93f0494b03de5e98804dcaf9d7a9b70a3eb30bcace24230de0a"
 		},
 		{
 			"name": "jane-owen",
@@ -1118,6 +1119,7 @@
 			"name": "shawn-donnan",
 			"extension": "png",
 			"path": "src/shawn-donnan.png",
+			"previousHash": "a10ee6ab1c52bc26b0cab372949c10859e7fd633b8d768471d1bdf3dc4f36f74b9b96c4aa94c9c69bb7fdbf96c677bdb7245744a3596787af1bd540a3602c59c",
 			"hash": "a10ee6ab1c52bc26b0cab372949c10859e7fd633b8d768471d1bdf3dc4f36f74b9b96c4aa94c9c69bb7fdbf96c677bdb7245744a3596787af1bd540a3602c59c"
 		},
 		{
