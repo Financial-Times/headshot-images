@@ -241,6 +241,12 @@
 			"hash": "72a4ed7103aacf0e1a4a2b0795eff7a3e88240cdcd46b41d7d876767335dc7683cce859d958e92ded2748542480b857ed7e60a6e8679575d3c599af90bad32a7"
 		},
 		{
+			"name": "daniel-thomas",
+			"extension": "png",
+			"path": "src/daniel-thomas.png",
+			"hash": "76e9a9256f6f0e35e1662ebf86f93df1a86ded1d01419c4c540807a935a2368c774bf97919240db797bc18279869036b25f0cd70f07dfd1d54937d0ee44c9ba0"
+		},
+		{
 			"name": "david-gardner",
 			"extension": "png",
 			"path": "src/david-gardner.png",
@@ -1077,6 +1083,7 @@
 			"name": "sam-fleming",
 			"extension": "png",
 			"path": "src/sam-fleming.png",
+			"previousHash": "ca54e4cefa31946c72ec7db2f949f81415ae9ea08781d29a85ad907fb60361240e4bffaf65b895304c1fc3611944fb57efba496dbb5c27fd83044decf7f66387",
 			"hash": "ca54e4cefa31946c72ec7db2f949f81415ae9ea08781d29a85ad907fb60361240e4bffaf65b895304c1fc3611944fb57efba496dbb5c27fd83044decf7f66387"
 		},
 		{
@@ -1106,6 +1113,12 @@
 			"path": "src/sebastian-payne.png",
 			"previousHash": "8966780499c532ad9a0fb156853e4c75fff8d60d31eebb2b4cec762e2316f89b0fc7a6ede8db0cca3c964788581174e203c2bc71d5317dce92ed7b43055a0a4d",
 			"hash": "8966780499c532ad9a0fb156853e4c75fff8d60d31eebb2b4cec762e2316f89b0fc7a6ede8db0cca3c964788581174e203c2bc71d5317dce92ed7b43055a0a4d"
+		},
+		{
+			"name": "shawn-donnan",
+			"extension": "png",
+			"path": "src/shawn-donnan.png",
+			"hash": "a10ee6ab1c52bc26b0cab372949c10859e7fd633b8d768471d1bdf3dc4f36f74b9b96c4aa94c9c69bb7fdbf96c677bdb7245744a3596787af1bd540a3602c59c"
 		},
 		{
 			"name": "simon-kuper",
