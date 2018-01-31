@@ -437,6 +437,12 @@
 			"hash": "22574f287487b8fc5490b830c09b9be7b525990e0659a25b3d9a53a5d21227fa7d64b585595b9d9aabe600bc05536cd908e3ee957319bd6abadbf8241a540fc7"
 		},
 		{
+			"name": "guy-chazan",
+			"extension": "png",
+			"path": "src/guy-chazan.png",
+			"hash": "2aa74a0946790f250b12380056cbd7d4a59393e624339e07f00e17075dbc73078a6d923236e81e51aed93ed4dc8be2677e8c4741b9bbcf5881718a7497bd3d16"
+		},
+		{
 			"name": "hannah-kuchler",
 			"extension": "png",
 			"path": "src/hannah-kuchler.png",
@@ -538,7 +544,7 @@
 			"name": "jancis-robinson",
 			"extension": "png",
 			"path": "src/jancis-robinson.png",
-			"previousHash": "e457b67374c25b2fe797327dcdd42314fc073a307f9555f8247c7d0b79b3c7ea40844ffea3100def836e49d5921b739f58550f7b7628ac899286ea75415623d7",
+			"previousHash": "1f2916331ea78960ce65f61d96e1b77104ee97632a091ac81af564cd20050dc48d595bf8140af93f0494b03de5e98804dcaf9d7a9b70a3eb30bcace24230de0a",
 			"hash": "1f2916331ea78960ce65f61d96e1b77104ee97632a091ac81af564cd20050dc48d595bf8140af93f0494b03de5e98804dcaf9d7a9b70a3eb30bcace24230de0a"
 		},
 		{
