@@ -38,6 +38,12 @@
 			"hash": "745e93bc18cba42bcceda62f37542b95e846c4b8f413527b207213c17cdf369d29cd826408937ecec14dd1d65d26fe05e04d2071a15862f2f381a549748ed4da"
 		},
 		{
+			"name": "aleksandra-wisniewska",
+			"extension": "png",
+			"path": "src/aleksandra-wisniewska.png",
+			"hash": "c96f3c121417b1831b5484b9a3a3ed1490b6392eff997f251dab979241374437a5da01e8c577a87a1af18c238d90b01f50491dcc4463f9127ec5cfb1bb5e281e"
+		},
+		{
 			"name": "alexander-gilmour",
 			"extension": "png",
 			"path": "src/alexander-gilmour.png",
@@ -440,6 +446,7 @@
 			"name": "guy-chazan",
 			"extension": "png",
 			"path": "src/guy-chazan.png",
+			"previousHash": "2aa74a0946790f250b12380056cbd7d4a59393e624339e07f00e17075dbc73078a6d923236e81e51aed93ed4dc8be2677e8c4741b9bbcf5881718a7497bd3d16",
 			"hash": "2aa74a0946790f250b12380056cbd7d4a59393e624339e07f00e17075dbc73078a6d923236e81e51aed93ed4dc8be2677e8c4741b9bbcf5881718a7497bd3d16"
 		},
 		{
