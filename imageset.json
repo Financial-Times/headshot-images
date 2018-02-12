@@ -41,6 +41,7 @@
 			"name": "aleksandra-wisniewska",
 			"extension": "png",
 			"path": "src/aleksandra-wisniewska.png",
+			"previousHash": "c96f3c121417b1831b5484b9a3a3ed1490b6392eff997f251dab979241374437a5da01e8c577a87a1af18c238d90b01f50491dcc4463f9127ec5cfb1bb5e281e",
 			"hash": "c96f3c121417b1831b5484b9a3a3ed1490b6392eff997f251dab979241374437a5da01e8c577a87a1af18c238d90b01f50491dcc4463f9127ec5cfb1bb5e281e"
 		},
 		{
@@ -468,7 +469,7 @@
 			"extension": "png",
 			"path": "src/helen-barrett.png",
 			"previousHash": "9307d4142fda99dedb4c3928f8faac9874debecf80c31ebc916278344c013f8a2e2a37374a6b49b18b4bbc7e2ea0dfe41082d6a008aacfe699032d11a446a3f3",
-			"hash": "9307d4142fda99dedb4c3928f8faac9874debecf80c31ebc916278344c013f8a2e2a37374a6b49b18b4bbc7e2ea0dfe41082d6a008aacfe699032d11a446a3f3"
+			"hash": "b6854786fb5c336714602c0a5013ec7651ab831becdb6f63972430bf275e1214e6c0f4b964fa0e4947c94a829f8638e8632a7937831b2ad3c8c9aaea5635878f"
 		},
 		{
 			"name": "henny-sender",
