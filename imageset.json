@@ -997,6 +997,12 @@
 			"hash": "ea3285bb323bb535d4db408db2e3ddf758b65962784165fe19979d6ec12314993fb1e517068a7cdab04d4ed07a055b080b4c2c8718d5b8b28edadb8220b64655"
 		},
 		{
+			"name": "peggy-hollinger",
+			"extension": "png",
+			"path": "src/peggy-hollinger.png",
+			"hash": "6eb09351b624ad4047881c8732aa7132454e9509c3b1e4cf163557d2aa494bb1bec0f4893af67053a51996d44982eac9c2e683c0503832f98e00db6872d520e4"
+		},
+		{
 			"name": "peter-aspden",
 			"extension": "png",
 			"path": "src/peter-aspden.png",
@@ -1168,6 +1174,7 @@
 			"name": "thomas-hale",
 			"extension": "png",
 			"path": "src/thomas-hale.png",
+			"previousHash": "4e247e6ffca5e4cd01b3f6d56bdebae56e8b3ed0c8c56fe646d9c2721de7dbacacf12111b4954f4fcf3034146b72b298110bd2e5109f3f106081d59383adf25d",
 			"hash": "4e247e6ffca5e4cd01b3f6d56bdebae56e8b3ed0c8c56fe646d9c2721de7dbacacf12111b4954f4fcf3034146b72b298110bd2e5109f3f106081d59383adf25d"
 		},
 		{
