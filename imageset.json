@@ -468,7 +468,7 @@
 			"name": "helen-barrett",
 			"extension": "png",
 			"path": "src/helen-barrett.png",
-			"previousHash": "9307d4142fda99dedb4c3928f8faac9874debecf80c31ebc916278344c013f8a2e2a37374a6b49b18b4bbc7e2ea0dfe41082d6a008aacfe699032d11a446a3f3",
+			"previousHash": "b6854786fb5c336714602c0a5013ec7651ab831becdb6f63972430bf275e1214e6c0f4b964fa0e4947c94a829f8638e8632a7937831b2ad3c8c9aaea5635878f",
 			"hash": "b6854786fb5c336714602c0a5013ec7651ab831becdb6f63972430bf275e1214e6c0f4b964fa0e4947c94a829f8638e8632a7937831b2ad3c8c9aaea5635878f"
 		},
 		{
@@ -1163,6 +1163,12 @@
 			"path": "src/terry-smith.png",
 			"previousHash": "846b9d2cde140c4574af4b9fd306fe459533ef7282607240bae56727c899975e2f81f5b61d77963ccf0b680628a75378f649a601522872929498dcffa7d66161",
 			"hash": "846b9d2cde140c4574af4b9fd306fe459533ef7282607240bae56727c899975e2f81f5b61d77963ccf0b680628a75378f649a601522872929498dcffa7d66161"
+		},
+		{
+			"name": "thomas-hale",
+			"extension": "png",
+			"path": "src/thomas-hale.png",
+			"hash": "4e247e6ffca5e4cd01b3f6d56bdebae56e8b3ed0c8c56fe646d9c2721de7dbacacf12111b4954f4fcf3034146b72b298110bd2e5109f3f106081d59383adf25d"
 		},
 		{
 			"name": "tim-bradshaw",
