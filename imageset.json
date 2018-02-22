@@ -154,7 +154,7 @@
 			"extension": "png",
 			"path": "src/brooke-masters.png",
 			"previousHash": "7b498e86ed57e0632fc4ac52e8a37efc4a2ae0a9107ec9b0b46b5fe2126f3ee506a9ea39e502c9a4474931494afc35b43b213da84ca98f0bcbb4813265ad0f46",
-			"hash": "7b498e86ed57e0632fc4ac52e8a37efc4a2ae0a9107ec9b0b46b5fe2126f3ee506a9ea39e502c9a4474931494afc35b43b213da84ca98f0bcbb4813265ad0f46"
+			"hash": "8d371f0ea05bf6d066056477809fe330269bb67e7662ef835523b6dd2b04dcd06cf43db28e58215c40af1334cd1e313241b5f3020ee0d9b109e8e976dc45a5b5"
 		},
 		{
 			"name": "bruce-bartlett",
@@ -1000,6 +1000,7 @@
 			"name": "peggy-hollinger",
 			"extension": "png",
 			"path": "src/peggy-hollinger.png",
+			"previousHash": "6eb09351b624ad4047881c8732aa7132454e9509c3b1e4cf163557d2aa494bb1bec0f4893af67053a51996d44982eac9c2e683c0503832f98e00db6872d520e4",
 			"hash": "6eb09351b624ad4047881c8732aa7132454e9509c3b1e4cf163557d2aa494bb1bec0f4893af67053a51996d44982eac9c2e683c0503832f98e00db6872d520e4"
 		},
 		{
