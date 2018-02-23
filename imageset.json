@@ -153,7 +153,7 @@
 			"name": "brooke-masters",
 			"extension": "png",
 			"path": "src/brooke-masters.png",
-			"previousHash": "7b498e86ed57e0632fc4ac52e8a37efc4a2ae0a9107ec9b0b46b5fe2126f3ee506a9ea39e502c9a4474931494afc35b43b213da84ca98f0bcbb4813265ad0f46",
+			"previousHash": "8d371f0ea05bf6d066056477809fe330269bb67e7662ef835523b6dd2b04dcd06cf43db28e58215c40af1334cd1e313241b5f3020ee0d9b109e8e976dc45a5b5",
 			"hash": "8d371f0ea05bf6d066056477809fe330269bb67e7662ef835523b6dd2b04dcd06cf43db28e58215c40af1334cd1e313241b5f3020ee0d9b109e8e976dc45a5b5"
 		},
 		{
@@ -491,6 +491,12 @@
 			"path": "src/henry-mance.png",
 			"previousHash": "fdb6dd1808d1ae08d84ecab344d6359054be3f66b3ce77395340df431afe2b3c7e13766e5b1b2ee1dfb27de8ae9ef1b5f0eaa605f6b343f36217c34d4036ac1c",
 			"hash": "fdb6dd1808d1ae08d84ecab344d6359054be3f66b3ce77395340df431afe2b3c7e13766e5b1b2ee1dfb27de8ae9ef1b5f0eaa605f6b343f36217c34d4036ac1c"
+		},
+		{
+			"name": "isabel-berwick",
+			"extension": "png",
+			"path": "src/isabel-berwick.png",
+			"hash": "fe7175de421f2f3cd9dac8121cccef4e18c0755f14802218e4b80b121324a513501f221b7c28251a05b7bc11bb27f6d0e61e4ae730755f8a5059edcd9783ee47"
 		},
 		{
 			"name": "izabella-kaminska",
