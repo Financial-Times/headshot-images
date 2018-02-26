@@ -227,6 +227,12 @@
 			"hash": "abf0d860e9b57b408e0cd9b8aa49899c08271f4799db7cdf1ed5b79f4cf5d93a23d8b0d453dc870b1104c56ad817caca3de0dc6ed9fe283b879e42f9f802d322"
 		},
 		{
+			"name": "cordelia-jenkins",
+			"extension": "png",
+			"path": "src/cordelia-jenkins.png",
+			"hash": "10b8c1baec642c1dec343d4c30d20c3e316fc76e44f9a105292e8ddb23c7a771c240cab18def65537dd6906ba0cfd7f38ca51b5699db0b8268302824baf64c07"
+		},
+		{
 			"name": "courtney-weaver",
 			"extension": "png",
 			"path": "src/courtney-weaver.png",
@@ -315,7 +321,7 @@
 			"extension": "png",
 			"path": "src/diane-coyle.png",
 			"previousHash": "dc53196dc6461ed44e563ef03417bc2753e6b3862c9441ab9aebf54c7451d830c7ff567a1473b22789b93c22ca47b58a52a6a043273b011f90e418fc61baaf14",
-			"hash": "dc53196dc6461ed44e563ef03417bc2753e6b3862c9441ab9aebf54c7451d830c7ff567a1473b22789b93c22ca47b58a52a6a043273b011f90e418fc61baaf14"
+			"hash": "cbc3e88787bef97ea605e355e5883b61347611ee871bd9d034a97dc7c0962d773944d72039c1eef901adc450aff40adf8ac42db762affab2fdf54692041d2802"
 		},
 		{
 			"name": "don-ezra",
@@ -496,6 +502,7 @@
 			"name": "isabel-berwick",
 			"extension": "png",
 			"path": "src/isabel-berwick.png",
+			"previousHash": "fe7175de421f2f3cd9dac8121cccef4e18c0755f14802218e4b80b121324a513501f221b7c28251a05b7bc11bb27f6d0e61e4ae730755f8a5059edcd9783ee47",
 			"hash": "fe7175de421f2f3cd9dac8121cccef4e18c0755f14802218e4b80b121324a513501f221b7c28251a05b7bc11bb27f6d0e61e4ae730755f8a5059edcd9783ee47"
 		},
 		{
