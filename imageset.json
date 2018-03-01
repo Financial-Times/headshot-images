@@ -230,6 +230,7 @@
 			"name": "cordelia-jenkins",
 			"extension": "png",
 			"path": "src/cordelia-jenkins.png",
+			"previousHash": "10b8c1baec642c1dec343d4c30d20c3e316fc76e44f9a105292e8ddb23c7a771c240cab18def65537dd6906ba0cfd7f38ca51b5699db0b8268302824baf64c07",
 			"hash": "10b8c1baec642c1dec343d4c30d20c3e316fc76e44f9a105292e8ddb23c7a771c240cab18def65537dd6906ba0cfd7f38ca51b5699db0b8268302824baf64c07"
 		},
 		{
@@ -320,7 +321,7 @@
 			"name": "diane-coyle",
 			"extension": "png",
 			"path": "src/diane-coyle.png",
-			"previousHash": "dc53196dc6461ed44e563ef03417bc2753e6b3862c9441ab9aebf54c7451d830c7ff567a1473b22789b93c22ca47b58a52a6a043273b011f90e418fc61baaf14",
+			"previousHash": "cbc3e88787bef97ea605e355e5883b61347611ee871bd9d034a97dc7c0962d773944d72039c1eef901adc450aff40adf8ac42db762affab2fdf54692041d2802",
 			"hash": "cbc3e88787bef97ea605e355e5883b61347611ee871bd9d034a97dc7c0962d773944d72039c1eef901adc450aff40adf8ac42db762affab2fdf54692041d2802"
 		},
 		{
@@ -721,6 +722,12 @@
 			"path": "src/kana-inagaki.png",
 			"previousHash": "c89b0e28c2a3bd8aaa1cd59c0725f04cadb0df9387095bd7582b8bcfe1f24bdeff550b7096f0f4615d194c65b3c2e9de5ddeca0e4dce8033af09e2b8468e5572",
 			"hash": "c89b0e28c2a3bd8aaa1cd59c0725f04cadb0df9387095bd7582b8bcfe1f24bdeff550b7096f0f4615d194c65b3c2e9de5ddeca0e4dce8033af09e2b8468e5572"
+		},
+		{
+			"name": "kate-allen",
+			"extension": "png",
+			"path": "src/kate-allen.png",
+			"hash": "68f19a3e499dcbcff733bb368f13a4e4239efadfc89604e55740114bb36d3bae3ee7c3bb09c3c27b9fdff367d907e1e3fbfdcddd5d992fd119b681bcbaef1cd7"
 		},
 		{
 			"name": "kate-burgess",
