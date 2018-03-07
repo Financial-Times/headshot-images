@@ -69,6 +69,7 @@
 			"name": "andrew-edgecliffe-johnson",
 			"extension": "png",
 			"path": "src/andrew-edgecliffe-johnson.png",
+			"previousHash": "10b8e98da435896bb4191323b196592f772980a61378e7d0562e8bef8ed8ef83862daa41cd895f3732c83a1a29777ac5ad8569546e25c13013dda94f122e599e",
 			"hash": "10b8e98da435896bb4191323b196592f772980a61378e7d0562e8bef8ed8ef83862daa41cd895f3732c83a1a29777ac5ad8569546e25c13013dda94f122e599e"
 		},
 		{
@@ -733,8 +734,8 @@
 			"name": "kate-allen",
 			"extension": "png",
 			"path": "src/kate-allen.png",
-			"previousHash": "68f19a3e499dcbcff733bb368f13a4e4239efadfc89604e55740114bb36d3bae3ee7c3bb09c3c27b9fdff367d907e1e3fbfdcddd5d992fd119b681bcbaef1cd7",
-			"hash": "bd5de7030a8b68da14af3329470d4ed5684b7acc26ffd2e458a08d96e772bb62d99e3ef5862ef32cd6a2b5891aaeae06bcdc741bc140d06ae77af07b8ba9fd6d"
+			"previousHash": "bd5de7030a8b68da14af3329470d4ed5684b7acc26ffd2e458a08d96e772bb62d99e3ef5862ef32cd6a2b5891aaeae06bcdc741bc140d06ae77af07b8ba9fd6d",
+			"hash": "68f19a3e499dcbcff733bb368f13a4e4239efadfc89604e55740114bb36d3bae3ee7c3bb09c3c27b9fdff367d907e1e3fbfdcddd5d992fd119b681bcbaef1cd7"
 		},
 		{
 			"name": "kate-burgess",
