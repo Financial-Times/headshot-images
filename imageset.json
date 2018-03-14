@@ -549,6 +549,12 @@
 			"hash": "aeea272d2afef617af03a1c59eda3a140a561ffd730b79b011a1381c82c15540f3f1a70340c049dd83fdc15d5fedc0a4b170691efc23caed3e06c3b16b934252"
 		},
 		{
+			"name": "jamie-powell",
+			"extension": "png",
+			"path": "src/jamie-powell.png",
+			"hash": "57b50fc13c318988e9d5e8b590d74933d9e598a199847e1d1103d146c6382c9ddf38b91b39a5570c570f2fad0edbfd7529b3780781f9a4420728420611756a3a"
+		},
+		{
 			"name": "jamil-anderlini",
 			"extension": "png",
 			"path": "src/jamil-anderlini.png",
@@ -734,7 +740,7 @@
 			"name": "kate-allen",
 			"extension": "png",
 			"path": "src/kate-allen.png",
-			"previousHash": "bd5de7030a8b68da14af3329470d4ed5684b7acc26ffd2e458a08d96e772bb62d99e3ef5862ef32cd6a2b5891aaeae06bcdc741bc140d06ae77af07b8ba9fd6d",
+			"previousHash": "68f19a3e499dcbcff733bb368f13a4e4239efadfc89604e55740114bb36d3bae3ee7c3bb09c3c27b9fdff367d907e1e3fbfdcddd5d992fd119b681bcbaef1cd7",
 			"hash": "68f19a3e499dcbcff733bb368f13a4e4239efadfc89604e55740114bb36d3bae3ee7c3bb09c3c27b9fdff367d907e1e3fbfdcddd5d992fd119b681bcbaef1cd7"
 		},
 		{
