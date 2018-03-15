@@ -552,6 +552,7 @@
 			"name": "jamie-powell",
 			"extension": "png",
 			"path": "src/jamie-powell.png",
+			"previousHash": "57b50fc13c318988e9d5e8b590d74933d9e598a199847e1d1103d146c6382c9ddf38b91b39a5570c570f2fad0edbfd7529b3780781f9a4420728420611756a3a",
 			"hash": "57b50fc13c318988e9d5e8b590d74933d9e598a199847e1d1103d146c6382c9ddf38b91b39a5570c570f2fad0edbfd7529b3780781f9a4420728420611756a3a"
 		},
 		{
@@ -1267,6 +1268,12 @@
 			"path": "src/wolfgang-munchau.png",
 			"previousHash": "642a63a2278b1a3b43d277b954104f563283ed761ba26e083d36e8bbd0ff54787e0ac0d97c7a1d8bebd0aa6c1f86a3e1524d58d692edd16321219db6020bcc56",
 			"hash": "642a63a2278b1a3b43d277b954104f563283ed761ba26e083d36e8bbd0ff54787e0ac0d97c7a1d8bebd0aa6c1f86a3e1524d58d692edd16321219db6020bcc56"
+		},
+		{
+			"name": "yuan-yang",
+			"extension": "png",
+			"path": "src/yuan-yang.png",
+			"hash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e"
 		}
 	]
 }
