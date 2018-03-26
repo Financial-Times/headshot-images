@@ -773,6 +773,12 @@
 			"hash": "d0490d3b314de001df8d05b876356976aba3d9fec3d4a01d828d3a2576590315fe2e8a02994cf9124a2d8e12020206629aa814e2ae897650735529ee1328e663"
 		},
 		{
+			"name": "laura-pitel",
+			"extension": "png",
+			"path": "src/laura-pitel.png",
+			"hash": "4b0cf7c39c28b7b7c04bd3db87b2668a9650ca3796b67f9ec906462d44d17ea4d088cfd0066c38021b48f784c60cc858d076ffe983e9a3b7136414ae0c4ecf3e"
+		},
+		{
 			"name": "lawrence-summers",
 			"extension": "png",
 			"path": "src/lawrence-summers.png",
@@ -1273,6 +1279,7 @@
 			"name": "yuan-yang",
 			"extension": "png",
 			"path": "src/yuan-yang.png",
+			"previousHash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e",
 			"hash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e"
 		}
 	]
