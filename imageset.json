@@ -199,6 +199,12 @@
 			"hash": "9e3d153de8d8010919d5dce39d1d1175634a65227fcf45850269a2387142ed9603d37d2f6cfbbc8570969d8bae0ef6973c25e33f1e7ba12ba467b8f415ba9682"
 		},
 		{
+			"name": "chloe-cornish",
+			"extension": "png",
+			"path": "src/chloe-cornish.png",
+			"hash": "e6be7149758c78e6730f579fb23f5b401022b880c779dca8a59c96ea1a91152305c7a00670463fe88fe095653e1c9fc3efe2bde7defab026bf7beeb80d6b46f3"
+		},
+		{
 			"name": "chris-giles",
 			"extension": "png",
 			"path": "src/chris-giles.png",
@@ -717,6 +723,12 @@
 			"hash": "5c7e0314d8961fa675fc3eb83b9f6e99c0d49b9981c0cc65bdbde447dec5412f3f6662dfe4b8fe63e799da71b96c3f07c5ccb7517bf15930e21c78d41f620fc7"
 		},
 		{
+			"name": "julia-apostle",
+			"extension": "png",
+			"path": "src/julia-apostle.png",
+			"hash": "adb127ccf94d4a4558aed95154b82a94e3ea04d7edf1951aa861781992d08c3884adec50bd0bea6008b7dd17bc818a1a71e94f4cfc5daf85cb24f0ab0f24e23d"
+		},
+		{
 			"name": "jurek-martin",
 			"extension": "png",
 			"path": "src/jurek-martin.png",
@@ -776,6 +788,7 @@
 			"name": "laura-pitel",
 			"extension": "png",
 			"path": "src/laura-pitel.png",
+			"previousHash": "4b0cf7c39c28b7b7c04bd3db87b2668a9650ca3796b67f9ec906462d44d17ea4d088cfd0066c38021b48f784c60cc858d076ffe983e9a3b7136414ae0c4ecf3e",
 			"hash": "4b0cf7c39c28b7b7c04bd3db87b2668a9650ca3796b67f9ec906462d44d17ea4d088cfd0066c38021b48f784c60cc858d076ffe983e9a3b7136414ae0c4ecf3e"
 		},
 		{
@@ -889,6 +902,12 @@
 			"path": "src/martin-sandbu.png",
 			"previousHash": "c51261d932fd075e007b1b37a1c1cf2cf64e5a6cbb142f4908c59d059394dace507dd70a0886c1c4b81ff10ea869265fbf424bf41ccf89eb347a21ffbc8ab52e",
 			"hash": "c51261d932fd075e007b1b37a1c1cf2cf64e5a6cbb142f4908c59d059394dace507dd70a0886c1c4b81ff10ea869265fbf424bf41ccf89eb347a21ffbc8ab52e"
+		},
+		{
+			"name": "martin-stabe",
+			"extension": "png",
+			"path": "src/martin-stabe.png",
+			"hash": "6db8874e6103e009f40901db03b46c38b82a78f601c7557455934ba8182a314f5517de89a584c17c3703eba0dcb7dde5468fabb43fb869b70bc66c08e44d62e7"
 		},
 		{
 			"name": "martin-wolf",
