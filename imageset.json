@@ -202,6 +202,7 @@
 			"name": "chloe-cornish",
 			"extension": "png",
 			"path": "src/chloe-cornish.png",
+			"previousHash": "e6be7149758c78e6730f579fb23f5b401022b880c779dca8a59c96ea1a91152305c7a00670463fe88fe095653e1c9fc3efe2bde7defab026bf7beeb80d6b46f3",
 			"hash": "e6be7149758c78e6730f579fb23f5b401022b880c779dca8a59c96ea1a91152305c7a00670463fe88fe095653e1c9fc3efe2bde7defab026bf7beeb80d6b46f3"
 		},
 		{
@@ -726,6 +727,7 @@
 			"name": "julia-apostle",
 			"extension": "png",
 			"path": "src/julia-apostle.png",
+			"previousHash": "adb127ccf94d4a4558aed95154b82a94e3ea04d7edf1951aa861781992d08c3884adec50bd0bea6008b7dd17bc818a1a71e94f4cfc5daf85cb24f0ab0f24e23d",
 			"hash": "adb127ccf94d4a4558aed95154b82a94e3ea04d7edf1951aa861781992d08c3884adec50bd0bea6008b7dd17bc818a1a71e94f4cfc5daf85cb24f0ab0f24e23d"
 		},
 		{
@@ -907,6 +909,7 @@
 			"name": "martin-stabe",
 			"extension": "png",
 			"path": "src/martin-stabe.png",
+			"previousHash": "6db8874e6103e009f40901db03b46c38b82a78f601c7557455934ba8182a314f5517de89a584c17c3703eba0dcb7dde5468fabb43fb869b70bc66c08e44d62e7",
 			"hash": "6db8874e6103e009f40901db03b46c38b82a78f601c7557455934ba8182a314f5517de89a584c17c3703eba0dcb7dde5468fabb43fb869b70bc66c08e44d62e7"
 		},
 		{
@@ -957,6 +960,12 @@
 			"path": "src/merryn-somerset-webb.png",
 			"previousHash": "ab67a8a2eb3c524e016ddc293243898236703de428ec1b3928a3cb64f5870c27fee4b13c00317063dc8e5082bafe8e48ad9956212d8fb17243a74d524ad4dac8",
 			"hash": "ab67a8a2eb3c524e016ddc293243898236703de428ec1b3928a3cb64f5870c27fee4b13c00317063dc8e5082bafe8e48ad9956212d8fb17243a74d524ad4dac8"
+		},
+		{
+			"name": "michael-mackenzie",
+			"extension": "png",
+			"path": "src/michael-mackenzie.png",
+			"hash": "080245a4fe756a28c8357650e195b7af114f20e27f1acc6b891a3f0724f66743942b499e9e15fab764545d9b710171644e679d7192fe837895213b15cebfee0b"
 		},
 		{
 			"name": "michael-skapinker",
