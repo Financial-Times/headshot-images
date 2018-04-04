@@ -147,7 +147,7 @@
 			"extension": "png",
 			"path": "src/bobby-seagull.png",
 			"previousHash": "5304ebc398bbf07550159967fabe0f71dfa04555312d4a6d9bde50711ca82affa45bbb888b850b03cdfc2ba9cf6cd69e05c5040b8371e8db67c6fc6a68358488",
-			"hash": "5304ebc398bbf07550159967fabe0f71dfa04555312d4a6d9bde50711ca82affa45bbb888b850b03cdfc2ba9cf6cd69e05c5040b8371e8db67c6fc6a68358488"
+			"hash": "8bdea0dcfab77e47c0dd650af53e8bda15248812980c7f611cb402083402b26ba9634c56dd497360a8287ab75046433f3f1e149dbcfcab5af5b9fb08f09103e2"
 		},
 		{
 			"name": "brian-groom",
@@ -965,6 +965,7 @@
 			"name": "michael-mackenzie",
 			"extension": "png",
 			"path": "src/michael-mackenzie.png",
+			"previousHash": "080245a4fe756a28c8357650e195b7af114f20e27f1acc6b891a3f0724f66743942b499e9e15fab764545d9b710171644e679d7192fe837895213b15cebfee0b",
 			"hash": "080245a4fe756a28c8357650e195b7af114f20e27f1acc6b891a3f0724f66743942b499e9e15fab764545d9b710171644e679d7192fe837895213b15cebfee0b"
 		},
 		{
