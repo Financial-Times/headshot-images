@@ -146,7 +146,7 @@
 			"name": "bobby-seagull",
 			"extension": "png",
 			"path": "src/bobby-seagull.png",
-			"previousHash": "5304ebc398bbf07550159967fabe0f71dfa04555312d4a6d9bde50711ca82affa45bbb888b850b03cdfc2ba9cf6cd69e05c5040b8371e8db67c6fc6a68358488",
+			"previousHash": "8bdea0dcfab77e47c0dd650af53e8bda15248812980c7f611cb402083402b26ba9634c56dd497360a8287ab75046433f3f1e149dbcfcab5af5b9fb08f09103e2",
 			"hash": "8bdea0dcfab77e47c0dd650af53e8bda15248812980c7f611cb402083402b26ba9634c56dd497360a8287ab75046433f3f1e149dbcfcab5af5b9fb08f09103e2"
 		},
 		{
@@ -605,6 +605,12 @@
 			"hash": "20d205db607bc3eca555e859a165235a7f0e34594a3426c41ca613dc918664b932aab66909e2f3c08d4bc8e995df7d1897a7c672789119d3fab5d082c22d8c60"
 		},
 		{
+			"name": "jemima-kelly",
+			"extension": "png",
+			"path": "src/jemima-kelly.png",
+			"hash": "49a7aba5a763f9ceb78c0a9a26fc37a34e254ef53e4f01bac7a6dffe6ddb897f14538c597e3f1d111bc1ae6290386ed0778a5729430fc08c09ddaf46495d8e6a"
+		},
+		{
 			"name": "jennifer-hughes",
 			"extension": "png",
 			"path": "src/jennifer-hughes.png",
@@ -631,6 +637,12 @@
 			"path": "src/john-authers.png",
 			"previousHash": "d74efb8094c08e7eed38fe4e52c25f9f166063d99d367b7f73faefe27d8817b74a8b535559da7bce874b7acb8438b0bc370399fe7623e69ae2c9000a2e1dc081",
 			"hash": "d74efb8094c08e7eed38fe4e52c25f9f166063d99d367b7f73faefe27d8817b74a8b535559da7bce874b7acb8438b0bc370399fe7623e69ae2c9000a2e1dc081"
+		},
+		{
+			"name": "john-burn-murdoch",
+			"extension": "png",
+			"path": "src/john-burn-murdoch.png",
+			"hash": "36cd018e36f40b2cf5b7153cc3db85d1d2eaaec13cfe3de6ee9d2d1d4c89f552f8f8df58b25612a955b0765dcb9e67b7200f235f669f2e57d656f9aae48ea52d"
 		},
 		{
 			"name": "john-dizard",
