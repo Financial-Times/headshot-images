@@ -395,6 +395,12 @@
 			"hash": "8ac15574f9a824c962bc97dddec14dbf5e6b3f5ffbe11705cfc50a6e0c54544159df0b8c2efa3846595a2f94dddd00a34919e28810c8c073ac5ac5a764292974"
 		},
 		{
+			"name": "fiona-mozley",
+			"extension": "png",
+			"path": "src/fiona-mozley.png",
+			"hash": "be404380037c62a51128a1b69b13d6081ac0916cf826d6eccdb14588b120d95febbd0da455751447f6a17f18d0d5e7aa4b2a235a1970e9fa33c96882986169bf"
+		},
+		{
 			"name": "frances-coppola",
 			"extension": "png",
 			"path": "src/frances-coppola.png",
@@ -514,6 +520,12 @@
 			"hash": "fdb6dd1808d1ae08d84ecab344d6359054be3f66b3ce77395340df431afe2b3c7e13766e5b1b2ee1dfb27de8ae9ef1b5f0eaa605f6b343f36217c34d4036ac1c"
 		},
 		{
+			"name": "india-ross",
+			"extension": "png",
+			"path": "src/india-ross.png",
+			"hash": "42d9d966caac4d604579d6b9ebb4fa23ff6984ec1ad3c77321b1d595bae9cb6cbe6cd251cf587f6027b0b820cd42812bbd5d02eab1e5d14ebb123a700d73c658"
+		},
+		{
 			"name": "isabel-berwick",
 			"extension": "png",
 			"path": "src/isabel-berwick.png",
@@ -608,6 +620,7 @@
 			"name": "jemima-kelly",
 			"extension": "png",
 			"path": "src/jemima-kelly.png",
+			"previousHash": "49a7aba5a763f9ceb78c0a9a26fc37a34e254ef53e4f01bac7a6dffe6ddb897f14538c597e3f1d111bc1ae6290386ed0778a5729430fc08c09ddaf46495d8e6a",
 			"hash": "49a7aba5a763f9ceb78c0a9a26fc37a34e254ef53e4f01bac7a6dffe6ddb897f14538c597e3f1d111bc1ae6290386ed0778a5729430fc08c09ddaf46495d8e6a"
 		},
 		{
@@ -642,6 +655,7 @@
 			"name": "john-burn-murdoch",
 			"extension": "png",
 			"path": "src/john-burn-murdoch.png",
+			"previousHash": "36cd018e36f40b2cf5b7153cc3db85d1d2eaaec13cfe3de6ee9d2d1d4c89f552f8f8df58b25612a955b0765dcb9e67b7200f235f669f2e57d656f9aae48ea52d",
 			"hash": "36cd018e36f40b2cf5b7153cc3db85d1d2eaaec13cfe3de6ee9d2d1d4c89f552f8f8df58b25612a955b0765dcb9e67b7200f235f669f2e57d656f9aae48ea52d"
 		},
 		{
