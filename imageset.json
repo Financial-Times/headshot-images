@@ -398,7 +398,14 @@
 			"name": "fiona-mozley",
 			"extension": "png",
 			"path": "src/fiona-mozley.png",
+			"previousHash": "be404380037c62a51128a1b69b13d6081ac0916cf826d6eccdb14588b120d95febbd0da455751447f6a17f18d0d5e7aa4b2a235a1970e9fa33c96882986169bf",
 			"hash": "be404380037c62a51128a1b69b13d6081ac0916cf826d6eccdb14588b120d95febbd0da455751447f6a17f18d0d5e7aa4b2a235a1970e9fa33c96882986169bf"
+		},
+		{
+			"name": "flora-johnston-macdonald",
+			"extension": "png",
+			"path": "src/flora-johnston-macdonald.png",
+			"hash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e"
 		},
 		{
 			"name": "frances-coppola",
@@ -523,6 +530,7 @@
 			"name": "india-ross",
 			"extension": "png",
 			"path": "src/india-ross.png",
+			"previousHash": "42d9d966caac4d604579d6b9ebb4fa23ff6984ec1ad3c77321b1d595bae9cb6cbe6cd251cf587f6027b0b820cd42812bbd5d02eab1e5d14ebb123a700d73c658",
 			"hash": "42d9d966caac4d604579d6b9ebb4fa23ff6984ec1ad3c77321b1d595bae9cb6cbe6cd251cf587f6027b0b820cd42812bbd5d02eab1e5d14ebb123a700d73c658"
 		},
 		{
@@ -911,6 +919,12 @@
 			"hash": "40e8e2ce18dce872e46efd717a3d591ef0e45afe701d9a14505707b7061968dd9ec1461b158eb2712f74a5de1da6d8540b32a6dbbefd66544409aa3fe5ea17ce"
 		},
 		{
+			"name": "maija-palmer",
+			"extension": "png",
+			"path": "src/maija-palmer.png",
+			"hash": "dede722031e3f24ef9eb51974c9c5950d13c377740ed277c81efd42e8b5feb982870b89b7072986122cee60308378d2b60e36ebec13b9c502865c6b11b230048"
+		},
+		{
 			"name": "maike-currie",
 			"extension": "png",
 			"path": "src/maike-currie.png",
@@ -1294,6 +1308,12 @@
 			"path": "src/tom-braithwaite.png",
 			"previousHash": "2781d8eb61162035fbb5ae3176cdef39a5e7bf97f0df923ff9aea8d762fc2b625cdef25f065b8b95c0eaa337a302d96e15573a58e37b6293d6c10f0516b8cc4e",
 			"hash": "2781d8eb61162035fbb5ae3176cdef39a5e7bf97f0df923ff9aea8d762fc2b625cdef25f065b8b95c0eaa337a302d96e15573a58e37b6293d6c10f0516b8cc4e"
+		},
+		{
+			"name": "tom-robbins",
+			"extension": "png",
+			"path": "src/tom-robbins.png",
+			"hash": "179c9555a5754cbc1701f2dd90cac736c3a7103bb379c3c7c9e2ea9a7ec23132cb7ed6e36af999329fad740e0467092954497e13ded0112893be1cf0b5accb57"
 		},
 		{
 			"name": "tony-barber",
