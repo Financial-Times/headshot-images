@@ -405,6 +405,13 @@
 			"name": "flora-johnston-macdonald",
 			"extension": "png",
 			"path": "src/flora-johnston-macdonald.png",
+			"previousHash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e",
+			"hash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e"
+		},
+		{
+			"name": "flora-macdonald-johnston",
+			"extension": "png",
+			"path": "src/flora-macdonald-johnston.png",
 			"hash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e"
 		},
 		{
@@ -922,6 +929,7 @@
 			"name": "maija-palmer",
 			"extension": "png",
 			"path": "src/maija-palmer.png",
+			"previousHash": "dede722031e3f24ef9eb51974c9c5950d13c377740ed277c81efd42e8b5feb982870b89b7072986122cee60308378d2b60e36ebec13b9c502865c6b11b230048",
 			"hash": "dede722031e3f24ef9eb51974c9c5950d13c377740ed277c81efd42e8b5feb982870b89b7072986122cee60308378d2b60e36ebec13b9c502865c6b11b230048"
 		},
 		{
@@ -1313,6 +1321,7 @@
 			"name": "tom-robbins",
 			"extension": "png",
 			"path": "src/tom-robbins.png",
+			"previousHash": "179c9555a5754cbc1701f2dd90cac736c3a7103bb379c3c7c9e2ea9a7ec23132cb7ed6e36af999329fad740e0467092954497e13ded0112893be1cf0b5accb57",
 			"hash": "179c9555a5754cbc1701f2dd90cac736c3a7103bb379c3c7c9e2ea9a7ec23132cb7ed6e36af999329fad740e0467092954497e13ded0112893be1cf0b5accb57"
 		},
 		{
