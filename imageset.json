@@ -59,6 +59,12 @@
 			"hash": "29e9e68e0edb3b85caff9061e9fc9c407f76762d255b78da5067b45a948dc6df642616aea9c12d3e8a38015ed52ead3907d6a9f722e5df381c6d905e79ce77d1"
 		},
 		{
+			"name": "aliya-ram",
+			"extension": "png",
+			"path": "src/aliya-ram.png",
+			"hash": "7969ec77cffeb2ac70ad6ba2643c069585d66e6095c1572efa3c3436d18e875e1590f299687636e8b2a7a7d0be55059494806dc6c7aa21c74548f939d8a4ef48"
+		},
+		{
 			"name": "amy-kazmin",
 			"extension": "png",
 			"path": "src/amy-kazmin.png",
@@ -412,6 +418,7 @@
 			"name": "flora-macdonald-johnston",
 			"extension": "png",
 			"path": "src/flora-macdonald-johnston.png",
+			"previousHash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e",
 			"hash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e"
 		},
 		{
