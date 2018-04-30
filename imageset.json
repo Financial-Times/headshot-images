@@ -62,6 +62,7 @@
 			"name": "aliya-ram",
 			"extension": "png",
 			"path": "src/aliya-ram.png",
+			"previousHash": "7969ec77cffeb2ac70ad6ba2643c069585d66e6095c1572efa3c3436d18e875e1590f299687636e8b2a7a7d0be55059494806dc6c7aa21c74548f939d8a4ef48",
 			"hash": "7969ec77cffeb2ac70ad6ba2643c069585d66e6095c1572efa3c3436d18e875e1590f299687636e8b2a7a7d0be55059494806dc6c7aa21c74548f939d8a4ef48"
 		},
 		{
@@ -1050,6 +1051,12 @@
 			"path": "src/mrs-moneypenny.png",
 			"previousHash": "d962c2c18a893c8e8bddb65396411420cf494e0ec38817c5d361b90e813a82de7e6a33d655e3e8e2ce2c3be8964e38a21df91da77cd9536e0527f40345d85531",
 			"hash": "d962c2c18a893c8e8bddb65396411420cf494e0ec38817c5d361b90e813a82de7e6a33d655e3e8e2ce2c3be8964e38a21df91da77cd9536e0527f40345d85531"
+		},
+		{
+			"name": "najmeh-bozorgmehr",
+			"extension": "png",
+			"path": "src/najmeh-bozorgmehr.png",
+			"hash": "586735e4cf8dee9784bb2414db297f7f97f36a4bb02943228184cf59182e6c47b2c24cd3fdf59c52032f9fcf36e172763dbebe369c7cf0824a45477bc51617f4"
 		},
 		{
 			"name": "nathan-brooker",
