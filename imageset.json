@@ -510,6 +510,7 @@
 			"name": "hannah-murphy",
 			"extension": "png",
 			"path": "src/hannah-murphy.png",
+			"previousHash": "59d60f79998912a7c49c8f656790cf5f1a9a53f01603729d7de160a6963faa742aa66df23c26532eddc0b5567a93ca06bbfc9441acf8e5fee5f2499fa0faeaa1",
 			"hash": "59d60f79998912a7c49c8f656790cf5f1a9a53f01603729d7de160a6963faa742aa66df23c26532eddc0b5567a93ca06bbfc9441acf8e5fee5f2499fa0faeaa1"
 		},
 		{
@@ -1372,6 +1373,12 @@
 			"path": "src/vanessa-friedman.png",
 			"previousHash": "2aea29fffc08a0e9bac2a62ec2b3f489a85025c352dead758723d0766ea13c9403da764c89b6ebe008cd4ef23321fefa60aedb5ab54869beefe41041f1ecdbd0",
 			"hash": "2aea29fffc08a0e9bac2a62ec2b3f489a85025c352dead758723d0766ea13c9403da764c89b6ebe008cd4ef23321fefa60aedb5ab54869beefe41041f1ecdbd0"
+		},
+		{
+			"name": "victor-mallet",
+			"extension": "png",
+			"path": "src/victor-mallet.png",
+			"hash": "37d250dd867597887df200b36500481efb0f4269556d4a80ef588ae12f2c9709aef268d0c1ba72425b541ab036b5b88408f7c55ef318d41f6c0a54154a1cb537"
 		},
 		{
 			"name": "wolfgang-munchau",
