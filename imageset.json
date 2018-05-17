@@ -955,6 +955,12 @@
 			"hash": "4e739ef92901c98815c97c8a3e8e12b3655efaced8b67d0d6908ab66becf930c43a8e3fe3fab79dd1332762de7ec27cdda5b257d580b39927650cb9915fd77be"
 		},
 		{
+			"name": "martin-arnold",
+			"extension": "png",
+			"path": "src/martin-arnold.png",
+			"hash": "18ec5a0d59376b26f8545989da559e2796bf6d6eff4f781ef12996f2e490a1e9254f06565a5a937dc01fc5d1e29a581488977332109c818aa4767f53af0ec147"
+		},
+		{
 			"name": "martin-lewis",
 			"extension": "png",
 			"path": "src/martin-lewis.png",
