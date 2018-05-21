@@ -374,6 +374,18 @@
 			"hash": "08d5ba9471024b731c93d15703d0369c060eab9ebc2e6048dcdb53b805ec3a805d530df4b7c13fb0c966b3d01490037b85b214712bba83a558af71e2455e889e"
 		},
 		{
+			"name": "elaine-moore",
+			"extension": "png",
+			"path": "src/elaine-moore.png",
+			"hash": "ccba25498fda164880877ec9d8a124e17a95e06a2be588d40cc47e83fb9008fab527b33b6fcf9d4cb61a88f68c3274127529a3bb1667d66d49f46650b5a9a788"
+		},
+		{
+			"name": "elsa-court",
+			"extension": "png",
+			"path": "src/elsa-court.png",
+			"hash": "5c64075982a7b675476bdf873fc90c1ca0a47ba6bc6c67c8e160b185dfbb8ebc4ff974108f81847370836924ee392b3e7e46c7ce41846e61e672e280248a156e"
+		},
+		{
 			"name": "emma-jacobs",
 			"extension": "png",
 			"path": "src/emma-jacobs.png",
@@ -888,7 +900,7 @@
 			"name": "louise-lucas",
 			"extension": "png",
 			"path": "src/louise-lucas.png",
-			"previousHash": "7b30a423d728129f6862e0c106cee6627cadb778e400d8f87a2b58028bb94be054587e6e9960ef0ee622299a2a09e528c123fcd177e61b52a3ffc7c37bb0b1d3",
+			"previousHash": "2a4b706e9bc70adc4be6ac6bb2e0e3e57664d76fff23b8e0bcea65978d9f5c8493157e073bdee0bd6b174383a1967d3b8f834ce7eacac7651b3b8ca4a20da541",
 			"hash": "2a4b706e9bc70adc4be6ac6bb2e0e3e57664d76fff23b8e0bcea65978d9f5c8493157e073bdee0bd6b174383a1967d3b8f834ce7eacac7651b3b8ca4a20da541"
 		},
 		{
@@ -958,6 +970,7 @@
 			"name": "martin-arnold",
 			"extension": "png",
 			"path": "src/martin-arnold.png",
+			"previousHash": "18ec5a0d59376b26f8545989da559e2796bf6d6eff4f781ef12996f2e490a1e9254f06565a5a937dc01fc5d1e29a581488977332109c818aa4767f53af0ec147",
 			"hash": "18ec5a0d59376b26f8545989da559e2796bf6d6eff4f781ef12996f2e490a1e9254f06565a5a937dc01fc5d1e29a581488977332109c818aa4767f53af0ec147"
 		},
 		{
