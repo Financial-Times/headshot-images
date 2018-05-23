@@ -377,12 +377,14 @@
 			"name": "elaine-moore",
 			"extension": "png",
 			"path": "src/elaine-moore.png",
-			"hash": "ccba25498fda164880877ec9d8a124e17a95e06a2be588d40cc47e83fb9008fab527b33b6fcf9d4cb61a88f68c3274127529a3bb1667d66d49f46650b5a9a788"
+			"previousHash": "ccba25498fda164880877ec9d8a124e17a95e06a2be588d40cc47e83fb9008fab527b33b6fcf9d4cb61a88f68c3274127529a3bb1667d66d49f46650b5a9a788",
+			"hash": "2bf975f9ac1b2e1194a45f0a04685975a6bea38d247f3fed30c03dec778fdef30de2125e11a0f43eb748a376ef3b1a1ec18b37093930f9aeec370598c1afaf8a"
 		},
 		{
 			"name": "elsa-court",
 			"extension": "png",
 			"path": "src/elsa-court.png",
+			"previousHash": "5c64075982a7b675476bdf873fc90c1ca0a47ba6bc6c67c8e160b185dfbb8ebc4ff974108f81847370836924ee392b3e7e46c7ce41846e61e672e280248a156e",
 			"hash": "5c64075982a7b675476bdf873fc90c1ca0a47ba6bc6c67c8e160b185dfbb8ebc4ff974108f81847370836924ee392b3e7e46c7ce41846e61e672e280248a156e"
 		},
 		{
