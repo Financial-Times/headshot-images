@@ -377,7 +377,7 @@
 			"name": "elaine-moore",
 			"extension": "png",
 			"path": "src/elaine-moore.png",
-			"previousHash": "ccba25498fda164880877ec9d8a124e17a95e06a2be588d40cc47e83fb9008fab527b33b6fcf9d4cb61a88f68c3274127529a3bb1667d66d49f46650b5a9a788",
+			"previousHash": "2bf975f9ac1b2e1194a45f0a04685975a6bea38d247f3fed30c03dec778fdef30de2125e11a0f43eb748a376ef3b1a1ec18b37093930f9aeec370598c1afaf8a",
 			"hash": "2bf975f9ac1b2e1194a45f0a04685975a6bea38d247f3fed30c03dec778fdef30de2125e11a0f43eb748a376ef3b1a1ec18b37093930f9aeec370598c1afaf8a"
 		},
 		{
@@ -1358,7 +1358,7 @@
 			"extension": "png",
 			"path": "src/tom-braithwaite.png",
 			"previousHash": "2781d8eb61162035fbb5ae3176cdef39a5e7bf97f0df923ff9aea8d762fc2b625cdef25f065b8b95c0eaa337a302d96e15573a58e37b6293d6c10f0516b8cc4e",
-			"hash": "2781d8eb61162035fbb5ae3176cdef39a5e7bf97f0df923ff9aea8d762fc2b625cdef25f065b8b95c0eaa337a302d96e15573a58e37b6293d6c10f0516b8cc4e"
+			"hash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a"
 		},
 		{
 			"name": "tom-robbins",
