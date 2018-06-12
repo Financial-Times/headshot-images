@@ -45,6 +45,12 @@
 			"hash": "c96f3c121417b1831b5484b9a3a3ed1490b6392eff997f251dab979241374437a5da01e8c577a87a1af18c238d90b01f50491dcc4463f9127ec5cfb1bb5e281e"
 		},
 		{
+			"name": "alex-barker",
+			"extension": "png",
+			"path": "src/alex-barker.png",
+			"hash": "0088d8359c6fe97fc410c15a3c9a977d19b79c51c1c00216a6949955537dec965d4ba6a55db3d235a9d626d91c0625ef58ab022b1f1b185b579774444215182c"
+		},
+		{
 			"name": "alexander-gilmour",
 			"extension": "png",
 			"path": "src/alexander-gilmour.png",
@@ -1039,6 +1045,12 @@
 			"hash": "eac33fef50218eb5148f73b898e8e701cad1d46642043cdb086c0ab06e80a2eaa72bfe41188a7358396c3edfff567bdf060163ddfd547e679239bcc04f4d3ee6"
 		},
 		{
+			"name": "megan-greene",
+			"extension": "png",
+			"path": "src/megan-greene.png",
+			"hash": "eb02a5bac5e3e730a368a5cd9d26a4810de9cfd26c937aa8cd7c58975a2015dd1cf4575a2e25dab0b17f2bdd669cb8d37959391a1c1c106c9a72c503dcfa8780"
+		},
+		{
 			"name": "merryn-somerset-webb",
 			"extension": "png",
 			"path": "src/merryn-somerset-webb.png",
@@ -1200,6 +1212,12 @@
 			"hash": "48eefa02a0aa5d3ab469f955812491b47a7e247ce6f96facde7962de8d7befbce2eae4a2baf670f988a1aa537bba3de4a1fb4b8a1c2bba0b6749bcd9f07e2b4e"
 		},
 		{
+			"name": "renee-kaplan",
+			"extension": "png",
+			"path": "src/renee-kaplan.png",
+			"hash": "c77bb29c7f527444e69b4f43d8dd7f0aa5813e539f486841b88d9a6741fc309d68d41cbfa78356e5657807820dbf706bb8d4d17265f8f43df2103be8c8683c43"
+		},
+		{
 			"name": "richard-waters",
 			"extension": "png",
 			"path": "src/richard-waters.png",
@@ -1357,7 +1375,7 @@
 			"name": "tom-braithwaite",
 			"extension": "png",
 			"path": "src/tom-braithwaite.png",
-			"previousHash": "2781d8eb61162035fbb5ae3176cdef39a5e7bf97f0df923ff9aea8d762fc2b625cdef25f065b8b95c0eaa337a302d96e15573a58e37b6293d6c10f0516b8cc4e",
+			"previousHash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a",
 			"hash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a"
 		},
 		{
