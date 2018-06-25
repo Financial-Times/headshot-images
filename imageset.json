@@ -48,6 +48,7 @@
 			"name": "alex-barker",
 			"extension": "png",
 			"path": "src/alex-barker.png",
+			"previousHash": "0088d8359c6fe97fc410c15a3c9a977d19b79c51c1c00216a6949955537dec965d4ba6a55db3d235a9d626d91c0625ef58ab022b1f1b185b579774444215182c",
 			"hash": "0088d8359c6fe97fc410c15a3c9a977d19b79c51c1c00216a6949955537dec965d4ba6a55db3d235a9d626d91c0625ef58ab022b1f1b185b579774444215182c"
 		},
 		{
@@ -454,7 +455,7 @@
 			"extension": "png",
 			"path": "src/frederick-studemann.png",
 			"previousHash": "c7a59dbb9798d3fead69b8eb46665790a34b7c6cf4aabc1f0a04edb1c615eb107ba5465a33365d89d66f83bdac9ffe7dc41e116efe48fccda83aeeb5bae9836f",
-			"hash": "c7a59dbb9798d3fead69b8eb46665790a34b7c6cf4aabc1f0a04edb1c615eb107ba5465a33365d89d66f83bdac9ffe7dc41e116efe48fccda83aeeb5bae9836f"
+			"hash": "541a5f0d0517b664b0bcd4dda4b72861c93d143d6b404eb8ac7eef0f74ec56da4ffdc45f408ab9ea478946b3bc0286ea6c5055d017cde0f55ac5e9bb7cee2dc6"
 		},
 		{
 			"name": "fyodor-lukyanov",
@@ -558,7 +559,7 @@
 			"name": "henry-foy",
 			"extension": "png",
 			"path": "src/henry-foy.png",
-			"previousHash": "4957171287f238c5b973b40a3ff6d8458b5d9bfc8bd97b2ab692d323e7cb5ba77bdd3c924c9fa40cde7ce3e5a02a23543ad05952cedd55c3c3ebaea842d3ac74",
+			"previousHash": "b9153a8ccaf950e642ae5035f04c6f966a291b21d6e47079115764384c12e4efcc518918b8b2efee88d48d736383ca6b543ad05caed41e2a1a4ce9c50ac2cc12",
 			"hash": "b9153a8ccaf950e642ae5035f04c6f966a291b21d6e47079115764384c12e4efcc518918b8b2efee88d48d736383ca6b543ad05caed41e2a1a4ce9c50ac2cc12"
 		},
 		{
@@ -1048,6 +1049,7 @@
 			"name": "megan-greene",
 			"extension": "png",
 			"path": "src/megan-greene.png",
+			"previousHash": "eb02a5bac5e3e730a368a5cd9d26a4810de9cfd26c937aa8cd7c58975a2015dd1cf4575a2e25dab0b17f2bdd669cb8d37959391a1c1c106c9a72c503dcfa8780",
 			"hash": "eb02a5bac5e3e730a368a5cd9d26a4810de9cfd26c937aa8cd7c58975a2015dd1cf4575a2e25dab0b17f2bdd669cb8d37959391a1c1c106c9a72c503dcfa8780"
 		},
 		{
@@ -1215,6 +1217,7 @@
 			"name": "renee-kaplan",
 			"extension": "png",
 			"path": "src/renee-kaplan.png",
+			"previousHash": "c77bb29c7f527444e69b4f43d8dd7f0aa5813e539f486841b88d9a6741fc309d68d41cbfa78356e5657807820dbf706bb8d4d17265f8f43df2103be8c8683c43",
 			"hash": "c77bb29c7f527444e69b4f43d8dd7f0aa5813e539f486841b88d9a6741fc309d68d41cbfa78356e5657807820dbf706bb8d4d17265f8f43df2103be8c8683c43"
 		},
 		{
