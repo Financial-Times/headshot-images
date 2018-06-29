@@ -454,7 +454,7 @@
 			"name": "frederick-studemann",
 			"extension": "png",
 			"path": "src/frederick-studemann.png",
-			"previousHash": "c7a59dbb9798d3fead69b8eb46665790a34b7c6cf4aabc1f0a04edb1c615eb107ba5465a33365d89d66f83bdac9ffe7dc41e116efe48fccda83aeeb5bae9836f",
+			"previousHash": "541a5f0d0517b664b0bcd4dda4b72861c93d143d6b404eb8ac7eef0f74ec56da4ffdc45f408ab9ea478946b3bc0286ea6c5055d017cde0f55ac5e9bb7cee2dc6",
 			"hash": "541a5f0d0517b664b0bcd4dda4b72861c93d143d6b404eb8ac7eef0f74ec56da4ffdc45f408ab9ea478946b3bc0286ea6c5055d017cde0f55ac5e9bb7cee2dc6"
 		},
 		{
@@ -890,6 +890,12 @@
 			"path": "src/leslie-hook.png",
 			"previousHash": "882d7d0a5f4c54e783d1992ef011434e5464638820ee5309eba66d605f727b53dc189f5c0d3d8aca7caace20707d543bb0cce8e0caa53f07b7f9b0d3f384924a",
 			"hash": "882d7d0a5f4c54e783d1992ef011434e5464638820ee5309eba66d605f727b53dc189f5c0d3d8aca7caace20707d543bb0cce8e0caa53f07b7f9b0d3f384924a"
+		},
+		{
+			"name": "leyla-boulton",
+			"extension": "png",
+			"path": "src/leyla-boulton.png",
+			"hash": "87d1cac51ae3308088eca904f6321e240c00083e9228a66795fe8413e135ea3b418814baa3b16febad81a3cee8cbcba9eccc7f3001cd7ed26d3fee720acd412f"
 		},
 		{
 			"name": "lionel-barber",
@@ -1338,6 +1344,12 @@
 			"path": "src/simon-munday.png",
 			"previousHash": "3273dc418136a27d160fa082ca9d8a110c8178bb892f0eefa6d72d4c4395cad5fc0019b4c68f285c519691d25613a0f94c2d64e3645aab79b9bcdbda7f3ace53",
 			"hash": "3273dc418136a27d160fa082ca9d8a110c8178bb892f0eefa6d72d4c4395cad5fc0019b4c68f285c519691d25613a0f94c2d64e3645aab79b9bcdbda7f3ace53"
+		},
+		{
+			"name": "siona-jenkins",
+			"extension": "png",
+			"path": "src/siona-jenkins.png",
+			"hash": "796d5dfd30b5d7bfe6d16e48c4142e676fcd55fb31c6827e09651d062e41c5abe78bd4871a53eef33bf7de94d72d3c54816dfb3de3ea90d204cd21dc786e5556"
 		},
 		{
 			"name": "susie-boyt",
