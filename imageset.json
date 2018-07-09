@@ -895,7 +895,7 @@
 			"name": "leyla-boulton",
 			"extension": "png",
 			"path": "src/leyla-boulton.png",
-			"previousHash": "87d1cac51ae3308088eca904f6321e240c00083e9228a66795fe8413e135ea3b418814baa3b16febad81a3cee8cbcba9eccc7f3001cd7ed26d3fee720acd412f",
+			"previousHash": "e964628270c5255b4291f357db4d6e412041b861d3db4c79fba364131086dc5b33c2dbbb41a439c572db2e219d65eeba35100ac162d023bad1c66ee397ffe689",
 			"hash": "e964628270c5255b4291f357db4d6e412041b861d3db4c79fba364131086dc5b33c2dbbb41a439c572db2e219d65eeba35100ac162d023bad1c66ee397ffe689"
 		},
 		{
@@ -1193,6 +1193,12 @@
 			"hash": "32729e597a82ae883115dfe183bd2c8cbba5fcdc700fc8f82d91f9147bf402872b222985115d233d3d77d6456301c14cc807514d74101be3d3ffaf55b6b4e240"
 		},
 		{
+			"name": "peter-smith",
+			"extension": "png",
+			"path": "src/peter-smith.png",
+			"hash": "bcfe18d424e4837067a71bbbc1e12acf32321c60c942f92aa9c6aea17b35fdc3724e11bf6f3c76df899a33691ead2c911ef10a424edc023eebe0b685dd3e3081"
+		},
+		{
 			"name": "philip-stephens",
 			"extension": "png",
 			"path": "src/philip-stephens.png",
@@ -1329,6 +1335,7 @@
 			"name": "shannon-bond",
 			"extension": "png",
 			"path": "src/shannon-bond.png",
+			"previousHash": "eadebe0132576a454d48c89aaa2011f6e3c8d56fb192d040036d00f29b3e112f9174370acc21470e09011a0d73020cc9d289a1d8734d65b87b31de29733bad3f",
 			"hash": "eadebe0132576a454d48c89aaa2011f6e3c8d56fb192d040036d00f29b3e112f9174370acc21470e09011a0d73020cc9d289a1d8734d65b87b31de29733bad3f"
 		},
 		{
