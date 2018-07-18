@@ -1196,6 +1196,7 @@
 			"name": "peter-smith",
 			"extension": "png",
 			"path": "src/peter-smith.png",
+			"previousHash": "bcfe18d424e4837067a71bbbc1e12acf32321c60c942f92aa9c6aea17b35fdc3724e11bf6f3c76df899a33691ead2c911ef10a424edc023eebe0b685dd3e3081",
 			"hash": "bcfe18d424e4837067a71bbbc1e12acf32321c60c942f92aa9c6aea17b35fdc3724e11bf6f3c76df899a33691ead2c911ef10a424edc023eebe0b685dd3e3081"
 		},
 		{
@@ -1309,6 +1310,12 @@
 			"path": "src/samuel-brittan.png",
 			"previousHash": "e0f3fb26b854c1c97c51332890af545054803d817f5726b9fdd9f3a74fbcae09e4df4f4b2423e23a286e8d63fb08d75ab1c40e3d032ff439daf9508db9bd2284",
 			"hash": "e0f3fb26b854c1c97c51332890af545054803d817f5726b9fdd9f3a74fbcae09e4df4f4b2423e23a286e8d63fb08d75ab1c40e3d032ff439daf9508db9bd2284"
+		},
+		{
+			"name": "sarah-cooper",
+			"extension": "png",
+			"path": "src/sarah-cooper.png",
+			"hash": "1e85fda11647e34fd9bfb8b5d09fd707f052530778abeddfd117be2477318d0dd00b1861486db5be26324a5de95ae4d4f7b988f0166410bf1303cc22bdc2aa68"
 		},
 		{
 			"name": "sarah-gordon",
