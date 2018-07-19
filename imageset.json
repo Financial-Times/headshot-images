@@ -399,7 +399,7 @@
 			"extension": "png",
 			"path": "src/emma-jacobs.png",
 			"previousHash": "245d62f046dc3953647bb601578101a711eddfd641845edde3d6f839a51fac98af9601d1c0e91f06fad8afef530c989b32f24af09494374d0aedf69166d7e9b7",
-			"hash": "245d62f046dc3953647bb601578101a711eddfd641845edde3d6f839a51fac98af9601d1c0e91f06fad8afef530c989b32f24af09494374d0aedf69166d7e9b7"
+			"hash": "2bf212660c2c6321eba8951e07f8c35b2028d8254015e7fe1403d48d9a9e59144325d647664b866c74448270e462176ecf691929c23a93e3a5ae91624d274741"
 		},
 		{
 			"name": "eric-platt",
@@ -1315,6 +1315,7 @@
 			"name": "sarah-cooper",
 			"extension": "png",
 			"path": "src/sarah-cooper.png",
+			"previousHash": "1e85fda11647e34fd9bfb8b5d09fd707f052530778abeddfd117be2477318d0dd00b1861486db5be26324a5de95ae4d4f7b988f0166410bf1303cc22bdc2aa68",
 			"hash": "1e85fda11647e34fd9bfb8b5d09fd707f052530778abeddfd117be2477318d0dd00b1861486db5be26324a5de95ae4d4f7b988f0166410bf1303cc22bdc2aa68"
 		},
 		{
