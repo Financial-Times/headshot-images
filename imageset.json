@@ -255,6 +255,12 @@
 			"hash": "abf0d860e9b57b408e0cd9b8aa49899c08271f4799db7cdf1ed5b79f4cf5d93a23d8b0d453dc870b1104c56ad817caca3de0dc6ed9fe283b879e42f9f802d322"
 		},
 		{
+			"name": "colby-smith",
+			"extension": "png",
+			"path": "src/colby-smith.png",
+			"hash": "283244712f2abe7ae90f9df2ecb950d77b1e9c337ef813a4681fa44ea36607e97198edced166f169bf9a3f5530c0abb97223515f0e7103d0c51898204e9cfc9b"
+		},
+		{
 			"name": "cordelia-jenkins",
 			"extension": "png",
 			"path": "src/cordelia-jenkins.png",
@@ -797,7 +803,7 @@
 			"name": "jude-webber",
 			"extension": "png",
 			"path": "src/jude-webber.png",
-			"previousHash": "5c7e0314d8961fa675fc3eb83b9f6e99c0d49b9981c0cc65bdbde447dec5412f3f6662dfe4b8fe63e799da71b96c3f07c5ccb7517bf15930e21c78d41f620fc7",
+			"previousHash": "87d6d9b24fc6d2248ac1f855b2e6e09a995d9416b9b83b0543b7b0058c8276834b2279601de862402f6d455fc5c59d946c2ebda8dd7c4af55d836ca1284564f4",
 			"hash": "87d6d9b24fc6d2248ac1f855b2e6e09a995d9416b9b83b0543b7b0058c8276834b2279601de862402f6d455fc5c59d946c2ebda8dd7c4af55d836ca1284564f4"
 		},
 		{
