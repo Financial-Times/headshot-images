@@ -255,9 +255,16 @@
 			"hash": "abf0d860e9b57b408e0cd9b8aa49899c08271f4799db7cdf1ed5b79f4cf5d93a23d8b0d453dc870b1104c56ad817caca3de0dc6ed9fe283b879e42f9f802d322"
 		},
 		{
+			"name": "claire-manibog",
+			"extension": "png",
+			"path": "src/claire-manibog.png",
+			"hash": "3a8b14070a85604d04a42f37831ffce87e48146e277d9c0e8ba7b3677d14c33fba253f781affd011bcba764d4fa093f3acb890b6a4c3e0d0d1112e651cd9389a"
+		},
+		{
 			"name": "colby-smith",
 			"extension": "png",
 			"path": "src/colby-smith.png",
+			"previousHash": "283244712f2abe7ae90f9df2ecb950d77b1e9c337ef813a4681fa44ea36607e97198edced166f169bf9a3f5530c0abb97223515f0e7103d0c51898204e9cfc9b",
 			"hash": "283244712f2abe7ae90f9df2ecb950d77b1e9c337ef813a4681fa44ea36607e97198edced166f169bf9a3f5530c0abb97223515f0e7103d0c51898204e9cfc9b"
 		},
 		{
