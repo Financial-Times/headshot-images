@@ -304,6 +304,12 @@
 			"hash": "76e9a9256f6f0e35e1662ebf86f93df1a86ded1d01419c4c540807a935a2368c774bf97919240db797bc18279869036b25f0cd70f07dfd1d54937d0ee44c9ba0"
 		},
 		{
+			"name": "david-crow",
+			"extension": "png",
+			"path": "src/david-crow.png",
+			"hash": "256eb4fb3d2b027d28a87780edd36c48dcdf77e08378ef548bfce4176445f603de4ac56616b50ece25ce72c67e09e86525f54cfe0a80efa63ff7234a8fac7893"
+		},
+		{
 			"name": "david-gardner",
 			"extension": "png",
 			"path": "src/david-gardner.png",
@@ -482,6 +488,7 @@
 			"name": "gabriel-wildau",
 			"extension": "png",
 			"path": "src/gabriel-wildau.png",
+			"previousHash": "63d9bf7af665d8647da0c69bf74e88f379625f6ff5c372f37739a7b3d3b572cfe16a780e5992e1f4c41624f28cb1bc239a99bd11b99e9a493c73dbc66d3a3d72",
 			"hash": "63d9bf7af665d8647da0c69bf74e88f379625f6ff5c372f37739a7b3d3b572cfe16a780e5992e1f4c41624f28cb1bc239a99bd11b99e9a493c73dbc66d3a3d72"
 		},
 		{
