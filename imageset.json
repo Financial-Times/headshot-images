@@ -258,6 +258,7 @@
 			"name": "claire-manibog",
 			"extension": "png",
 			"path": "src/claire-manibog.png",
+			"previousHash": "3a8b14070a85604d04a42f37831ffce87e48146e277d9c0e8ba7b3677d14c33fba253f781affd011bcba764d4fa093f3acb890b6a4c3e0d0d1112e651cd9389a",
 			"hash": "3a8b14070a85604d04a42f37831ffce87e48146e277d9c0e8ba7b3677d14c33fba253f781affd011bcba764d4fa093f3acb890b6a4c3e0d0d1112e651cd9389a"
 		},
 		{
@@ -476,6 +477,12 @@
 			"path": "src/fyodor-lukyanov.png",
 			"previousHash": "eb9aca47bb76eb0bdda04609ebff14c904c06b9ada95f0394386b0dd26773dec01455d6250e3dca625cbb13c26804a2b403eb8ee2bcbb9d14c9557039004c4ee",
 			"hash": "eb9aca47bb76eb0bdda04609ebff14c904c06b9ada95f0394386b0dd26773dec01455d6250e3dca625cbb13c26804a2b403eb8ee2bcbb9d14c9557039004c4ee"
+		},
+		{
+			"name": "gabriel-wildau",
+			"extension": "png",
+			"path": "src/gabriel-wildau.png",
+			"hash": "63d9bf7af665d8647da0c69bf74e88f379625f6ff5c372f37739a7b3d3b572cfe16a780e5992e1f4c41624f28cb1bc239a99bd11b99e9a493c73dbc66d3a3d72"
 		},
 		{
 			"name": "gary-silverman",
