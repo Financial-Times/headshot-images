@@ -307,6 +307,7 @@
 			"name": "david-crow",
 			"extension": "png",
 			"path": "src/david-crow.png",
+			"previousHash": "256eb4fb3d2b027d28a87780edd36c48dcdf77e08378ef548bfce4176445f603de4ac56616b50ece25ce72c67e09e86525f54cfe0a80efa63ff7234a8fac7893",
 			"hash": "256eb4fb3d2b027d28a87780edd36c48dcdf77e08378ef548bfce4176445f603de4ac56616b50ece25ce72c67e09e86525f54cfe0a80efa63ff7234a8fac7893"
 		},
 		{
@@ -489,7 +490,7 @@
 			"extension": "png",
 			"path": "src/gabriel-wildau.png",
 			"previousHash": "63d9bf7af665d8647da0c69bf74e88f379625f6ff5c372f37739a7b3d3b572cfe16a780e5992e1f4c41624f28cb1bc239a99bd11b99e9a493c73dbc66d3a3d72",
-			"hash": "63d9bf7af665d8647da0c69bf74e88f379625f6ff5c372f37739a7b3d3b572cfe16a780e5992e1f4c41624f28cb1bc239a99bd11b99e9a493c73dbc66d3a3d72"
+			"hash": "8a1533db2d55bee0e34f8cc492653439f99a89babd3ed8df41518f6b1ea981f115dae58dd358bd53a7fd3694035563d12389ecf5d41dbcc5689d1759e3ccebfe"
 		},
 		{
 			"name": "gary-silverman",
