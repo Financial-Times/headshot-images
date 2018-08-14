@@ -17,6 +17,12 @@
 			"hash": "a41830cff230b0b70e6ea89523a633caead8d6e5d9c5a63644085c4c730ad4f622c97432442d4838999a55692f08633b43504cecec52c0e99ff1fd43cfe63186"
 		},
 		{
+			"name": "aime-williams",
+			"extension": "png",
+			"path": "src/aime-williams.png",
+			"hash": "16b9afe77377fead40175afd33da019768162473bde2a42483415d9b84ac71dac028a166be6212251179f1828cc68a70ff530f9fcd1d505cc55cf91db2eee547"
+		},
+		{
 			"name": "alan-beattie",
 			"extension": "png",
 			"path": "src/alan-beattie.png",
@@ -489,7 +495,7 @@
 			"name": "gabriel-wildau",
 			"extension": "png",
 			"path": "src/gabriel-wildau.png",
-			"previousHash": "63d9bf7af665d8647da0c69bf74e88f379625f6ff5c372f37739a7b3d3b572cfe16a780e5992e1f4c41624f28cb1bc239a99bd11b99e9a493c73dbc66d3a3d72",
+			"previousHash": "8a1533db2d55bee0e34f8cc492653439f99a89babd3ed8df41518f6b1ea981f115dae58dd358bd53a7fd3694035563d12389ecf5d41dbcc5689d1759e3ccebfe",
 			"hash": "8a1533db2d55bee0e34f8cc492653439f99a89babd3ed8df41518f6b1ea981f115dae58dd358bd53a7fd3694035563d12389ecf5d41dbcc5689d1759e3ccebfe"
 		},
 		{
