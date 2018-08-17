@@ -20,6 +20,7 @@
 			"name": "aime-williams",
 			"extension": "png",
 			"path": "src/aime-williams.png",
+			"previousHash": "16b9afe77377fead40175afd33da019768162473bde2a42483415d9b84ac71dac028a166be6212251179f1828cc68a70ff530f9fcd1d505cc55cf91db2eee547",
 			"hash": "16b9afe77377fead40175afd33da019768162473bde2a42483415d9b84ac71dac028a166be6212251179f1828cc68a70ff530f9fcd1d505cc55cf91db2eee547"
 		},
 		{
@@ -168,6 +169,12 @@
 			"path": "src/bobby-seagull.png",
 			"previousHash": "8bdea0dcfab77e47c0dd650af53e8bda15248812980c7f611cb402083402b26ba9634c56dd497360a8287ab75046433f3f1e149dbcfcab5af5b9fb08f09103e2",
 			"hash": "8bdea0dcfab77e47c0dd650af53e8bda15248812980c7f611cb402083402b26ba9634c56dd497360a8287ab75046433f3f1e149dbcfcab5af5b9fb08f09103e2"
+		},
+		{
+			"name": "brendan-greeley",
+			"extension": "png",
+			"path": "src/brendan-greeley.png",
+			"hash": "f508db467f60c5d71f354759971460588bcd5afa9ce5c19bc7a098c441a672580551edebd77854579d4cb22fb9187550e1b1293d83fa25595beacc275479c2bb"
 		},
 		{
 			"name": "brian-groom",
