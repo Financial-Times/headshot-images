@@ -10,6 +10,12 @@
 			"hash": "c3287347a451dd73b6e77e1801b4be5138939c8de65c377face05bb640a147aca6882dc6ff58ec3e72dd4bf20ca6612a26493982999c3efad234b19ef9c0b12b"
 		},
 		{
+			"name": "aendrew-rininsland",
+			"extension": "png",
+			"path": "src/aendrew-rininsland.png",
+			"hash": "7c10ceff3c3dd73b065fa644860e7ab2cae5520837906e325d1cbb3154996e29a56ea0643410b82ded669274f0e2ea2e8d1946603b0619a2b8ba83825a44f515"
+		},
+		{
 			"name": "ahmed-rashid",
 			"extension": "png",
 			"path": "src/ahmed-rashid.png",
@@ -209,6 +215,7 @@
 			"name": "cale-tilford",
 			"extension": "png",
 			"path": "src/cale-tilford.png",
+			"previousHash": "f81625f36a10b0ce52ce174a72526eeb6ea9b8539f726a1d1826a14a1e405641d3b23bb2cf2166d799fde94d53e7898f98ccebcfc38b7b6ea6e5efa656835459",
 			"hash": "f81625f36a10b0ce52ce174a72526eeb6ea9b8539f726a1d1826a14a1e405641d3b23bb2cf2166d799fde94d53e7898f98ccebcfc38b7b6ea6e5efa656835459"
 		},
 		{
@@ -747,6 +754,7 @@
 			"name": "joanna-kao",
 			"extension": "png",
 			"path": "src/joanna-kao.png",
+			"previousHash": "93ebf27a115e2b81a32d8d3c4b5faf5c4228abc1f921fd49d4a7d3fe404f9e1e72bb19fb96d2b66483c736c3991fc04b5574907f57951a57b8568e6397f3f8c9",
 			"hash": "93ebf27a115e2b81a32d8d3c4b5faf5c4228abc1f921fd49d4a7d3fe404f9e1e72bb19fb96d2b66483c736c3991fc04b5574907f57951a57b8568e6397f3f8c9"
 		},
 		{
@@ -1110,6 +1118,7 @@
 			"name": "max-harlow",
 			"extension": "png",
 			"path": "src/max-harlow.png",
+			"previousHash": "2c2fdc3d0c7322b2de23ce21105524d62a3b8824ac7f61b94db4c26226c6a1460c561a3867bd116f135642c42401c541dfef80ff8d1649b00eb66d5b74bbcca2",
 			"hash": "2c2fdc3d0c7322b2de23ce21105524d62a3b8824ac7f61b94db4c26226c6a1460c561a3867bd116f135642c42401c541dfef80ff8d1649b00eb66d5b74bbcca2"
 		},
 		{
@@ -1531,12 +1540,6 @@
 			"path": "src/yuan-yang.png",
 			"previousHash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e",
 			"hash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e"
-		},
-		{
-			"name": "ændrew-rininsland",
-			"extension": "png",
-			"path": "src/ændrew-rininsland.png",
-			"hash": "7c10ceff3c3dd73b065fa644860e7ab2cae5520837906e325d1cbb3154996e29a56ea0643410b82ded669274f0e2ea2e8d1946603b0619a2b8ba83825a44f515"
 		}
 	]
 }
