@@ -174,6 +174,7 @@
 			"name": "brendan-greeley",
 			"extension": "png",
 			"path": "src/brendan-greeley.png",
+			"previousHash": "f508db467f60c5d71f354759971460588bcd5afa9ce5c19bc7a098c441a672580551edebd77854579d4cb22fb9187550e1b1293d83fa25595beacc275479c2bb",
 			"hash": "f508db467f60c5d71f354759971460588bcd5afa9ce5c19bc7a098c441a672580551edebd77854579d4cb22fb9187550e1b1293d83fa25595beacc275479c2bb"
 		},
 		{
@@ -203,6 +204,12 @@
 			"path": "src/bryce-elder.png",
 			"previousHash": "c676e11de79650efef59d9ca6495e6dc2d129206e2495d20fa1a3fb83c34bf18bd90d92e058f974fb3d6a550860247979123c50598506fed70d12fc904febe9f",
 			"hash": "c676e11de79650efef59d9ca6495e6dc2d129206e2495d20fa1a3fb83c34bf18bd90d92e058f974fb3d6a550860247979123c50598506fed70d12fc904febe9f"
+		},
+		{
+			"name": "cale-tilford",
+			"extension": "png",
+			"path": "src/cale-tilford.png",
+			"hash": "f81625f36a10b0ce52ce174a72526eeb6ea9b8539f726a1d1826a14a1e405641d3b23bb2cf2166d799fde94d53e7898f98ccebcfc38b7b6ea6e5efa656835459"
 		},
 		{
 			"name": "cardiff-garcia",
@@ -737,6 +744,12 @@
 			"hash": "3ca5e3db6058764b149d3abc297fbb83d5bb2be4d943fe172a4f64c75c8c1c82a280c640d1c238db7fdca94977c01f502cd7f055a6f13fa37d06d829155e3030"
 		},
 		{
+			"name": "joanna-kao",
+			"extension": "png",
+			"path": "src/joanna-kao.png",
+			"hash": "93ebf27a115e2b81a32d8d3c4b5faf5c4228abc1f921fd49d4a7d3fe404f9e1e72bb19fb96d2b66483c736c3991fc04b5574907f57951a57b8568e6397f3f8c9"
+		},
+		{
 			"name": "john-authers",
 			"extension": "png",
 			"path": "src/john-authers.png",
@@ -1092,6 +1105,12 @@
 			"path": "src/matthew-vincent.png",
 			"previousHash": "eac33fef50218eb5148f73b898e8e701cad1d46642043cdb086c0ab06e80a2eaa72bfe41188a7358396c3edfff567bdf060163ddfd547e679239bcc04f4d3ee6",
 			"hash": "eac33fef50218eb5148f73b898e8e701cad1d46642043cdb086c0ab06e80a2eaa72bfe41188a7358396c3edfff567bdf060163ddfd547e679239bcc04f4d3ee6"
+		},
+		{
+			"name": "max-harlow",
+			"extension": "png",
+			"path": "src/max-harlow.png",
+			"hash": "2c2fdc3d0c7322b2de23ce21105524d62a3b8824ac7f61b94db4c26226c6a1460c561a3867bd116f135642c42401c541dfef80ff8d1649b00eb66d5b74bbcca2"
 		},
 		{
 			"name": "megan-greene",
@@ -1512,6 +1531,12 @@
 			"path": "src/yuan-yang.png",
 			"previousHash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e",
 			"hash": "209ef06d2bb3c183a0d68c95666be6a880b5ab76bfbb6068858ecb980275899df3887c4b38c8f1e73e42ae7795185ed360246505fbed7cd528b0cacc946e7b8e"
+		},
+		{
+			"name": "ændrew-rininsland",
+			"extension": "png",
+			"path": "src/ændrew-rininsland.png",
+			"hash": "7c10ceff3c3dd73b065fa644860e7ab2cae5520837906e325d1cbb3154996e29a56ea0643410b82ded669274f0e2ea2e8d1946603b0619a2b8ba83825a44f515"
 		}
 	]
 }
