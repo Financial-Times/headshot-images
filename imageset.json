@@ -13,6 +13,7 @@
 			"name": "aendrew-rininsland",
 			"extension": "png",
 			"path": "src/aendrew-rininsland.png",
+			"previousHash": "7c10ceff3c3dd73b065fa644860e7ab2cae5520837906e325d1cbb3154996e29a56ea0643410b82ded669274f0e2ea2e8d1946603b0619a2b8ba83825a44f515",
 			"hash": "7c10ceff3c3dd73b065fa644860e7ab2cae5520837906e325d1cbb3154996e29a56ea0643410b82ded669274f0e2ea2e8d1946603b0619a2b8ba83825a44f515"
 		},
 		{
@@ -329,6 +330,12 @@
 			"path": "src/daniel-thomas.png",
 			"previousHash": "76e9a9256f6f0e35e1662ebf86f93df1a86ded1d01419c4c540807a935a2368c774bf97919240db797bc18279869036b25f0cd70f07dfd1d54937d0ee44c9ba0",
 			"hash": "76e9a9256f6f0e35e1662ebf86f93df1a86ded1d01419c4c540807a935a2368c774bf97919240db797bc18279869036b25f0cd70f07dfd1d54937d0ee44c9ba0"
+		},
+		{
+			"name": "david-blood",
+			"extension": "png",
+			"path": "src/david-blood.png",
+			"hash": "fbad9bc223b0767388a3316fd8a8c0f8676f7a37907e91533aea9c8f29ebe906fc11a9eba1eb4e8898df5e07a962f9c5ef8937e1bda08775615128fa9d094058"
 		},
 		{
 			"name": "david-crow",
