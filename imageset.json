@@ -80,6 +80,12 @@
 			"hash": "29e9e68e0edb3b85caff9061e9fc9c407f76762d255b78da5067b45a948dc6df642616aea9c12d3e8a38015ed52ead3907d6a9f722e5df381c6d905e79ce77d1"
 		},
 		{
+			"name": "alice-ross",
+			"extension": "png",
+			"path": "src/alice-ross.png",
+			"hash": "3c79284c142923867aa51576063d8da36f61b5dcde9da1d7578ef389eb70dc6994bbc1f3bf39d21e31b3c1fbde01e23159422b3525f2bb2870e9bba9c12a12f6"
+		},
+		{
 			"name": "aliya-ram",
 			"extension": "png",
 			"path": "src/aliya-ram.png",
@@ -335,6 +341,7 @@
 			"name": "david-blood",
 			"extension": "png",
 			"path": "src/david-blood.png",
+			"previousHash": "fbad9bc223b0767388a3316fd8a8c0f8676f7a37907e91533aea9c8f29ebe906fc11a9eba1eb4e8898df5e07a962f9c5ef8937e1bda08775615128fa9d094058",
 			"hash": "fbad9bc223b0767388a3316fd8a8c0f8676f7a37907e91533aea9c8f29ebe906fc11a9eba1eb4e8898df5e07a962f9c5ef8937e1bda08775615128fa9d094058"
 		},
 		{
