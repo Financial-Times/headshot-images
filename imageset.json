@@ -83,6 +83,7 @@
 			"name": "alice-ross",
 			"extension": "png",
 			"path": "src/alice-ross.png",
+			"previousHash": "3c79284c142923867aa51576063d8da36f61b5dcde9da1d7578ef389eb70dc6994bbc1f3bf39d21e31b3c1fbde01e23159422b3525f2bb2870e9bba9c12a12f6",
 			"hash": "3c79284c142923867aa51576063d8da36f61b5dcde9da1d7578ef389eb70dc6994bbc1f3bf39d21e31b3c1fbde01e23159422b3525f2bb2870e9bba9c12a12f6"
 		},
 		{
@@ -1204,6 +1205,12 @@
 			"path": "src/neil-collins.png",
 			"previousHash": "4e8500ccb544f2ecca4f94c17b5e8c5bd765cfb6b7456ec53d6bf29b5abda76d729be45ef5b7904db378360a4d1c0ae24ea6acbcd225d61a0cc80a78d1ddf54b",
 			"hash": "4e8500ccb544f2ecca4f94c17b5e8c5bd765cfb6b7456ec53d6bf29b5abda76d729be45ef5b7904db378360a4d1c0ae24ea6acbcd225d61a0cc80a78d1ddf54b"
+		},
+		{
+			"name": "neil-hume",
+			"extension": "png",
+			"path": "src/neil-hume.png",
+			"hash": "299834e6220b80392a5f0798997f28e8c0f25902b28bb91a20d777c22af05cc9fb4e63ba22bed6e0e21af8c4038d04b60165e2c483ae263dba3dde57f28d96d0"
 		},
 		{
 			"name": "nick-butler",
