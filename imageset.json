@@ -157,6 +157,12 @@
 			"hash": "df89cbe91bacd8b668b758e883abfa2477f1bdddd6e5aa4ebd7449477347a3ae20209953032e0c92c6863e729667c308dfa88ac67d9c88f6aaf4be29b3082d24"
 		},
 		{
+			"name": "attracta-mooney",
+			"extension": "png",
+			"path": "src/attracta-mooney.png",
+			"hash": "4c34a86fc24fd8e4231c12e4a65bad8be974b33168f92a8fee1facabe69650bfcf229cdb0d77cafba4933b40274f4db2bc00e18000105165b2933c1a1725daaf"
+		},
+		{
 			"name": "ayaan-hirsi-ali",
 			"extension": "png",
 			"path": "src/ayaan-hirsi-ali.png",
@@ -1210,6 +1216,7 @@
 			"name": "neil-hume",
 			"extension": "png",
 			"path": "src/neil-hume.png",
+			"previousHash": "299834e6220b80392a5f0798997f28e8c0f25902b28bb91a20d777c22af05cc9fb4e63ba22bed6e0e21af8c4038d04b60165e2c483ae263dba3dde57f28d96d0",
 			"hash": "299834e6220b80392a5f0798997f28e8c0f25902b28bb91a20d777c22af05cc9fb4e63ba22bed6e0e21af8c4038d04b60165e2c483ae263dba3dde57f28d96d0"
 		},
 		{
