@@ -160,6 +160,7 @@
 			"name": "attracta-mooney",
 			"extension": "png",
 			"path": "src/attracta-mooney.png",
+			"previousHash": "4c34a86fc24fd8e4231c12e4a65bad8be974b33168f92a8fee1facabe69650bfcf229cdb0d77cafba4933b40274f4db2bc00e18000105165b2933c1a1725daaf",
 			"hash": "4c34a86fc24fd8e4231c12e4a65bad8be974b33168f92a8fee1facabe69650bfcf229cdb0d77cafba4933b40274f4db2bc00e18000105165b2933c1a1725daaf"
 		},
 		{
@@ -1183,6 +1184,12 @@
 			"path": "src/miranda-green.png",
 			"previousHash": "25cf55f41652b5839d2bf888dc3b7c7e7a229d364317150f74d1f3db992c8761f47380e7db492c4dffd861d9d80120a77603221815eaab11411d286b885d9335",
 			"hash": "25cf55f41652b5839d2bf888dc3b7c7e7a229d364317150f74d1f3db992c8761f47380e7db492c4dffd861d9d80120a77603221815eaab11411d286b885d9335"
+		},
+		{
+			"name": "moira-oneill",
+			"extension": "png",
+			"path": "src/moira-oneill.png",
+			"hash": "665a99279545c4290818ced9f1ab0a17d0774bd5eb83511ee7b3f89240f4335d7c0bef9ead07d20beca5d7a5416563a4ff18018f3b4245f15ad6cfc606c38b20"
 		},
 		{
 			"name": "mrs-moneypenny",
