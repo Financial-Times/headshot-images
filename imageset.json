@@ -549,6 +549,12 @@
 			"hash": "7f765223732cc1136bef223bf1355a5b5f19b2bbde7f7c7cced7573eb5be777846032f616d238eeb98168c45d02e7596d705522c1b867263a9d3c23a2386043b"
 		},
 		{
+			"name": "gavin-jackson",
+			"extension": "png",
+			"path": "src/gavin-jackson.png",
+			"hash": "195f97e38bc968aedea266315e3240c1dada50e920a152121f9d408bd5edc4dcb4adec320b119ef494ff574b3997ba9cff78543a50ca7ea353ef4deae402e0fc"
+		},
+		{
 			"name": "gavyn-davies",
 			"extension": "png",
 			"path": "src/gavyn-davies.png",
@@ -1189,6 +1195,7 @@
 			"name": "moira-oneill",
 			"extension": "png",
 			"path": "src/moira-oneill.png",
+			"previousHash": "665a99279545c4290818ced9f1ab0a17d0774bd5eb83511ee7b3f89240f4335d7c0bef9ead07d20beca5d7a5416563a4ff18018f3b4245f15ad6cfc606c38b20",
 			"hash": "665a99279545c4290818ced9f1ab0a17d0774bd5eb83511ee7b3f89240f4335d7c0bef9ead07d20beca5d7a5416563a4ff18018f3b4245f15ad6cfc606c38b20"
 		},
 		{
