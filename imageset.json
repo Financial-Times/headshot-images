@@ -234,6 +234,12 @@
 			"hash": "f81625f36a10b0ce52ce174a72526eeb6ea9b8539f726a1d1826a14a1e405641d3b23bb2cf2166d799fde94d53e7898f98ccebcfc38b7b6ea6e5efa656835459"
 		},
 		{
+			"name": "camilla-cavendish",
+			"extension": "png",
+			"path": "src/camilla-cavendish.png",
+			"hash": "f754a98aa682e52c784cf7d04534841fe4c73659e3b1219a54a867e2cdc284be23cd960580934fa76c3ee64d2eb9fc6b7b7a6240dbaa44e460c8d4f9baef0431"
+		},
+		{
 			"name": "cardiff-garcia",
 			"extension": "png",
 			"path": "src/cardiff-garcia.png",
@@ -552,6 +558,7 @@
 			"name": "gavin-jackson",
 			"extension": "png",
 			"path": "src/gavin-jackson.png",
+			"previousHash": "195f97e38bc968aedea266315e3240c1dada50e920a152121f9d408bd5edc4dcb4adec320b119ef494ff574b3997ba9cff78543a50ca7ea353ef4deae402e0fc",
 			"hash": "195f97e38bc968aedea266315e3240c1dada50e920a152121f9d408bd5edc4dcb4adec320b119ef494ff574b3997ba9cff78543a50ca7ea353ef4deae402e0fc"
 		},
 		{
