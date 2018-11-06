@@ -237,6 +237,7 @@
 			"name": "camilla-cavendish",
 			"extension": "png",
 			"path": "src/camilla-cavendish.png",
+			"previousHash": "f754a98aa682e52c784cf7d04534841fe4c73659e3b1219a54a867e2cdc284be23cd960580934fa76c3ee64d2eb9fc6b7b7a6240dbaa44e460c8d4f9baef0431",
 			"hash": "f754a98aa682e52c784cf7d04534841fe4c73659e3b1219a54a867e2cdc284be23cd960580934fa76c3ee64d2eb9fc6b7b7a6240dbaa44e460c8d4f9baef0431"
 		},
 		{
@@ -259,6 +260,12 @@
 			"path": "src/caroline-fiennes.png",
 			"previousHash": "9e3d153de8d8010919d5dce39d1d1175634a65227fcf45850269a2387142ed9603d37d2f6cfbbc8570969d8bae0ef6973c25e33f1e7ba12ba467b8f415ba9682",
 			"hash": "9e3d153de8d8010919d5dce39d1d1175634a65227fcf45850269a2387142ed9603d37d2f6cfbbc8570969d8bae0ef6973c25e33f1e7ba12ba467b8f415ba9682"
+		},
+		{
+			"name": "chelsea-bruce-lockhart",
+			"extension": "png",
+			"path": "src/chelsea-bruce-lockhart.png",
+			"hash": "984115e3bf733a84e0db73e7d1dbaafe11a00818147f39f879cd922737a0f54024320a10b7adcbef1e0d3444dbb5f977fc3794e0434a90d59e8acbe449c07f58"
 		},
 		{
 			"name": "chloe-cornish",
@@ -308,6 +315,12 @@
 			"path": "src/claire-manibog.png",
 			"previousHash": "3a8b14070a85604d04a42f37831ffce87e48146e277d9c0e8ba7b3677d14c33fba253f781affd011bcba764d4fa093f3acb890b6a4c3e0d0d1112e651cd9389a",
 			"hash": "3a8b14070a85604d04a42f37831ffce87e48146e277d9c0e8ba7b3677d14c33fba253f781affd011bcba764d4fa093f3acb890b6a4c3e0d0d1112e651cd9389a"
+		},
+		{
+			"name": "clive-cookson",
+			"extension": "png",
+			"path": "src/clive-cookson.png",
+			"hash": "7a8191bfeccab9346822a0cec3c1bd68a6f5d61858c632f8d9e0795fa0df71fa050104b9a35aa0ed5b548fb271cf7aae11d3ae66299daa5c45e073590bba9954"
 		},
 		{
 			"name": "colby-smith",
