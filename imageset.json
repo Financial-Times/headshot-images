@@ -265,6 +265,7 @@
 			"name": "chelsea-bruce-lockhart",
 			"extension": "png",
 			"path": "src/chelsea-bruce-lockhart.png",
+			"previousHash": "984115e3bf733a84e0db73e7d1dbaafe11a00818147f39f879cd922737a0f54024320a10b7adcbef1e0d3444dbb5f977fc3794e0434a90d59e8acbe449c07f58",
 			"hash": "984115e3bf733a84e0db73e7d1dbaafe11a00818147f39f879cd922737a0f54024320a10b7adcbef1e0d3444dbb5f977fc3794e0434a90d59e8acbe449c07f58"
 		},
 		{
@@ -320,6 +321,7 @@
 			"name": "clive-cookson",
 			"extension": "png",
 			"path": "src/clive-cookson.png",
+			"previousHash": "7a8191bfeccab9346822a0cec3c1bd68a6f5d61858c632f8d9e0795fa0df71fa050104b9a35aa0ed5b548fb271cf7aae11d3ae66299daa5c45e073590bba9954",
 			"hash": "7a8191bfeccab9346822a0cec3c1bd68a6f5d61858c632f8d9e0795fa0df71fa050104b9a35aa0ed5b548fb271cf7aae11d3ae66299daa5c45e073590bba9954"
 		},
 		{
@@ -1231,6 +1233,12 @@
 			"path": "src/najmeh-bozorgmehr.png",
 			"previousHash": "586735e4cf8dee9784bb2414db297f7f97f36a4bb02943228184cf59182e6c47b2c24cd3fdf59c52032f9fcf36e172763dbebe369c7cf0824a45477bc51617f4",
 			"hash": "586735e4cf8dee9784bb2414db297f7f97f36a4bb02943228184cf59182e6c47b2c24cd3fdf59c52032f9fcf36e172763dbebe369c7cf0824a45477bc51617f4"
+		},
+		{
+			"name": "nastassia-astrasheuskaya",
+			"extension": "png",
+			"path": "src/nastassia-astrasheuskaya.png",
+			"hash": "1fc50647ea8a03e060b6f3da2467ceb542c432735b06be250bd60760b7f6c1276cbae7d45bd9443d3db3e8d29d625ee033b7ee3db15c61787fbd273f3ad54343"
 		},
 		{
 			"name": "nathan-brooker",
