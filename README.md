@@ -1,4 +1,4 @@
-# Headshot images [![Build status](https://img.shields.io/circleci/project/Financial-Times/headshot-images.svg)](https://circleci.com/gh/Financial-Times/headshot-images) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)][license]
+# Headshot images [![Build status](https://img.shields.io/circleci/project/Financial-Times/headshot-images.svg)](https://circleci.com/gh/Financial-Times/headshot-images) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](license)
 
 An image set of head-shots of FT Journalists for use with bylines.
 
