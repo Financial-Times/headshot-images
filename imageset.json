@@ -1522,6 +1522,12 @@
 			"hash": "21446497d972ab44ff4785d31aaf072db86ad3cc86aea4bbe501037f934cfd41a12a3e75ed70d66b3a1772c544e3bf8a0914d9047c22f99f8176453770506f11"
 		},
 		{
+			"name": "suzanne-blumsom",
+			"extension": "png",
+			"path": "src/suzanne-blumsom.png",
+			"hash": "09c8377d02ecfa4188608355a846abeed3027ec3f9110369f6829453b1b2d2bf88951427b206270eadae4b55e3aea6c31c53e2cbd13073663d761ec05627c523"
+		},
+		{
 			"name": "terry-smith",
 			"extension": "png",
 			"path": "src/terry-smith.png",
@@ -1553,6 +1559,7 @@
 			"name": "tina-gaudoin",
 			"extension": "png",
 			"path": "src/tina-gaudoin.png",
+			"previousHash": "b0d010a4db3db41e0183bc265a9eb2af1562e5615e9306187655e5dc92577cb290e11115579511a0c8acef59517981507483cb37a7d8be8bbda5049cb54e215e",
 			"hash": "b0d010a4db3db41e0183bc265a9eb2af1562e5615e9306187655e5dc92577cb290e11115579511a0c8acef59517981507483cb37a7d8be8bbda5049cb54e215e"
 		},
 		{
