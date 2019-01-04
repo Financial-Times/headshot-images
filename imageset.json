@@ -1525,6 +1525,7 @@
 			"name": "suzanne-blumsom",
 			"extension": "png",
 			"path": "src/suzanne-blumsom.png",
+			"previousHash": "09c8377d02ecfa4188608355a846abeed3027ec3f9110369f6829453b1b2d2bf88951427b206270eadae4b55e3aea6c31c53e2cbd13073663d761ec05627c523",
 			"hash": "09c8377d02ecfa4188608355a846abeed3027ec3f9110369f6829453b1b2d2bf88951427b206270eadae4b55e3aea6c31c53e2cbd13073663d761ec05627c523"
 		},
 		{
@@ -1560,7 +1561,7 @@
 			"extension": "png",
 			"path": "src/tina-gaudoin.png",
 			"previousHash": "b0d010a4db3db41e0183bc265a9eb2af1562e5615e9306187655e5dc92577cb290e11115579511a0c8acef59517981507483cb37a7d8be8bbda5049cb54e215e",
-			"hash": "b0d010a4db3db41e0183bc265a9eb2af1562e5615e9306187655e5dc92577cb290e11115579511a0c8acef59517981507483cb37a7d8be8bbda5049cb54e215e"
+			"hash": "6e1c3cbc49bc89f60eba78c2a220a0208da4b374c79fd09aa228fca1a8222d36503f4c3471b1a7ec174c1e7707b5476829c6f175d72e357cf6fd331b556728ef"
 		},
 		{
 			"name": "tom-braithwaite",
