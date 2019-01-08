@@ -1473,6 +1473,12 @@
 			"hash": "4de40082d184b7ef6cb621292ebb62c7b8df405aa57bc24615c9798d8ff777c271bcbe18ebb47f58987fe8318cc9996aa0a163ba3946a3749173ea493cfd27af"
 		},
 		{
+			"name": "sarah-sands",
+			"extension": "png",
+			"path": "src/sarah-sands.png",
+			"hash": "a966dc2eb653be03a568d7ab6378f43db8e05292e7cc077c4dbcca05b3faead8c3a81a3001d115d12f6c6abc3e0e4aa5d52c64732ee8b86ce63dbd2d8a105ebd"
+		},
+		{
 			"name": "sebastian-payne",
 			"extension": "png",
 			"path": "src/sebastian-payne.png",
@@ -1560,7 +1566,7 @@
 			"name": "tina-gaudoin",
 			"extension": "png",
 			"path": "src/tina-gaudoin.png",
-			"previousHash": "b0d010a4db3db41e0183bc265a9eb2af1562e5615e9306187655e5dc92577cb290e11115579511a0c8acef59517981507483cb37a7d8be8bbda5049cb54e215e",
+			"previousHash": "6e1c3cbc49bc89f60eba78c2a220a0208da4b374c79fd09aa228fca1a8222d36503f4c3471b1a7ec174c1e7707b5476829c6f175d72e357cf6fd331b556728ef",
 			"hash": "6e1c3cbc49bc89f60eba78c2a220a0208da4b374c79fd09aa228fca1a8222d36503f4c3471b1a7ec174c1e7707b5476829c6f175d72e357cf6fd331b556728ef"
 		},
 		{
