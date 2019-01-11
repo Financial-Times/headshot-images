@@ -1190,7 +1190,7 @@
 			"extension": "png",
 			"path": "src/michael-mackenzie.png",
 			"previousHash": "080245a4fe756a28c8357650e195b7af114f20e27f1acc6b891a3f0724f66743942b499e9e15fab764545d9b710171644e679d7192fe837895213b15cebfee0b",
-			"hash": "080245a4fe756a28c8357650e195b7af114f20e27f1acc6b891a3f0724f66743942b499e9e15fab764545d9b710171644e679d7192fe837895213b15cebfee0b"
+			"hash": "0144fefca2053695b81b50f4df05e973974da06097ff49d5ea6e04e96b4980042608db2bed11a948eedb48a756bfc8631eec272de6e2cbf5310f68826f7385d0"
 		},
 		{
 			"name": "michael-skapinker",
@@ -1476,6 +1476,7 @@
 			"name": "sarah-sands",
 			"extension": "png",
 			"path": "src/sarah-sands.png",
+			"previousHash": "a966dc2eb653be03a568d7ab6378f43db8e05292e7cc077c4dbcca05b3faead8c3a81a3001d115d12f6c6abc3e0e4aa5d52c64732ee8b86ce63dbd2d8a105ebd",
 			"hash": "a966dc2eb653be03a568d7ab6378f43db8e05292e7cc077c4dbcca05b3faead8c3a81a3001d115d12f6c6abc3e0e4aa5d52c64732ee8b86ce63dbd2d8a105ebd"
 		},
 		{
