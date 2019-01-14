@@ -206,9 +206,16 @@
 			"hash": "5c442dc43998c2d0591d5a785551075c05a53364ae5ee569a847a43d8642fc31a0568d66a1ce0df7b4786b20355de6d4e6e901c425e1344f1b5177378bcd0f75"
 		},
 		{
+			"name": "bronwen-maddox",
+			"extension": "png",
+			"path": "src/bronwen-maddox.png",
+			"hash": "f3ab6227421a53a2b4024d025528761c18b80a4a68020fe32ce2161ef3c7727d2ebb2f0652b7363abe005fb07ea1f46cff18cb0bb7483ac09551d377fd39f281"
+		},
+		{
 			"name": "bronwen_maddox",
 			"extension": "png",
 			"path": "src/bronwen_maddox.png",
+			"previousHash": "f3ab6227421a53a2b4024d025528761c18b80a4a68020fe32ce2161ef3c7727d2ebb2f0652b7363abe005fb07ea1f46cff18cb0bb7483ac09551d377fd39f281",
 			"hash": "f3ab6227421a53a2b4024d025528761c18b80a4a68020fe32ce2161ef3c7727d2ebb2f0652b7363abe005fb07ea1f46cff18cb0bb7483ac09551d377fd39f281"
 		},
 		{
