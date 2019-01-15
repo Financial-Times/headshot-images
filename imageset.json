@@ -209,12 +209,6 @@
 			"name": "bronwen-maddox",
 			"extension": "png",
 			"path": "src/bronwen-maddox.png",
-			"hash": "f3ab6227421a53a2b4024d025528761c18b80a4a68020fe32ce2161ef3c7727d2ebb2f0652b7363abe005fb07ea1f46cff18cb0bb7483ac09551d377fd39f281"
-		},
-		{
-			"name": "bronwen_maddox",
-			"extension": "png",
-			"path": "src/bronwen_maddox.png",
 			"previousHash": "f3ab6227421a53a2b4024d025528761c18b80a4a68020fe32ce2161ef3c7727d2ebb2f0652b7363abe005fb07ea1f46cff18cb0bb7483ac09551d377fd39f281",
 			"hash": "f3ab6227421a53a2b4024d025528761c18b80a4a68020fe32ce2161ef3c7727d2ebb2f0652b7363abe005fb07ea1f46cff18cb0bb7483ac09551d377fd39f281"
 		},
@@ -532,13 +526,6 @@
 			"path": "src/fiona-mozley.png",
 			"previousHash": "be404380037c62a51128a1b69b13d6081ac0916cf826d6eccdb14588b120d95febbd0da455751447f6a17f18d0d5e7aa4b2a235a1970e9fa33c96882986169bf",
 			"hash": "be404380037c62a51128a1b69b13d6081ac0916cf826d6eccdb14588b120d95febbd0da455751447f6a17f18d0d5e7aa4b2a235a1970e9fa33c96882986169bf"
-		},
-		{
-			"name": "flora-johnston-macdonald",
-			"extension": "png",
-			"path": "src/flora-johnston-macdonald.png",
-			"previousHash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e",
-			"hash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e"
 		},
 		{
 			"name": "flora-macdonald-johnston",
