@@ -528,13 +528,6 @@
 			"hash": "be404380037c62a51128a1b69b13d6081ac0916cf826d6eccdb14588b120d95febbd0da455751447f6a17f18d0d5e7aa4b2a235a1970e9fa33c96882986169bf"
 		},
 		{
-			"name": "flora-johnston-macdonald",
-			"extension": "png",
-			"path": "src/flora-johnston-macdonald.png",
-			"previousHash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e",
-			"hash": "b83499a1e9210c3fb7f9c1533d4375562b6b3d47d7ed5085031dd6e48242243081513dc178fd667e8bb6d3dd209810e487d0b8a88619e802da2924be19d1e88e"
-		},
-		{
 			"name": "flora-macdonald-johnston",
 			"extension": "png",
 			"path": "src/flora-macdonald-johnston.png",
