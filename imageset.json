@@ -136,6 +136,12 @@
 			"hash": "4cb236eb20fa21c067a2b3155c1e56b313866a268c6edf07d7b114ba4635ccc4f85ce803af305830fc4440d5b06c4b6bd4b6deca65f8f6b187987b51c1067274"
 		},
 		{
+			"name": "anjli-raval",
+			"extension": "png",
+			"path": "src/anjli-raval.png",
+			"hash": "4ddc71b4261fec68f329af6c61b1042112aaee9536ca0bc58919342ec69f3c7f6412a24526f34a50d85cc2a419c88e432e86b5287a1b44ef21be19deecdf4e69"
+		},
+		{
 			"name": "anne-marie-slaughter",
 			"extension": "png",
 			"path": "src/anne-marie-slaughter.png",
@@ -244,7 +250,7 @@
 			"name": "camilla-cavendish",
 			"extension": "png",
 			"path": "src/camilla-cavendish.png",
-			"previousHash": "f754a98aa682e52c784cf7d04534841fe4c73659e3b1219a54a867e2cdc284be23cd960580934fa76c3ee64d2eb9fc6b7b7a6240dbaa44e460c8d4f9baef0431",
+			"previousHash": "8cd875b40f757d5335c61ea0c10c390a2696be8693bdf6d2301cc3917fc21b5c480f293d1fc24b772a5df0e96d85f04c7b2f3f2c00f0ae779de47367362251de",
 			"hash": "8cd875b40f757d5335c61ea0c10c390a2696be8693bdf6d2301cc3917fc21b5c480f293d1fc24b772a5df0e96d85f04c7b2f3f2c00f0ae779de47367362251de"
 		},
 		{
