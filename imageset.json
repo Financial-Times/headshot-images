@@ -139,6 +139,7 @@
 			"name": "anjli-raval",
 			"extension": "png",
 			"path": "src/anjli-raval.png",
+			"previousHash": "4ddc71b4261fec68f329af6c61b1042112aaee9536ca0bc58919342ec69f3c7f6412a24526f34a50d85cc2a419c88e432e86b5287a1b44ef21be19deecdf4e69",
 			"hash": "4ddc71b4261fec68f329af6c61b1042112aaee9536ca0bc58919342ec69f3c7f6412a24526f34a50d85cc2a419c88e432e86b5287a1b44ef21be19deecdf4e69"
 		},
 		{
@@ -980,6 +981,12 @@
 			"path": "src/ken-fisher.png",
 			"previousHash": "d0490d3b314de001df8d05b876356976aba3d9fec3d4a01d828d3a2576590315fe2e8a02994cf9124a2d8e12020206629aa814e2ae897650735529ee1328e663",
 			"hash": "d0490d3b314de001df8d05b876356976aba3d9fec3d4a01d828d3a2576590315fe2e8a02994cf9124a2d8e12020206629aa814e2ae897650735529ee1328e663"
+		},
+		{
+			"name": "kiran-stacey",
+			"extension": "png",
+			"path": "src/kiran-stacey.png",
+			"hash": "798bd83b71563b9b99ada144141a3b193316520ae4a1261a7a72098a495f8978b231fe92532e9b2a26027a8f82972a1aff5cea643c5e28f35fd52c6e19df324b"
 		},
 		{
 			"name": "laura-pitel",
