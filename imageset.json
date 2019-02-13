@@ -805,7 +805,7 @@
 			"extension": "png",
 			"path": "src/jo-ellison.png",
 			"previousHash": "3ca5e3db6058764b149d3abc297fbb83d5bb2be4d943fe172a4f64c75c8c1c82a280c640d1c238db7fdca94977c01f502cd7f055a6f13fa37d06d829155e3030",
-			"hash": "3ca5e3db6058764b149d3abc297fbb83d5bb2be4d943fe172a4f64c75c8c1c82a280c640d1c238db7fdca94977c01f502cd7f055a6f13fa37d06d829155e3030"
+			"hash": "5f6556cd0258e9c83a55f5960fa810593599cc771a460564466c7ce172c037f22f5fc79b906b2c7c288ea4201ec93cbf4e49d13041b2fff474126e9fcc014f17"
 		},
 		{
 			"name": "joanna-kao",
@@ -986,6 +986,7 @@
 			"name": "kiran-stacey",
 			"extension": "png",
 			"path": "src/kiran-stacey.png",
+			"previousHash": "798bd83b71563b9b99ada144141a3b193316520ae4a1261a7a72098a495f8978b231fe92532e9b2a26027a8f82972a1aff5cea643c5e28f35fd52c6e19df324b",
 			"hash": "798bd83b71563b9b99ada144141a3b193316520ae4a1261a7a72098a495f8978b231fe92532e9b2a26027a8f82972a1aff5cea643c5e28f35fd52c6e19df324b"
 		},
 		{
@@ -1106,6 +1107,18 @@
 			"path": "src/maike-currie.png",
 			"previousHash": "4e739ef92901c98815c97c8a3e8e12b3655efaced8b67d0d6908ab66becf930c43a8e3fe3fab79dd1332762de7ec27cdda5b257d580b39927650cb9915fd77be",
 			"hash": "4e739ef92901c98815c97c8a3e8e12b3655efaced8b67d0d6908ab66becf930c43a8e3fe3fab79dd1332762de7ec27cdda5b257d580b39927650cb9915fd77be"
+		},
+		{
+			"name": "mark-vanhoenacker",
+			"extension": "png",
+			"path": "src/mark-vanhoenacker.png",
+			"hash": "66a9cdabed7843c4840875f6326c624cec91bd308ec59610d0cbd5498d09736d6ae4f0d86074a115da286374f6f9aa3bc8ea2b5a7eac5fab99a61ed78acf6d73"
+		},
+		{
+			"name": "mark-wembridge",
+			"extension": "png",
+			"path": "src/mark-wembridge.png",
+			"hash": "a456493e325d6b357ce16262ce4c58ed084aafe49ba65df5c3c4ff310242b10206e9094eb2621f24bdb0cb37b0ff5c54ce4f5a441e9778e9be0c9662326e68a3"
 		},
 		{
 			"name": "martin-arnold",
