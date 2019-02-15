@@ -1067,6 +1067,12 @@
 			"hash": "1326bd5cc192a9dc2fa2d8678d92b94fd8b1d07936b5d4ff2b9dc03847f5bf4fa51d546ac9e90ff45e877004021753400677c49ff3238d43b3f1fd56938c761e"
 		},
 		{
+			"name": "lucy-watson",
+			"extension": "png",
+			"path": "src/lucy-watson.png",
+			"hash": "81639fbb8c66e2e988c60359944f17a41bf696c517a825e052bf2a9a0f1ff8ae561d86fc42df6b0f69d5cc95c0c6cfcfcb7cf8971404f8f5c503bf088d41c126"
+		},
+		{
 			"name": "ludovic-hunter-tilney",
 			"extension": "png",
 			"path": "src/ludovic-hunter-tilney.png",
