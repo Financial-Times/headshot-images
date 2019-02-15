@@ -1070,6 +1070,7 @@
 			"name": "lucy-watson",
 			"extension": "png",
 			"path": "src/lucy-watson.png",
+			"previousHash": "81639fbb8c66e2e988c60359944f17a41bf696c517a825e052bf2a9a0f1ff8ae561d86fc42df6b0f69d5cc95c0c6cfcfcb7cf8971404f8f5c503bf088d41c126",
 			"hash": "81639fbb8c66e2e988c60359944f17a41bf696c517a825e052bf2a9a0f1ff8ae561d86fc42df6b0f69d5cc95c0c6cfcfcb7cf8971404f8f5c503bf088d41c126"
 		},
 		{
@@ -1118,6 +1119,7 @@
 			"name": "mark-vanhoenacker",
 			"extension": "png",
 			"path": "src/mark-vanhoenacker.png",
+			"previousHash": "66a9cdabed7843c4840875f6326c624cec91bd308ec59610d0cbd5498d09736d6ae4f0d86074a115da286374f6f9aa3bc8ea2b5a7eac5fab99a61ed78acf6d73",
 			"hash": "66a9cdabed7843c4840875f6326c624cec91bd308ec59610d0cbd5498d09736d6ae4f0d86074a115da286374f6f9aa3bc8ea2b5a7eac5fab99a61ed78acf6d73"
 		},
 		{
