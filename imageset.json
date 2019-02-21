@@ -913,6 +913,12 @@
 			"hash": "459af567afb2bcad5bb59798ae430fa1c6457879abf5420da58ead1e1e88faa82425ab9add6cc6afa45a14800db50582db5d6daaca9550595f94473aaffa7202"
 		},
 		{
+			"name": "joshua-chaffin",
+			"extension": "png",
+			"path": "src/joshua-chaffin.png",
+			"hash": "0970f5744ae4cdeb75e562c3de40e7b6331837a888d9dc73a9d21a94699209e05c8287ee5fdc73aed6e2058b3815ce397664f65125c56264f87ec3e274fb6603"
+		},
+		{
 			"name": "jude-webber",
 			"extension": "png",
 			"path": "src/jude-webber.png",
