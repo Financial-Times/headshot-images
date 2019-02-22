@@ -916,6 +916,7 @@
 			"name": "joshua-chaffin",
 			"extension": "png",
 			"path": "src/joshua-chaffin.png",
+			"previousHash": "0970f5744ae4cdeb75e562c3de40e7b6331837a888d9dc73a9d21a94699209e05c8287ee5fdc73aed6e2058b3815ce397664f65125c56264f87ec3e274fb6603",
 			"hash": "0970f5744ae4cdeb75e562c3de40e7b6331837a888d9dc73a9d21a94699209e05c8287ee5fdc73aed6e2058b3815ce397664f65125c56264f87ec3e274fb6603"
 		},
 		{
@@ -931,6 +932,12 @@
 			"path": "src/julia-apostle.png",
 			"previousHash": "adb127ccf94d4a4558aed95154b82a94e3ea04d7edf1951aa861781992d08c3884adec50bd0bea6008b7dd17bc818a1a71e94f4cfc5daf85cb24f0ab0f24e23d",
 			"hash": "adb127ccf94d4a4558aed95154b82a94e3ea04d7edf1951aa861781992d08c3884adec50bd0bea6008b7dd17bc818a1a71e94f4cfc5daf85cb24f0ab0f24e23d"
+		},
+		{
+			"name": "june-yoon",
+			"extension": "png",
+			"path": "src/june-yoon.png",
+			"hash": "3b4dd3c40d9b79a83356124080ab28d3e969251d665a8cf825bc631e7066e22002dddfec49e98607432ccb7d1263ee4476f4eff7603eb7ae20acbab9468d72c5"
 		},
 		{
 			"name": "jurek-martin",
