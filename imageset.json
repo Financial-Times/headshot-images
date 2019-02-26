@@ -937,6 +937,7 @@
 			"name": "june-yoon",
 			"extension": "png",
 			"path": "src/june-yoon.png",
+			"previousHash": "3b4dd3c40d9b79a83356124080ab28d3e969251d665a8cf825bc631e7066e22002dddfec49e98607432ccb7d1263ee4476f4eff7603eb7ae20acbab9468d72c5",
 			"hash": "3b4dd3c40d9b79a83356124080ab28d3e969251d665a8cf825bc631e7066e22002dddfec49e98607432ccb7d1263ee4476f4eff7603eb7ae20acbab9468d72c5"
 		},
 		{
@@ -1150,6 +1151,12 @@
 			"hash": "18ec5a0d59376b26f8545989da559e2796bf6d6eff4f781ef12996f2e490a1e9254f06565a5a937dc01fc5d1e29a581488977332109c818aa4767f53af0ec147"
 		},
 		{
+			"name": "martin-coulter",
+			"extension": "png",
+			"path": "src/martin-coulter.png",
+			"hash": "f7b1e8bf95d2a693c74054a5b6a369142337851aec5f25c191a3c47a4eeb8b03e26be63cb1fd67bfe85e5656ff2a13cdce58df52219b23d49c0d5321753d88be"
+		},
+		{
 			"name": "martin-lewis",
 			"extension": "png",
 			"path": "src/martin-lewis.png",
@@ -1176,6 +1183,12 @@
 			"path": "src/martin-wolf.png",
 			"previousHash": "d163b01ff65a81ce660069228ec4f8aeaad4a39fbcfeda84b2fc1b7ba80482f7b9cb6d86baa049f7344d0db272fb23f69e8fbddc26dab9624b6ea7e591eadc18",
 			"hash": "d163b01ff65a81ce660069228ec4f8aeaad4a39fbcfeda84b2fc1b7ba80482f7b9cb6d86baa049f7344d0db272fb23f69e8fbddc26dab9624b6ea7e591eadc18"
+		},
+		{
+			"name": "mary-portas",
+			"extension": "png",
+			"path": "src/mary-portas.png",
+			"hash": "e58be84b9ef9e5880419fe942f468110ba23a1c43c7d6a8877493263f7eb9ae3ea934fea632161a852cded71f9373e88b2b7a53f2176321a579df292c2d3ebf5"
 		},
 		{
 			"name": "matt-singh",
