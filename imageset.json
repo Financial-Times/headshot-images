@@ -1095,6 +1095,12 @@
 			"hash": "29249643d642117a90968aec8eb2e4dd4f69c9184aac4c1747012e0db8662aec07c0a5ca2d344459c9e6a67c2a123d95c8860ebe5c7a7968d6e0bf9c0db9191f"
 		},
 		{
+			"name": "luke-edward-hall",
+			"extension": "png",
+			"path": "src/luke-edward-hall.png",
+			"hash": "46edcd34fb059fb7d1908d7e36e995b52ed85e029f4da81c039c3735fd421838c8b30dc254cb7dc762907af5558e330e99f6abaf1abb9725169d0aa173c588b4"
+		},
+		{
 			"name": "luke-johnson",
 			"extension": "png",
 			"path": "src/luke-johnson.png",
@@ -1154,6 +1160,7 @@
 			"name": "martin-coulter",
 			"extension": "png",
 			"path": "src/martin-coulter.png",
+			"previousHash": "f7b1e8bf95d2a693c74054a5b6a369142337851aec5f25c191a3c47a4eeb8b03e26be63cb1fd67bfe85e5656ff2a13cdce58df52219b23d49c0d5321753d88be",
 			"hash": "f7b1e8bf95d2a693c74054a5b6a369142337851aec5f25c191a3c47a4eeb8b03e26be63cb1fd67bfe85e5656ff2a13cdce58df52219b23d49c0d5321753d88be"
 		},
 		{
@@ -1188,6 +1195,7 @@
 			"name": "mary-portas",
 			"extension": "png",
 			"path": "src/mary-portas.png",
+			"previousHash": "e58be84b9ef9e5880419fe942f468110ba23a1c43c7d6a8877493263f7eb9ae3ea934fea632161a852cded71f9373e88b2b7a53f2176321a579df292c2d3ebf5",
 			"hash": "e58be84b9ef9e5880419fe942f468110ba23a1c43c7d6a8877493263f7eb9ae3ea934fea632161a852cded71f9373e88b2b7a53f2176321a579df292c2d3ebf5"
 		},
 		{
