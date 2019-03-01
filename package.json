@@ -2,7 +2,7 @@
   "name": "headshot-images",
   "private": true,
   "engines": {
-    "node": "^6"
+    "node": "^10"
   },
   "devDependencies": {
     "@financial-times/origami-image-set-tools": "^1.5.1"
