@@ -5,17 +5,6 @@ references:
   container: &container_config
     docker:
       - image: circleci/node:10
-  cache_key: &cache_key
-    dependency-cache-{{ checksum "package.json" }}
-  cache_node_modules: &cache_node_modules
-    save_cache:
-      key: *cache_key
-      paths:
-        - node_modules
-  restore_node_modules: &restore_node_modules
-    restore_cache:
-      keys:
-        - *cache_key
 
 # Circle jobs
 jobs:
@@ -25,11 +14,7 @@ jobs:
     <<: *container_config
     steps:
       - checkout
-      - *restore_node_modules
-      - run:
-          name: Install dependencies
-          command: npm install
-      - *cache_node_modules
+      - run: npm ci
       - run:
           name: Initialise submodules
           command: git submodule init && git submodule update --remote
