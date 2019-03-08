@@ -503,6 +503,7 @@
 			"name": "emilie-bellet",
 			"extension": "png",
 			"path": "src/emilie-bellet.png",
+			"previousHash": "e6b9730b2535a1e03a3d5a8b6796b4e0fabc2dac9e423464599220c9e916d5521a7667e061e4008bf23cc55d7658951a477d661941a7b75188e51184c24e1ba2",
 			"hash": "e6b9730b2535a1e03a3d5a8b6796b4e0fabc2dac9e423464599220c9e916d5521a7667e061e4008bf23cc55d7658951a477d661941a7b75188e51184c24e1ba2"
 		},
 		{
@@ -1015,6 +1016,12 @@
 			"path": "src/laura-pitel.png",
 			"previousHash": "4b0cf7c39c28b7b7c04bd3db87b2668a9650ca3796b67f9ec906462d44d17ea4d088cfd0066c38021b48f784c60cc858d076ffe983e9a3b7136414ae0c4ecf3e",
 			"hash": "4b0cf7c39c28b7b7c04bd3db87b2668a9650ca3796b67f9ec906462d44d17ea4d088cfd0066c38021b48f784c60cc858d076ffe983e9a3b7136414ae0c4ecf3e"
+		},
+		{
+			"name": "laurence-fletcher",
+			"extension": "png",
+			"path": "src/laurence-fletcher.png",
+			"hash": "e8ecc79b7885e0dd6b1435d3bee22358e522f9086b4e2d2758c10070133178dd5b811a4849deb714a004e9e392f527011df9264d496818c1b91129b2b3e4076a"
 		},
 		{
 			"name": "lawrence-summers",
