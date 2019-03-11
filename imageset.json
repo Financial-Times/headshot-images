@@ -1021,6 +1021,7 @@
 			"name": "laurence-fletcher",
 			"extension": "png",
 			"path": "src/laurence-fletcher.png",
+			"previousHash": "e8ecc79b7885e0dd6b1435d3bee22358e522f9086b4e2d2758c10070133178dd5b811a4849deb714a004e9e392f527011df9264d496818c1b91129b2b3e4076a",
 			"hash": "e8ecc79b7885e0dd6b1435d3bee22358e522f9086b4e2d2758c10070133178dd5b811a4849deb714a004e9e392f527011df9264d496818c1b91129b2b3e4076a"
 		},
 		{
@@ -1442,6 +1443,12 @@
 			"path": "src/rana-foroohar.png",
 			"previousHash": "ccee563efd3ac4251295c46463571f4c6a8c4816f0c62574f0e60e6e237e9671cf658c2a33037490caf014d892ef3bc44e64cd30e92e9fbf423ac3049454cabf",
 			"hash": "ccee563efd3ac4251295c46463571f4c6a8c4816f0c62574f0e60e6e237e9671cf658c2a33037490caf014d892ef3bc44e64cd30e92e9fbf423ac3049454cabf"
+		},
+		{
+			"name": "ravi-mattu",
+			"extension": "png",
+			"path": "src/ravi-mattu.png",
+			"hash": "099523cccf7a826729310cbb2aaa9f3255846b52aae26690b6f17815e03eac22d88f6cc1240931ca9396738d3a6aabad37a5d2fa03b4d65bdee26ce01ed04868"
 		},
 		{
 			"name": "rebecca-rose",
