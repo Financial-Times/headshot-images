@@ -49,7 +49,7 @@
 			"extension": "png",
 			"path": "src/alec-russell.png",
 			"previousHash": "745e93bc18cba42bcceda62f37542b95e846c4b8f413527b207213c17cdf369d29cd826408937ecec14dd1d65d26fe05e04d2071a15862f2f381a549748ed4da",
-			"hash": "745e93bc18cba42bcceda62f37542b95e846c4b8f413527b207213c17cdf369d29cd826408937ecec14dd1d65d26fe05e04d2071a15862f2f381a549748ed4da"
+			"hash": "ef7554e0883485cbe9c6b796b7f91715c624276b5000e8cf8d22c9a1b672e100b2a280c5c201c7c08532beae9254f4c68cab93c84dfea209adfc49bf0e820343"
 		},
 		{
 			"name": "aleksandra-wisniewska",
@@ -1448,6 +1448,7 @@
 			"name": "ravi-mattu",
 			"extension": "png",
 			"path": "src/ravi-mattu.png",
+			"previousHash": "099523cccf7a826729310cbb2aaa9f3255846b52aae26690b6f17815e03eac22d88f6cc1240931ca9396738d3a6aabad37a5d2fa03b4d65bdee26ce01ed04868",
 			"hash": "099523cccf7a826729310cbb2aaa9f3255846b52aae26690b6f17815e03eac22d88f6cc1240931ca9396738d3a6aabad37a5d2fa03b4d65bdee26ce01ed04868"
 		},
 		{
