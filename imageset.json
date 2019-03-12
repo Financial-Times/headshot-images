@@ -181,7 +181,7 @@
 			"name": "barney-jopson",
 			"extension": "png",
 			"path": "src/barney-jopson.png",
-			"previousHash": "73df977b3c1e0eae0a1520531672778cd3ee1cbb0326d50997fa143c4adc5247eb385b267fb0eb398192ab029ec4588fb9b98e2c4942c70c6d0d10ca8df017a9",
+			"previousHash": "f5d73cd12babdd60bffbd6e1b9ecc4e106caa1717dcd78b608bfb42b7de8021b0207192bf7f4a0a585623c1b600de86e9471099a795ee4f3844cf14ea2457163",
 			"hash": "f5d73cd12babdd60bffbd6e1b9ecc4e106caa1717dcd78b608bfb42b7de8021b0207192bf7f4a0a585623c1b600de86e9471099a795ee4f3844cf14ea2457163"
 		},
 		{
@@ -344,6 +344,12 @@
 			"path": "src/colby-smith.png",
 			"previousHash": "283244712f2abe7ae90f9df2ecb950d77b1e9c337ef813a4681fa44ea36607e97198edced166f169bf9a3f5530c0abb97223515f0e7103d0c51898204e9cfc9b",
 			"hash": "283244712f2abe7ae90f9df2ecb950d77b1e9c337ef813a4681fa44ea36607e97198edced166f169bf9a3f5530c0abb97223515f0e7103d0c51898204e9cfc9b"
+		},
+		{
+			"name": "constanze-stelzenmuller",
+			"extension": "png",
+			"path": "src/constanze-stelzenmuller.png",
+			"hash": "020f00f09472e31b17db2caaf69ae242163771730197d32e78c6596ff69820d6e21b1b9d04a186af0b9be2ceb47a4861ccdf94a7eff3508192f588939d95c380"
 		},
 		{
 			"name": "cordelia-jenkins",
@@ -657,6 +663,7 @@
 			"name": "harriet-agnew",
 			"extension": "png",
 			"path": "src/harriet-agnew.png",
+			"previousHash": "2268b18710e8581b5a53fec4af8cc43dcf6ca86872245d068143f0b862018efe7886c921b17370e3e95325ad6398346bc81305c2dc5b649375f5e52409dd1263",
 			"hash": "2268b18710e8581b5a53fec4af8cc43dcf6ca86872245d068143f0b862018efe7886c921b17370e3e95325ad6398346bc81305c2dc5b649375f5e52409dd1263"
 		},
 		{
@@ -782,7 +789,7 @@
 			"name": "jane-owen",
 			"extension": "png",
 			"path": "src/jane-owen.png",
-			"previousHash": "0eb7555adc794f8f32e4edd3c22262a2c5740e7e7ee4b25e7430905a82bc987c6221e17b40ae5fdad23716d1e1996678933e6a8aaabbfa81a1cd9f233b72a080",
+			"previousHash": "5e95e6bd30c72ce7a4b2668d7629a53d76216d19d41aac6bb411a82cc96fee2bbe3100bc043b573507a474399e679752c46b0ff5b316c92093e1d52315895b96",
 			"hash": "5e95e6bd30c72ce7a4b2668d7629a53d76216d19d41aac6bb411a82cc96fee2bbe3100bc043b573507a474399e679752c46b0ff5b316c92093e1d52315895b96"
 		},
 		{
@@ -1706,6 +1713,7 @@
 			"name": "valerie-hopkins",
 			"extension": "png",
 			"path": "src/valerie-hopkins.png",
+			"previousHash": "6bc9062dbc5ef56e531fd9f1369dd8ac046253bccfb05a5483376e17ead7d2414dc580d2fe06ea2bc0b6c6169ac07f90af758dc4461de2cdbbb8c6e3fc3fd8d6",
 			"hash": "6bc9062dbc5ef56e531fd9f1369dd8ac046253bccfb05a5483376e17ead7d2414dc580d2fe06ea2bc0b6c6169ac07f90af758dc4461de2cdbbb8c6e3fc3fd8d6"
 		},
 		{
@@ -1719,7 +1727,7 @@
 			"name": "victor-mallet",
 			"extension": "png",
 			"path": "src/victor-mallet.png",
-			"previousHash": "37d250dd867597887df200b36500481efb0f4269556d4a80ef588ae12f2c9709aef268d0c1ba72425b541ab036b5b88408f7c55ef318d41f6c0a54154a1cb537",
+			"previousHash": "26040314c9a85f9da1dc06389aebbd1dfaa9910bb9177974af7e1196712614d3a329db94855e9c2b71e6d14e4c5f06a45b8686e44e9d21555549e474abf3576a",
 			"hash": "26040314c9a85f9da1dc06389aebbd1dfaa9910bb9177974af7e1196712614d3a329db94855e9c2b71e6d14e4c5f06a45b8686e44e9d21555549e474abf3576a"
 		},
 		{
