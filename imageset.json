@@ -146,6 +146,7 @@
 			"name": "anna-dedhar",
 			"extension": "png",
 			"path": "src/anna-dedhar.png",
+			"previousHash": "83956b778c73014f3568d0186be6cc1d93143a91cd86d311824fa012b0db91c22e55ec6aaa34a7820fdedef46f4879357bead18470a9313ff9820c09790484ff",
 			"hash": "83956b778c73014f3568d0186be6cc1d93143a91cd86d311824fa012b0db91c22e55ec6aaa34a7820fdedef46f4879357bead18470a9313ff9820c09790484ff"
 		},
 		{
@@ -194,6 +195,7 @@
 			"name": "ben-hall",
 			"extension": "png",
 			"path": "src/ben-hall.png",
+			"previousHash": "c491fcbcb35c27757c384bf52dbae9e9b69a582801b23bc2878998418558782fd9dd6c6111e47f8207a9f7594a22814f1cf5ae4648040e84517ad2eb1e76fc91",
 			"hash": "c491fcbcb35c27757c384bf52dbae9e9b69a582801b23bc2878998418558782fd9dd6c6111e47f8207a9f7594a22814f1cf5ae4648040e84517ad2eb1e76fc91"
 		},
 		{
@@ -1373,6 +1375,12 @@
 			"hash": "299834e6220b80392a5f0798997f28e8c0f25902b28bb91a20d777c22af05cc9fb4e63ba22bed6e0e21af8c4038d04b60165e2c483ae263dba3dde57f28d96d0"
 		},
 		{
+			"name": "neil-munshi",
+			"extension": "png",
+			"path": "src/neil-munshi.png",
+			"hash": "b982f6252750ec0ac5a07d29707fc20634ff8f0b9e5ae1cff184036a3b2bf1600c7a45b7c603ba179376dfe5c38ef7993ed22088fcdc0b6577a185306649784e"
+		},
+		{
 			"name": "nick-butler",
 			"extension": "png",
 			"path": "src/nick-butler.png",
@@ -1698,6 +1706,7 @@
 			"name": "tom-hancock",
 			"extension": "png",
 			"path": "src/tom-hancock.png",
+			"previousHash": "275665fe70b197adb98996d4a14352997eee8a7f73d440e7ea1ea86b151ad912426e0882b2e52df66300e871caba71c406a94a47f840c82a2b51b64aed254b02",
 			"hash": "275665fe70b197adb98996d4a14352997eee8a7f73d440e7ea1ea86b151ad912426e0882b2e52df66300e871caba71c406a94a47f840c82a2b51b64aed254b02"
 		},
 		{
