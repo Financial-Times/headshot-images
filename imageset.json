@@ -143,6 +143,12 @@
 			"hash": "4ddc71b4261fec68f329af6c61b1042112aaee9536ca0bc58919342ec69f3c7f6412a24526f34a50d85cc2a419c88e432e86b5287a1b44ef21be19deecdf4e69"
 		},
 		{
+			"name": "anna-dedhar",
+			"extension": "png",
+			"path": "src/anna-dedhar.png",
+			"hash": "83956b778c73014f3568d0186be6cc1d93143a91cd86d311824fa012b0db91c22e55ec6aaa34a7820fdedef46f4879357bead18470a9313ff9820c09790484ff"
+		},
+		{
 			"name": "anne-marie-slaughter",
 			"extension": "png",
 			"path": "src/anne-marie-slaughter.png",
@@ -183,6 +189,12 @@
 			"path": "src/barney-jopson.png",
 			"previousHash": "f5d73cd12babdd60bffbd6e1b9ecc4e106caa1717dcd78b608bfb42b7de8021b0207192bf7f4a0a585623c1b600de86e9471099a795ee4f3844cf14ea2457163",
 			"hash": "f5d73cd12babdd60bffbd6e1b9ecc4e106caa1717dcd78b608bfb42b7de8021b0207192bf7f4a0a585623c1b600de86e9471099a795ee4f3844cf14ea2457163"
+		},
+		{
+			"name": "ben-hall",
+			"extension": "png",
+			"path": "src/ben-hall.png",
+			"hash": "c491fcbcb35c27757c384bf52dbae9e9b69a582801b23bc2878998418558782fd9dd6c6111e47f8207a9f7594a22814f1cf5ae4648040e84517ad2eb1e76fc91"
 		},
 		{
 			"name": "ben-mclannahan",
@@ -349,6 +361,7 @@
 			"name": "constanze-stelzenmuller",
 			"extension": "png",
 			"path": "src/constanze-stelzenmuller.png",
+			"previousHash": "020f00f09472e31b17db2caaf69ae242163771730197d32e78c6596ff69820d6e21b1b9d04a186af0b9be2ceb47a4861ccdf94a7eff3508192f588939d95c380",
 			"hash": "020f00f09472e31b17db2caaf69ae242163771730197d32e78c6596ff69820d6e21b1b9d04a186af0b9be2ceb47a4861ccdf94a7eff3508192f588939d95c380"
 		},
 		{
@@ -1680,6 +1693,12 @@
 			"path": "src/tom-braithwaite.png",
 			"previousHash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a",
 			"hash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a"
+		},
+		{
+			"name": "tom-hancock",
+			"extension": "png",
+			"path": "src/tom-hancock.png",
+			"hash": "275665fe70b197adb98996d4a14352997eee8a7f73d440e7ea1ea86b151ad912426e0882b2e52df66300e871caba71c406a94a47f840c82a2b51b64aed254b02"
 		},
 		{
 			"name": "tom-robbins",
