@@ -196,7 +196,7 @@
 			"extension": "png",
 			"path": "src/ben-hall.png",
 			"previousHash": "c491fcbcb35c27757c384bf52dbae9e9b69a582801b23bc2878998418558782fd9dd6c6111e47f8207a9f7594a22814f1cf5ae4648040e84517ad2eb1e76fc91",
-			"hash": "c491fcbcb35c27757c384bf52dbae9e9b69a582801b23bc2878998418558782fd9dd6c6111e47f8207a9f7594a22814f1cf5ae4648040e84517ad2eb1e76fc91"
+			"hash": "558c673bb319a3dff10720e44513a7793c4f1537f7b18469ca47aa3cc619bc626f2ba58d7e807de5f0108e11d691d523a36c73e2eb0f6493190695b894d6c908"
 		},
 		{
 			"name": "ben-mclannahan",
@@ -1291,6 +1291,12 @@
 			"hash": "eb02a5bac5e3e730a368a5cd9d26a4810de9cfd26c937aa8cd7c58975a2015dd1cf4575a2e25dab0b17f2bdd669cb8d37959391a1c1c106c9a72c503dcfa8780"
 		},
 		{
+			"name": "mercedes-ruehl",
+			"extension": "png",
+			"path": "src/mercedes-ruehl.png",
+			"hash": "c96fc6bd99590573a42de35b35031267178750fa86812a0302bb01cd2e3b822c057e1ddd23d95dc8f9be7e31575f93ed900384928554901ec8f119e78a6389cd"
+		},
+		{
 			"name": "merryn-somerset-webb",
 			"extension": "png",
 			"path": "src/merryn-somerset-webb.png",
@@ -1378,6 +1384,7 @@
 			"name": "neil-munshi",
 			"extension": "png",
 			"path": "src/neil-munshi.png",
+			"previousHash": "b982f6252750ec0ac5a07d29707fc20634ff8f0b9e5ae1cff184036a3b2bf1600c7a45b7c603ba179376dfe5c38ef7993ed22088fcdc0b6577a185306649784e",
 			"hash": "b982f6252750ec0ac5a07d29707fc20634ff8f0b9e5ae1cff184036a3b2bf1600c7a45b7c603ba179376dfe5c38ef7993ed22088fcdc0b6577a185306649784e"
 		},
 		{
