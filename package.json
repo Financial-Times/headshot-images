@@ -1,10 +1,11 @@
 {
-  "name": "@financial-times/headshot-images",
+  "name": "headshot-images",
+  "private": true,
   "engines": {
     "node": "^10"
   },
   "devDependencies": {
-    "@financial-times/origami-image-set-tools": "^2.0.0"
+    "@financial-times/origami-image-set-tools": "^1.5.1"
   },
   "scripts": {
     "update": "git submodule init && git submodule update --remote && oist build-manifest --scheme fthead && git add imageset.json src && git commit -m 'Updated imageset.json' --allow-empty"
