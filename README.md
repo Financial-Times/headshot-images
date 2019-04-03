@@ -25,23 +25,23 @@ The source file for these images are all very large, so it's a good idea to pass
 
 The Image Service will convert these images on the fly if you pass in the right parameters. To find out more about this, please see the [Image Service documentation](https://www.ft.com/__origami/service/image/v2/docs/api)
 
-## Adding or modifying head-shots
 
-The head-shots are stored in a different git repository in order to keep this repository small in regards to filesize.
+## Adding or modifying headshots
 
-Please head over to [head-shot images repository](https://github.com/financial-times/ftheadshots) and complete the steps.
+To keep head-shots consistent, please follow these guidelines:
 
-Once the image has been added, updated, or removed from the [head-shot images repository](https://www.example.com), follow these steps:
+- Head-shots must be in PNG format
+- Head-shots must be cut out against a transparent background
+- Head-shots must be square
+- Head-shots must be colour
+- Head-shots should have some blank space at the top of the shot
+- Head-shots should be mostly of the face, cropped above the shoulder. See [the registry](http://registry.origami.ft.com/components/headshot-images) for examples of this
+- Head-shots should be as high quality as possible (the Image Service will resize them for the appropriate use case)
+- Head-shots must be named as the person they represent. Filenames must be all lower-case hyphenated.
+	- **good**: robert-shrimsley.png, merynn-somerset-webb.png, sarah-o-connor.png
+	- **bad**: SarahO'Connor.png, NigelAndrews.png, robertshrimsley.png
 
-- Clone this repository - `git clone git@github.com:Financial-Times/headshot-images.git && cd headshot-images`
-- Create a new branch - `git checkout -b update`
-- Install the dependencies - `npm install`
-- Build a new `imageset.json` file - `npm run update`
-- Push the changes to GitHub - `git push origin update`
-- Make a pull-request with the changes - [create pull-request](https://github.com/Financial-Times/headshot-images/compare/update?expand=1)
-- Get pull-request reviewed and merged by a member of the Origami team
-- Make a GitHub release with a tag in the form of `vX.Y.Z`, where `X`, `Y`, and `Z` are numbers - [create new release](https://github.com/Financial-Times/headshot-images/releases/new)
-- There are no more steps
+**Please do not delete head-shots without talking to the Origami team who will need to manage the deprecation process**
 
 ----
 
