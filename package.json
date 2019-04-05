@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/headshot-images",
-  "version": "1.140.4",
+  "version": "1.140.5",
   "engines": {
     "node": "^10"
   },
