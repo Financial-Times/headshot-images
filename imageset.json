@@ -363,6 +363,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/chris-newlands-cbb5ff91673e7fdb28136d4705be0cfc316cd73958330111367a8b195ca810fa0cdadaf8291cff258bb255d9bc11b3da0f5b33cf5c261c98dbea0dd163945027"
 		},
 		{
+			"name": "chris-nuttall",
+			"extension": "png",
+			"path": "src/chris-nuttall.png",
+			"hash": "64408ddd893a9b61f0ba40edb75a2a951aa29ca96d3c43ab3673a9dc3d34327b538a97d054637404798407bfff3651c7e1119ab37bd5f21b89c86d5ace115468",
+			"url": "https://origami-images.ft.com/fthead/v1/chris-nuttall-64408ddd893a9b61f0ba40edb75a2a951aa29ca96d3c43ab3673a9dc3d34327b538a97d054637404798407bfff3651c7e1119ab37bd5f21b89c86d5ace115468"
+		},
+		{
 			"name": "christopher-caldwell",
 			"extension": "png",
 			"path": "src/christopher-caldwell.png",
