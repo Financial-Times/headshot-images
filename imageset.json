@@ -123,6 +123,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/andrew-edgecliffe-johnson-10b8e98da435896bb4191323b196592f772980a61378e7d0562e8bef8ed8ef83862daa41cd895f3732c83a1a29777ac5ad8569546e25c13013dda94f122e599e"
 		},
 		{
+			"name": "andrew-england",
+			"extension": "png",
+			"path": "src/andrew-england.png",
+			"hash": "729179f0977365be401ff4b04431a6c5406b8a39a6f524dbec3b6ace5cf9b8fc15110e19544778a52a3147839f93ae59f4aff2d759f01d257e417f41da1c07a1",
+			"url": "https://origami-images.ft.com/fthead/v1/andrew-england-729179f0977365be401ff4b04431a6c5406b8a39a6f524dbec3b6ace5cf9b8fc15110e19544778a52a3147839f93ae59f4aff2d759f01d257e417f41da1c07a1"
+		},
+		{
 			"name": "andrew-hill",
 			"extension": "png",
 			"path": "src/andrew-hill.png",
