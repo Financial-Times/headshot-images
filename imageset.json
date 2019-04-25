@@ -59,6 +59,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/alec-russell-ef7554e0883485cbe9c6b796b7f91715c624276b5000e8cf8d22c9a1b672e100b2a280c5c201c7c08532beae9254f4c68cab93c84dfea209adfc49bf0e820343"
 		},
 		{
+			"name": "aleks-krotoski",
+			"extension": "png",
+			"path": "src/aleks-krotoski.png",
+			"hash": "36fd41de9ca64b841a7e95bd0d1378ed97adc488042a6e9b93a38ca335dac5516d162de630d84245450a39b453ba5a1eae07ad9f8ed6db3917a0795c7f87f99c",
+			"url": "https://origami-images.ft.com/fthead/v1/aleks-krotoski-36fd41de9ca64b841a7e95bd0d1378ed97adc488042a6e9b93a38ca335dac5516d162de630d84245450a39b453ba5a1eae07ad9f8ed6db3917a0795c7f87f99c"
+		},
+		{
 			"name": "aleksandra-wisniewska",
 			"extension": "png",
 			"path": "src/aleksandra-wisniewska.png",
@@ -126,6 +133,7 @@
 			"name": "andrew-england",
 			"extension": "png",
 			"path": "src/andrew-england.png",
+			"previousHash": "729179f0977365be401ff4b04431a6c5406b8a39a6f524dbec3b6ace5cf9b8fc15110e19544778a52a3147839f93ae59f4aff2d759f01d257e417f41da1c07a1",
 			"hash": "729179f0977365be401ff4b04431a6c5406b8a39a6f524dbec3b6ace5cf9b8fc15110e19544778a52a3147839f93ae59f4aff2d759f01d257e417f41da1c07a1",
 			"url": "https://origami-images.ft.com/fthead/v1/andrew-england-729179f0977365be401ff4b04431a6c5406b8a39a6f524dbec3b6ace5cf9b8fc15110e19544778a52a3147839f93ae59f4aff2d759f01d257e417f41da1c07a1"
 		},
