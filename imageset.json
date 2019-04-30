@@ -62,6 +62,7 @@
 			"name": "aleks-krotoski",
 			"extension": "png",
 			"path": "src/aleks-krotoski.png",
+			"previousHash": "36fd41de9ca64b841a7e95bd0d1378ed97adc488042a6e9b93a38ca335dac5516d162de630d84245450a39b453ba5a1eae07ad9f8ed6db3917a0795c7f87f99c",
 			"hash": "36fd41de9ca64b841a7e95bd0d1378ed97adc488042a6e9b93a38ca335dac5516d162de630d84245450a39b453ba5a1eae07ad9f8ed6db3917a0795c7f87f99c",
 			"url": "https://origami-images.ft.com/fthead/v1/aleks-krotoski-36fd41de9ca64b841a7e95bd0d1378ed97adc488042a6e9b93a38ca335dac5516d162de630d84245450a39b453ba5a1eae07ad9f8ed6db3917a0795c7f87f99c"
 		},
@@ -1632,6 +1633,13 @@
 			"previousHash": "1edbc6859923af2f651e0808490510ec696df3363cf19fbafb49e8db37ef67fd94e28a705aa44e7983942964ee10645d9f8eaa22bec00a00356da465c820c65b",
 			"hash": "1edbc6859923af2f651e0808490510ec696df3363cf19fbafb49e8db37ef67fd94e28a705aa44e7983942964ee10645d9f8eaa22bec00a00356da465c820c65b",
 			"url": "https://origami-images.ft.com/fthead/v1/nigel-andrews-1edbc6859923af2f651e0808490510ec696df3363cf19fbafb49e8db37ef67fd94e28a705aa44e7983942964ee10645d9f8eaa22bec00a00356da465c820c65b"
+		},
+		{
+			"name": "niki-blasina",
+			"extension": "png",
+			"path": "src/niki-blasina.png",
+			"hash": "2b584e40b0714c51951e00bacb273445396855c7814450a8780c8f1921896e16728a008682c7ad3c1d729978fadc361ef31e2a8cc41fbbeb1b734b3a35894298",
+			"url": "https://origami-images.ft.com/fthead/v1/niki-blasina-2b584e40b0714c51951e00bacb273445396855c7814450a8780c8f1921896e16728a008682c7ad3c1d729978fadc361ef31e2a8cc41fbbeb1b734b3a35894298"
 		},
 		{
 			"name": "nilanjana-roy",
