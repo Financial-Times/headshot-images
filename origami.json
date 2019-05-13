@@ -1,6 +1,7 @@
 
 {
-    "description": "Headshots of FT Journalists",
+    "description": "An image set of headshots of all the FT's journalists. Primarily for use with bylines.",
+    "keywords": [ "headshot", "images", "journalist" ],
     "origamiType": "imageset",
     "origamiVersion": 1,
     "support": "https://github.com/Financial-Times/headshot-images/issues",
