@@ -1371,6 +1371,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/maike-currie-4e739ef92901c98815c97c8a3e8e12b3655efaced8b67d0d6908ab66becf930c43a8e3fe3fab79dd1332762de7ec27cdda5b257d580b39927650cb9915fd77be"
 		},
 		{
+			"name": "mamta-badkar",
+			"extension": "png",
+			"path": "src/mamta-badkar.png",
+			"hash": "5c9588b8a75b010d40e29aa40fe4d8abbeb3d285433058d4513dc28f2156960ada360eb1930c329be16a4150adeac78b230abb7e58c6c5b31554278bf48d4e18",
+			"url": "https://origami-images.ft.com/fthead/v1/mamta-badkar-5c9588b8a75b010d40e29aa40fe4d8abbeb3d285433058d4513dc28f2156960ada360eb1930c329be16a4150adeac78b230abb7e58c6c5b31554278bf48d4e18"
+		},
+		{
 			"name": "mark-vanhoenacker",
 			"extension": "png",
 			"path": "src/mark-vanhoenacker.png",
