@@ -347,6 +347,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/caroline-fiennes-9e3d153de8d8010919d5dce39d1d1175634a65227fcf45850269a2387142ed9603d37d2f6cfbbc8570969d8bae0ef6973c25e33f1e7ba12ba467b8f415ba9682"
 		},
 		{
+			"name": "cat-rutter-pooley",
+			"extension": "png",
+			"path": "src/cat-rutter-pooley.png",
+			"hash": "0e76e1dc4f14ccb2c910bf3125563edc272c5d59d7681c1f6932c506e0f06c06025ba392634021344dd1b9e2bd2b89bb63fbadfa0fd2245bd57491e9264588b8",
+			"url": "https://origami-images.ft.com/fthead/v1/cat-rutter-pooley-0e76e1dc4f14ccb2c910bf3125563edc272c5d59d7681c1f6932c506e0f06c06025ba392634021344dd1b9e2bd2b89bb63fbadfa0fd2245bd57491e9264588b8"
+		},
+		{
 			"name": "chelsea-bruce-lockhart",
 			"extension": "png",
 			"path": "src/chelsea-bruce-lockhart.png",
@@ -518,7 +525,7 @@
 			"name": "david-pilling",
 			"extension": "png",
 			"path": "src/david-pilling.png",
-			"previousHash": "12271965ad4b1ae32311a986f040ab09ac0b6d38e22aa5c213921c336416f6a537d3e6eda25540f58b00f6c1ead60c57631dc1758af6e89b015182e3cc1439ee",
+			"previousHash": "3e90ac308c28019952992c27f04f0e5e64dcf22027fb046fb346738102ea8307fd57b4c4ead6a94f7b4408876c8c2adb8362ea5e9c0b9762bb439da0e717f2b6",
 			"hash": "3e90ac308c28019952992c27f04f0e5e64dcf22027fb046fb346738102ea8307fd57b4c4ead6a94f7b4408876c8c2adb8362ea5e9c0b9762bb439da0e717f2b6",
 			"url": "https://origami-images.ft.com/fthead/v1/david-pilling-3e90ac308c28019952992c27f04f0e5e64dcf22027fb046fb346738102ea8307fd57b4c4ead6a94f7b4408876c8c2adb8362ea5e9c0b9762bb439da0e717f2b6"
 		},
