@@ -1123,6 +1123,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/joshua-chaffin-0970f5744ae4cdeb75e562c3de40e7b6331837a888d9dc73a9d21a94699209e05c8287ee5fdc73aed6e2058b3815ce397664f65125c56264f87ec3e274fb6603"
 		},
 		{
+			"name": "joy-lo-dico",
+			"extension": "png",
+			"path": "src/joy-lo-dico.png",
+			"hash": "e3dd0cdde8b6208dd69a1f40f2418e3b0fa6192a51bbb7e00b1fc92661a4c86d9defe8b2cb768f86e07bfa2ff536bbba7568f265900b214a0d7851536551af61",
+			"url": "https://origami-images.ft.com/fthead/v1/joy-lo-dico-e3dd0cdde8b6208dd69a1f40f2418e3b0fa6192a51bbb7e00b1fc92661a4c86d9defe8b2cb768f86e07bfa2ff536bbba7568f265900b214a0d7851536551af61"
+		},
+		{
 			"name": "jude-webber",
 			"extension": "png",
 			"path": "src/jude-webber.png",
