@@ -251,6 +251,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/ben-mclannahan-214cab2569d3700a783c99e5ba6920411eff13d9bd1c5297c2d0d36072a42f676a1f59d47b9c5fe78e9e3eacce451548a9d44bbf5ce6d28ac4ec4c46f525034c"
 		},
 		{
+			"name": "billy-nauman",
+			"extension": "png",
+			"path": "src/billy-nauman.png",
+			"hash": "161f471f2c4ee8944eacdae2ed7a44aa2a8133db153518bb2c1f6af38b7c1a77ad30fc29065a26e276353d2d8f35d0e744c87011612a9e20fabd5847af7f3e79",
+			"url": "https://origami-images.ft.com/fthead/v1/billy-nauman-161f471f2c4ee8944eacdae2ed7a44aa2a8133db153518bb2c1f6af38b7c1a77ad30fc29065a26e276353d2d8f35d0e744c87011612a9e20fabd5847af7f3e79"
+		},
+		{
 			"name": "bobby-seagull",
 			"extension": "png",
 			"path": "src/bobby-seagull.png",
