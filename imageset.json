@@ -627,6 +627,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/elaine-moore-2bf975f9ac1b2e1194a45f0a04685975a6bea38d247f3fed30c03dec778fdef30de2125e11a0f43eb748a376ef3b1a1ec18b37093930f9aeec370598c1afaf8a"
 		},
 		{
+			"name": "elizabeth-uviebinene",
+			"extension": "png",
+			"path": "src/elizabeth-uviebinene.png",
+			"hash": "36851c763e7f3a1fd1d70858f21737e6470a2085ee7e2e3a5248b0e34b9b6b0c497f5406c463327fb878aaf9efa602c2b36ff2813162c777858c33ff820d093f",
+			"url": "https://origami-images.ft.com/fthead/v1/elizabeth-uviebinene-36851c763e7f3a1fd1d70858f21737e6470a2085ee7e2e3a5248b0e34b9b6b0c497f5406c463327fb878aaf9efa602c2b36ff2813162c777858c33ff820d093f"
+		},
+		{
 			"name": "elsa-court",
 			"extension": "png",
 			"path": "src/elsa-court.png",
@@ -1785,6 +1792,13 @@
 			"previousHash": "c77bb29c7f527444e69b4f43d8dd7f0aa5813e539f486841b88d9a6741fc309d68d41cbfa78356e5657807820dbf706bb8d4d17265f8f43df2103be8c8683c43",
 			"hash": "c77bb29c7f527444e69b4f43d8dd7f0aa5813e539f486841b88d9a6741fc309d68d41cbfa78356e5657807820dbf706bb8d4d17265f8f43df2103be8c8683c43",
 			"url": "https://origami-images.ft.com/fthead/v1/renee-kaplan-c77bb29c7f527444e69b4f43d8dd7f0aa5813e539f486841b88d9a6741fc309d68d41cbfa78356e5657807820dbf706bb8d4d17265f8f43df2103be8c8683c43"
+		},
+		{
+			"name": "richard-henderson",
+			"extension": "png",
+			"path": "src/richard-henderson.png",
+			"hash": "78e41feaa8d51d38c553a974eaf21e915d9c83170a96ddc7ba0cde1944cbda9460dcb54d9b9ab602c6ff869f645ed36d08a68b7e07b87a41363d630303f8695a",
+			"url": "https://origami-images.ft.com/fthead/v1/richard-henderson-78e41feaa8d51d38c553a974eaf21e915d9c83170a96ddc7ba0cde1944cbda9460dcb54d9b9ab602c6ff869f645ed36d08a68b7e07b87a41363d630303f8695a"
 		},
 		{
 			"name": "richard-waters",
