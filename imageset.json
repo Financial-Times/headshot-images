@@ -630,8 +630,9 @@
 			"name": "elizabeth-uviebinene",
 			"extension": "png",
 			"path": "src/elizabeth-uviebinene.png",
-			"hash": "36851c763e7f3a1fd1d70858f21737e6470a2085ee7e2e3a5248b0e34b9b6b0c497f5406c463327fb878aaf9efa602c2b36ff2813162c777858c33ff820d093f",
-			"url": "https://origami-images.ft.com/fthead/v1/elizabeth-uviebinene-36851c763e7f3a1fd1d70858f21737e6470a2085ee7e2e3a5248b0e34b9b6b0c497f5406c463327fb878aaf9efa602c2b36ff2813162c777858c33ff820d093f"
+			"previousHash": "36851c763e7f3a1fd1d70858f21737e6470a2085ee7e2e3a5248b0e34b9b6b0c497f5406c463327fb878aaf9efa602c2b36ff2813162c777858c33ff820d093f",
+			"hash": "a6b62b61550b52b2de0fc7cfd06785707eb8f9a5eed8889e5c04d97fa0527a393a26ec1d602934c3f9ce2074b261c7391926da93bb7dd6843c228e272d62d829",
+			"url": "https://origami-images.ft.com/fthead/v1/elizabeth-uviebinene-a6b62b61550b52b2de0fc7cfd06785707eb8f9a5eed8889e5c04d97fa0527a393a26ec1d602934c3f9ce2074b261c7391926da93bb7dd6843c228e272d62d829"
 		},
 		{
 			"name": "elsa-court",
@@ -1797,6 +1798,7 @@
 			"name": "richard-henderson",
 			"extension": "png",
 			"path": "src/richard-henderson.png",
+			"previousHash": "78e41feaa8d51d38c553a974eaf21e915d9c83170a96ddc7ba0cde1944cbda9460dcb54d9b9ab602c6ff869f645ed36d08a68b7e07b87a41363d630303f8695a",
 			"hash": "78e41feaa8d51d38c553a974eaf21e915d9c83170a96ddc7ba0cde1944cbda9460dcb54d9b9ab602c6ff869f645ed36d08a68b7e07b87a41363d630303f8695a",
 			"url": "https://origami-images.ft.com/fthead/v1/richard-henderson-78e41feaa8d51d38c553a974eaf21e915d9c83170a96ddc7ba0cde1944cbda9460dcb54d9b9ab602c6ff869f645ed36d08a68b7e07b87a41363d630303f8695a"
 		},
