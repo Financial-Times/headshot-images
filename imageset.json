@@ -630,7 +630,7 @@
 			"name": "elizabeth-uviebinene",
 			"extension": "png",
 			"path": "src/elizabeth-uviebinene.png",
-			"previousHash": "36851c763e7f3a1fd1d70858f21737e6470a2085ee7e2e3a5248b0e34b9b6b0c497f5406c463327fb878aaf9efa602c2b36ff2813162c777858c33ff820d093f",
+			"previousHash": "a6b62b61550b52b2de0fc7cfd06785707eb8f9a5eed8889e5c04d97fa0527a393a26ec1d602934c3f9ce2074b261c7391926da93bb7dd6843c228e272d62d829",
 			"hash": "a6b62b61550b52b2de0fc7cfd06785707eb8f9a5eed8889e5c04d97fa0527a393a26ec1d602934c3f9ce2074b261c7391926da93bb7dd6843c228e272d62d829",
 			"url": "https://origami-images.ft.com/fthead/v1/elizabeth-uviebinene-a6b62b61550b52b2de0fc7cfd06785707eb8f9a5eed8889e5c04d97fa0527a393a26ec1d602934c3f9ce2074b261c7391926da93bb7dd6843c228e272d62d829"
 		},
@@ -2033,6 +2033,13 @@
 			"previousHash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a",
 			"hash": "d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a",
 			"url": "https://origami-images.ft.com/fthead/v1/tom-braithwaite-d80d818b41b5ed65119ad41d1f436d8f6d5d9f207dd17b28bc3ffd796977f9ebdc30fbff7b3bddfc63f13d7c5dadca14b13b66521f14ac202367d201aa21a92a"
+		},
+		{
+			"name": "tom-faber",
+			"extension": "png",
+			"path": "src/tom-faber.png",
+			"hash": "0b48c1be7d95ccd1d533bb7289792a4e0a1d79145a34e7ac0f9948502fccf6c1bae1d0f06f49d6a0dd0ad372d08595dfc5cdfd26af3bb5f09c9bf013cd41009a",
+			"url": "https://origami-images.ft.com/fthead/v1/tom-faber-0b48c1be7d95ccd1d533bb7289792a4e0a1d79145a34e7ac0f9948502fccf6c1bae1d0f06f49d6a0dd0ad372d08595dfc5cdfd26af3bb5f09c9bf013cd41009a"
 		},
 		{
 			"name": "tom-hancock",
