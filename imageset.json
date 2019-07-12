@@ -1163,6 +1163,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/jude-webber-87d6d9b24fc6d2248ac1f855b2e6e09a995d9416b9b83b0543b7b0058c8276834b2279601de862402f6d455fc5c59d946c2ebda8dd7c4af55d836ca1284564f4"
 		},
 		{
+			"name": "judith-evans",
+			"extension": "png",
+			"path": "src/judith-evans.png",
+			"hash": "7da02ac435659d7436b8f8208b5683ccb5a50adaf91e6402f96fe283bb0ae4ff9b8b51ae05384c147a4e88dd0f1fe3f41cc9d1110db1a6a0ea168727aa0c9071",
+			"url": "https://origami-images.ft.com/fthead/v1/judith-evans-7da02ac435659d7436b8f8208b5683ccb5a50adaf91e6402f96fe283bb0ae4ff9b8b51ae05384c147a4e88dd0f1fe3f41cc9d1110db1a6a0ea168727aa0c9071"
+		},
+		{
 			"name": "julia-apostle",
 			"extension": "png",
 			"path": "src/julia-apostle.png",
