@@ -651,6 +651,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/emilie-bellet-e6b9730b2535a1e03a3d5a8b6796b4e0fabc2dac9e423464599220c9e916d5521a7667e061e4008bf23cc55d7658951a477d661941a7b75188e51184c24e1ba2"
 		},
 		{
+			"name": "emma-agyemang",
+			"extension": "png",
+			"path": "src/emma-agyemang.png",
+			"hash": "f2d0fa0ccc03be9901a300981ce8b66e8e5e468c570c6be5ae3b244aa9f1d7869c26dba9c409cc5368013851331d406eb6afdedfdf116c7b9ba47b4775547868",
+			"url": "https://origami-images.ft.com/fthead/v1/emma-agyemang-f2d0fa0ccc03be9901a300981ce8b66e8e5e468c570c6be5ae3b244aa9f1d7869c26dba9c409cc5368013851331d406eb6afdedfdf116c7b9ba47b4775547868"
+		},
+		{
 			"name": "emma-jacobs",
 			"extension": "png",
 			"path": "src/emma-jacobs.png",
@@ -1343,8 +1350,8 @@
 			"extension": "png",
 			"path": "src/lucy-watson.png",
 			"previousHash": "81639fbb8c66e2e988c60359944f17a41bf696c517a825e052bf2a9a0f1ff8ae561d86fc42df6b0f69d5cc95c0c6cfcfcb7cf8971404f8f5c503bf088d41c126",
-			"hash": "81639fbb8c66e2e988c60359944f17a41bf696c517a825e052bf2a9a0f1ff8ae561d86fc42df6b0f69d5cc95c0c6cfcfcb7cf8971404f8f5c503bf088d41c126",
-			"url": "https://origami-images.ft.com/fthead/v1/lucy-watson-81639fbb8c66e2e988c60359944f17a41bf696c517a825e052bf2a9a0f1ff8ae561d86fc42df6b0f69d5cc95c0c6cfcfcb7cf8971404f8f5c503bf088d41c126"
+			"hash": "7fbeb3c4df9c4cbf48a2b1c3f87f84aa1ff385c4227c546975bfe2cbc35cba28fa77ec8a3e39043d96232f55f935ef1205c2ffcb62f30c4d648e3d6e4cd93640",
+			"url": "https://origami-images.ft.com/fthead/v1/lucy-watson-7fbeb3c4df9c4cbf48a2b1c3f87f84aa1ff385c4227c546975bfe2cbc35cba28fa77ec8a3e39043d96232f55f935ef1205c2ffcb62f30c4d648e3d6e4cd93640"
 		},
 		{
 			"name": "ludovic-hunter-tilney",
@@ -1585,6 +1592,13 @@
 			"previousHash": "25cf55f41652b5839d2bf888dc3b7c7e7a229d364317150f74d1f3db992c8761f47380e7db492c4dffd861d9d80120a77603221815eaab11411d286b885d9335",
 			"hash": "25cf55f41652b5839d2bf888dc3b7c7e7a229d364317150f74d1f3db992c8761f47380e7db492c4dffd861d9d80120a77603221815eaab11411d286b885d9335",
 			"url": "https://origami-images.ft.com/fthead/v1/miranda-green-25cf55f41652b5839d2bf888dc3b7c7e7a229d364317150f74d1f3db992c8761f47380e7db492c4dffd861d9d80120a77603221815eaab11411d286b885d9335"
+		},
+		{
+			"name": "mohamed-el-erian",
+			"extension": "png",
+			"path": "src/mohamed-el-erian.png",
+			"hash": "a039a13f5f0e68ec58a42b1f1216936e410d66a6549f01fc7b1d06a2cf93c8faa61818656306da5c8d007dbc814510f85b045fcffb8f010a472001bd50a862f1",
+			"url": "https://origami-images.ft.com/fthead/v1/mohamed-el-erian-a039a13f5f0e68ec58a42b1f1216936e410d66a6549f01fc7b1d06a2cf93c8faa61818656306da5c8d007dbc814510f85b045fcffb8f010a472001bd50a862f1"
 		},
 		{
 			"name": "moira-oneill",
