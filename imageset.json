@@ -1251,6 +1251,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/ken-fisher-d0490d3b314de001df8d05b876356976aba3d9fec3d4a01d828d3a2576590315fe2e8a02994cf9124a2d8e12020206629aa814e2ae897650735529ee1328e663"
 		},
 		{
+			"name": "kenji-kawase",
+			"extension": "png",
+			"path": "src/kenji-kawase.png",
+			"hash": "a1f6da05b8dc1d21787f409944aabce08ea10ffc60c41e89c19a88a5a883db9c887915b77bd64fcce92aeb472b22ef7ecc89b80a8237f5cca406b958cb8ff3b0",
+			"url": "https://origami-images.ft.com/fthead/v1/kenji-kawase-a1f6da05b8dc1d21787f409944aabce08ea10ffc60c41e89c19a88a5a883db9c887915b77bd64fcce92aeb472b22ef7ecc89b80a8237f5cca406b958cb8ff3b0"
+		},
+		{
 			"name": "kiran-stacey",
 			"extension": "png",
 			"path": "src/kiran-stacey.png",
