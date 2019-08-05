@@ -2091,6 +2091,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/tom-hancock-275665fe70b197adb98996d4a14352997eee8a7f73d440e7ea1ea86b151ad912426e0882b2e52df66300e871caba71c406a94a47f840c82a2b51b64aed254b02"
 		},
 		{
+			"name": "tom-mitchell",
+			"extension": "png",
+			"path": "src/tom-mitchell.png",
+			"hash": "b25cbfbe2d8599f7bee32b5528b3ea85a9ddcfed73c504447d950112fa36bd31e970a2c3f2a22042d860c55173752b0c261286f7d19df3dbcd6498eed7823ba3",
+			"url": "https://origami-images.ft.com/fthead/v1/tom-mitchell-b25cbfbe2d8599f7bee32b5528b3ea85a9ddcfed73c504447d950112fa36bd31e970a2c3f2a22042d860c55173752b0c261286f7d19df3dbcd6498eed7823ba3"
+		},
+		{
 			"name": "tom-robbins",
 			"extension": "png",
 			"path": "src/tom-robbins.png",
