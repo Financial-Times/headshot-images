@@ -1603,6 +1603,13 @@
 			"url": "https://origami-images.ft.com/fthead/v1/michael-skapinker-0e464afa292b185b7a511e20b48911d05fd95db68e1eb1daa67d8fcad0f7b706de90c0679426bc305fbd5b762a585828e943026c8aae020edae6365ed0e54230"
 		},
 		{
+			"name": "michael-stott",
+			"extension": "png",
+			"path": "src/michael-stott.png",
+			"hash": "8af08d428173add652dbdcb5d6915d3dc23f040925b6dc4da68424952c5f0dfc6ef54b0ec7cb73d86b1d3d4a1400d2743301a2a5570cadba1c7d926932b73265",
+			"url": "https://origami-images.ft.com/fthead/v1/michael-stott-8af08d428173add652dbdcb5d6915d3dc23f040925b6dc4da68424952c5f0dfc6ef54b0ec7cb73d86b1d3d4a1400d2743301a2a5570cadba1c7d926932b73265"
+		},
+		{
 			"name": "miles-johnson",
 			"extension": "png",
 			"path": "src/miles-johnson.png",
