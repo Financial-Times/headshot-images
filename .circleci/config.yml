@@ -1,30 +1,26 @@
-version: 2
+# Use the latest 2.1 version of CircleCI pipeline process engine.
+# See: https://circleci.com/docs/2.0/configuration-reference
+version: 2.1
 
-# Circle jobs
+# Define a job to be invoked later in a workflow.
+# See: https://circleci.com/docs/2.0/configuration-reference/#jobs
 jobs:
-  # Publish the image set to S3
-  publish:
+  say-hello:
+    # Specify the execution environment. You can specify an image from Dockerhub or use one of our Convenience Images from CircleCI's Developer Hub.
+    # See: https://circleci.com/docs/2.0/configuration-reference/#docker-machine-macos-windows-executor
     docker:
-      - image: circleci/node:10
+      - image: cimg/base:stable
+    # Add steps to the job
+    # See: https://circleci.com/docs/2.0/configuration-reference/#steps
     steps:
       - checkout
-      - run: git config --global user.email "origami.support@ft.com";
-      - run: git config --global user.name "origamiserviceuser [bot]";
-      - run: npm ci
       - run:
-          name: Authenticate with npm
-          command: echo "//registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}" > ${HOME}/.npmrc
-      - run: npm version --git-tag-version=false ${CIRCLE_TAG} && git push origin HEAD:master
-      - run: npm publish --access=public
+          name: "Say hello"
+          command: "echo Hello, World!"
 
-# Circle workflows
+# Invoke jobs via workflows
+# See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
-  version: 2
-  publish:
+  say-hello-workflow:
     jobs:
-      - publish:
-          filters:
-            branches:
-              ignore: /.*/
-            tags:
-              only: /v.*/
+      - say-hello
